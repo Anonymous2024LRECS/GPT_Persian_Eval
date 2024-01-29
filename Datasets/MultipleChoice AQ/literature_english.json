@@ -1,0 +1,1002 @@
+[
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''كدام كلمه جمع است'''\n\n    candidates:\n    '''[پهلوان,مازندران,يزدان,ديوان]'''\n\n    answer:\n  ",
+        "output": "ديوان"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''متضاد کلمات مورد سؤال چیست؟ رام'''\n\n    candidates:\n    '''[سرکش,بیباك,خشن,آشفته]'''\n\n    answer:\n  ",
+        "output": "سرکش"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''بزرگترین نسخ نویس ایرانی چه نام دارد؟'''\n\n    candidates:\n    '''[میر علی تبریزی,ابن مقله شیرازی,میرزا احمد تبریزی,هیچکدام]'''\n\n    answer:\n  ",
+        "output": "میر علی تبریزی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مفهوم کدام بیت با ابیات دیگر متفاوت است؟'''\n\n    candidates:\n    '''[یه هر غمی که رسد از تو خاطرم شاد است که بنده‌ی تو ز بند کدورت آزاد است,غم مخور ز آن که به یک حال نمانده است جهان شادی آید ز پی غصّه و غم از پی شر,به شادی دو جهانش نمی ‌توان دادن غمی که از تو نصیب دل غمین من است,غم تو را به نشاط جهان نخواهم داد من این خریده ی خود را به هیچ نفروشم]'''\n\n    answer:\n  ",
+        "output": "غم مخور ز آن که به یک حال نمانده است جهان شادی آید ز پی غصّه و غم از پی شر"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''متضاد کدر'''\n\n    candidates:\n    '''[درخشان,شفاف,زلال,صاف]'''\n\n    answer:\n  ",
+        "output": "شفاف"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''آرایه‌های بیت زیر، کدام‌اند؟\r\nای ز مژگان تو در چشم گلستان خارها    گل ز سودای رخت افتاده در بازارها»\r'''\n\n    candidates:\n    '''[تشبیه، پارادوکس، مراعات نظیر، تضاد,تشبیه، ایهام تناسب، کنایه، تشخیص, ایهام تناسب، اسلوب معادله، تشخیص، کنایه,ایهام، تهاد، اسلوب معادله، مراعات نظیر]'''\n\n    answer:\n  ",
+        "output": "تشبیه، ایهام تناسب، کنایه، تشخیص"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''« در چهار كلمه داده شده ، گزينه متفاوت با سه گزينه ديگر را مشخص نماييد .»'''\n\n    candidates:\n    '''[كسل كننده,خسته,خسته كننده,ملال آور]'''\n\n    answer:\n  ",
+        "output": "خسته"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مفرد كدام كلمه صحيح است'''\n\n    candidates:\n    '''[الوان : لون,حواس : احساس,اعضا: عضوها,الف وب]'''\n\n    answer:\n  ",
+        "output": "اعضا: عضوها"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام کتاب از آثار سنایی غزنوی نیست؟'''\n\n    candidates:\n    '''[کارنامه­­ بلخ,طریق ­التحقیق,خوان و اخوان,حدیقة­ التحقیق]'''\n\n    answer:\n  ",
+        "output": "خوان و اخوان"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''رابطه‌ی معمار با ساختمان مثل رابطه‌ی'''\n\n    candidates:\n    '''[تاجر است با تجارت,مدیر است با مدرسه,طراح است با لباس,کارگر است با کارگاه]'''\n\n    answer:\n  ",
+        "output": "طراح است با لباس"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام شخصیت ادبی، بزرگترین حماسه­ سرای یونان و جهان به شمار می­ آید؟'''\n\n    candidates:\n    '''[إشیل,اورپیپد,سوفوکل,هومر]'''\n\n    answer:\n  ",
+        "output": "هومر"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''منظور شاعر از « آسمان مثل یک تبسم شد » چیست ؟'''\n\n    candidates:\n    '''[شاد و خندان شد,خوشحال و صمیمی شد,صاف و روشن شد,ابری و گرفته شد]'''\n\n    answer:\n  ",
+        "output": "صاف و روشن شد"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''رابطه نقاش با تصویر مثل رابطه :'''\n\n    candidates:\n    '''[معلم با دانش آموز,مولف با کتاب,باغبان با گل ,رئیس با کارمند]'''\n\n    answer:\n  ",
+        "output": "مولف با کتاب"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''متضاد کلمات مورد سؤال چیست؟  طرد'''\n\n    candidates:\n    '''[جلب,جذب,پیوند,پشتیبانی]'''\n\n    answer:\n  ",
+        "output": "جلب"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''منظور از «خمیازه» در مصراع «لاله و گل زخمی خمیازه‌اند» چیست؟'''\n\n    candidates:\n    '''[بسته شدن,بویا شدن,پرپر شدن,شکفته شدن]'''\n\n    answer:\n  ",
+        "output": "شکفته شدن"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''رابطه چرتکه با کامپیوتر مثل رابطه ...... است با .....'''\n\n    candidates:\n    '''[شمشیر - بمب اتمی,پیه سوز - چراغ برقی,نقاشی -فیلم برداری,گاری - اتومبیل]'''\n\n    answer:\n  ",
+        "output": "شمشیر - بمب اتمی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''بیت زیر، با کدام بیت، قرابت مفهومی دارد؟\n«لاف از سخن چو در توان زد   آن خشت بود که پر توان زد»\n'''\n\n    candidates:\n    '''[ سخن را روی در صاحبدلان است    نگویند از حرم الا به محرم,چو یافوت باید سخن بی‌زبان   سبک سنگ لیکن بهایش گران,یاران سخن راست همین است که گفتم    در باغ جهان هرچه بکارید برآید, سخن پیش فرهنگیان سخته گوی    به هر کس نوازنده و تازه‌روی]'''\n\n    answer:\n  ",
+        "output": "چو یافوت باید سخن بی‌زبان   سبک سنگ لیکن بهایش گران"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام گزینه درباره­«شهیدبلخی»‌ صحیح نیست؟'''\n\n    candidates:\n    '''[پیش از فردوسی،عنوان «شاعرخرد»‌ برازنده­ اوست,دانش او فراوان و خطش زیبا بوده،با فلسفه و کلام نیز آشناییداشت.,بعضی از تألیفاتی که درزمینه­ فلسفه و کلاممنسوب به اوست،موجودند.,نوشته­اند که بامحمد زکریای رازیمناظره و گفت و گوداشته است.]'''\n\n    answer:\n  ",
+        "output": "بعضی از تألیفاتی که درزمینه­ فلسفه و کلاممنسوب به اوست،موجودند."
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در اساطیر ایران، مار مظهری است از ......'''\n\n    candidates:\n    '''[ضحاک,شجاعت,وحشت,اهریمن]'''\n\n    answer:\n  ",
+        "output": "اهریمن"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''معنی کدام گروه از واژه‌ها «همگی» درست است؟'''\n\n    candidates:\n    '''[(بارقه: اسب تندرو)، (درره: بسته),(نسق: روش)، (صائب: درست),(اساطیر: خدایان)، (آبزن: برکه آب),(آژنگ: چین و شکن مو)، (اعصار: دوران)]'''\n\n    answer:\n  ",
+        "output": "(نسق: روش)، (صائب: درست)"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''رمان «پدران و پسران» ‌اثرکیست؟'''\n\n    candidates:\n    '''[ارنست همینگوی,گلادکوف,ایوان تورگنیف,شولوخف]'''\n\n    answer:\n  ",
+        "output": "ایوان تورگنیف"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''زمان کدام جمله گذشته است ؟'''\n\n    candidates:\n    '''[زهرا می خواهد به مدرسه برود,عباس مدرسه رفت,مریم به مدرسه می رود,جوادوزهره به مدرسه خواهند رفت]'''\n\n    answer:\n  ",
+        "output": "عباس مدرسه رفت"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''كدام گزينه اسم وصفت نيست؟'''\n\n    candidates:\n    '''[پروردگار بي همتا,چاپلوسان ثنا گو,وزيران لايق,منادي آزادي]'''\n\n    answer:\n  ",
+        "output": "منادي آزادي"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''رابطه‌ی نجات با غریق مثل رابطه‌ی'''\n\n    candidates:\n    '''[مرهم است با زخم,بهبودی است با پرستار,درمان است با بیمار,شفا است با معجزه]'''\n\n    answer:\n  ",
+        "output": "درمان است با بیمار"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''از آرایه ی تکرار برای ..................... استفاده می شود .'''\n\n    candidates:\n    '''[تأکید,زیباسازی,تأثیرگذاری,همه موارد]'''\n\n    answer:\n  ",
+        "output": "همه موارد"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    ''' کدام کلمه با بقیه تفاوت دارد؟'''\n\n    candidates:\n    '''[آغاز,ابتدا,شروع,اتمام]'''\n\n    answer:\n  ",
+        "output": "اتمام"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    ''' رابطه‌ی کربن با الماس مثل رابطه‌ی:'''\n\n    candidates:\n    '''[ شبه فلز است با فلز,شیشه است با بلور,طلا است با پلاتین, تیره است با شفاف]'''\n\n    answer:\n  ",
+        "output": " تیره است با شفاف"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''« در چهار كلمه داده شده ، گزينه متفاوت با سه گزينه ديگر را مشخص نماييد .»'''\n\n    candidates:\n    '''[شامگاه,آنگاه,نگاه,بيگاه]'''\n\n    answer:\n  ",
+        "output": "نگاه"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''رابطه دقیقه با روز مثل رابطه'''\n\n    candidates:\n    '''[ماه است با سال,هفته است با سال,هواپیما است با نیرو,کشتی است با ملوان]'''\n\n    answer:\n  ",
+        "output": "ماه است با سال"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در كدام جمله صفت مبالغه بكار رفته است'''\n\n    candidates:\n    '''[درغم از دست دادن اوجگر خون شد,چهره ي همچون گلش شگفت,درب منزلش به روي همه باز است,قدر زر زرگر شناسد]'''\n\n    answer:\n  ",
+        "output": "درغم از دست دادن اوجگر خون شد"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''جمله « اوبه گردش می رود » به زمان مستقبل کدام است ؟'''\n\n    candidates:\n    '''[اوبه گردش رفته است,اودیروزبه گردش رفت,اوبه گردش می رفت,اوبه گردش خواهد رفت]'''\n\n    answer:\n  ",
+        "output": "اوبه گردش خواهد رفت"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مفهوم بیت: «روی کسی سرخ نشد، بی‌مدد لعل لبت    بی‌تو اگر سرخ بود از اثر غازه شود»، با کدام بیت متناسب است؟'''\n\n    candidates:\n    '''[همره عشق شو که یار این است    در پی عشق رو که کار این است,من از تو جز تو نخواهم که در طریقت عشق    به غم دوست تمنا ز دوست رسوایی است,سجده‌ی بت گر کنم در نظرم روی توست    قبله‌ی جانم تویی روی دلم سوی توست,سربلندی بین که دایم در سرم سودای اوست    قیمت هرکس به قدر همت والای اوست]'''\n\n    answer:\n  ",
+        "output": "من از تو جز تو نخواهم که در طریقت عشق    به غم دوست تمنا ز دوست رسوایی است"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام کلمه از نظر املایی غلط است ؟'''\n\n    candidates:\n    '''[مرحون,می درید,خدمت گذار,یا س]'''\n\n    answer:\n  ",
+        "output": "خدمت گذار"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''رابطه ي آرد با نان مثل رابطه ي:'''\n\n    candidates:\n    '''[گوشت است با کباب,پوست است با چرم,نخ است با پشم,پنبه است با پارچه]'''\n\n    answer:\n  ",
+        "output": "پوست است با چرم"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در کدام عبارت غلط املایی وجود دارد؟'''\n\n    candidates:\n    '''[فی‌الجمله مقبول نظر سلطان آمد که جمال صورت و معنی داشت. ابنای جنس او بر منصب او حسد بردند و به خیانتی متهم کردند.,ابلهی را دیدم سمین، خلعتی ثمین در بر و مرکبی تازی در زیر ران و غلامی از پی دوان.,یکی را از ملوک عجم حکایت کنند که دست تطاول به مال رعیت دراز کرده و جور و اذیت آغاز کرده، تا به جایی که خلق از مکاید فعلش برفتند و راه غربت گرفتند.,یکی از ملوک را مرضی حایل بود که اعادت ذکر آن ناکردن اولی.]'''\n\n    answer:\n  ",
+        "output": "یکی از ملوک را مرضی حایل بود که اعادت ذکر آن ناکردن اولی."
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''نهج‌البلاغه را چه کسی تدوین کرده است؟'''\n\n    candidates:\n    '''[فیض الاسلام,علامه امینی,سید رضی,شیخ مفید]'''\n\n    answer:\n  ",
+        "output": "سید رضی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام کلمه با سه کلمه دیگر هیچگونه مناسبتی ندارد؟'''\n\n    candidates:\n    '''[قنددان,خندان,گلدان,نمکدان]'''\n\n    answer:\n  ",
+        "output": "خندان"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مفهوم بیت زیر در کدام گزینه آمده است؟\n«سعدی از سرزنش خلق نترسد هیهات            غرقه در نیل چه اندیشه کند باران را؟»\n'''\n\n    candidates:\n    '''[گو خلق بدانند که من رندم و رسوا از رندی و بدنامی خود عار ندارم,بلبل از گل بگذرد چون در چمن بیند مرا بت‌پرستی کی کند گر برهمن بیند مرا,عشق چون آید برد هوش دل فرزانه را دزد دانا می‌کشد اول چراغ خانه را,سرکش مشو که چون شمع از غیرتت بسوزد دلبر که در کف او موم است سنگ خارا]'''\n\n    answer:\n  ",
+        "output": "گو خلق بدانند که من رندم و رسوا از رندی و بدنامی خود عار ندارم"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''همه گزینه‌ها جز گزینه ................ از جهتی همگون هستند.'''\n\n    candidates:\n    '''[ضیق و جرح,فضیلت و رذیلت,موجب و مقتضی,اکفا و اقران]'''\n\n    answer:\n  ",
+        "output": "فضیلت و رذیلت"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در کدام بیت، حذف فعل به قرینه معنوی وجود دارد؟'''\n\n    candidates:\n    '''[مردم از ترس خدا سجده رویت نکنند    بامدادت که ببینند و من از حیرانی,نه طریق دوستان است و نه شرط مهربانی     که به دوستان یکدل سر دست بر فشانی,کبر یک سو نه اگر شاهد درویشانی    دیو خوش طبع به از حور گره پیشانی,نفسی بنده‌نوازی کن و بنشین ار چند    آتشی نیست که او را به دمی بنشانی]'''\n\n    answer:\n  ",
+        "output": "کبر یک سو نه اگر شاهد درویشانی    دیو خوش طبع به از حور گره پیشانی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''با افزودن تکواژ گذرا ساز «ان» به بن مضارع مصدرهای «ترسیدن، پریدن، دویدن، چسبیدن، رهیدن، پوشیدن، چشیدن» چند فعل گذرا به مفعول و متمم، ساخته می‌شود؟'''\n\n    candidates:\n    '''[سه,چهار,پنج,شش]'''\n\n    answer:\n  ",
+        "output": "پنج"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''كدام عنصر زيبائي سخن دراين عبارت بكار رفته است غنچه با دل گرفته گفت زندگي لب زخنده بستن است گل به خنده گفت زندگي شكفتن است'''\n\n    candidates:\n    '''[تشبيه,مناظره,مبالغه,كنايه]'''\n\n    answer:\n  ",
+        "output": "تشبيه"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''همه گزینه‌ها جز گزینه ............... همگون هستند.'''\n\n    candidates:\n    '''[ نکوهش,روش,پوزش,کرنش]'''\n\n    answer:\n  ",
+        "output": "کرنش"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''بیت: « بدین زور و زر دنیا، چو بی‌عفلان، مشو غرّه          که این آن نوبهاری نیست کش بی‌مهرگان بینی»، با کدام بیت ارتباط مفهومی ندارد؟'''\n\n    candidates:\n    '''[غره مشو بدان که جهانت عزیز کرد  ای بس عزیز کرده‌ی خود را که کرد خوار,به خاک بر مرو ای آدمی به نخوت و ناز  که زیر پای تو همچون تو آدمی زاد است,ایا سرگشته‌ی دنیا مشو غرّه به مهر او  که بس سرکش که اندر گور خشتی زیر سر دارد,حافظ افتادگی از دست مده زان که حسود  عرض و مال و دل و دین، در سر مغروری کرد]'''\n\n    answer:\n  ",
+        "output": "حافظ افتادگی از دست مده زان که حسود  عرض و مال و دل و دین، در سر مغروری کرد"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''« در چهار كلمه داده شده ، گزينه متفاوت با سه گزينه ديگر را مشخص نماييد .»'''\n\n    candidates:\n    '''[فاتح,فتحه,مفتوح,افتتا ح]'''\n\n    answer:\n  ",
+        "output": "فتحه"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام گزینه از آثارناصرخسرو نیست؟'''\n\n    candidates:\n    '''[زادالعارفین,خوان واخوان,جام ­الحکمتین,سفرنام]'''\n\n    answer:\n  ",
+        "output": "زادالعارفین"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''رابطه وزارت با ترازو مانند رابطه ........ با بیرق؟'''\n\n    candidates:\n    '''[درفش,نزدیک,پرچم,بلندی]'''\n\n    answer:\n  ",
+        "output": "نزدیک"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''عنوان «شاعر شادمانی وطبیعت» ‌معرف کیست؟'''\n\n    candidates:\n    '''[معزی,فرخی,منوچهری,عنصری]'''\n\n    answer:\n  ",
+        "output": "منوچهری"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''سروده زیر، با کدام بیت، قرابت مفهومی دارد؟ «جهان، قرآن مصور است و  آیه‌ها در آن به جای آن‌که بنشینند، ایستاده‌اند.»'''\n\n    candidates:\n    '''[عروس حضرت قرآن نقاب آنگه براندازد   که دارالملک ایمان را مجرد بیند از غوغا,سعدی شیرین سخن این همه شور از کجاست   شاهد ما آیتی است و این همه تفسیر او,پیش عارف که ز اوراق جهان حسن تو دید   مصحف روی تو را جمله جهان آیات است,جهان آینه است و در او هر چه بینی   خیالی است ناپایدار و مزور]'''\n\n    answer:\n  ",
+        "output": "پیش عارف که ز اوراق جهان حسن تو دید   مصحف روی تو را جمله جهان آیات است"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مفهوم حدیث «العالم محضر الله لا تعصوا فی محضره.»از کدام بیت بر می‌آید؟'''\n\n    candidates:\n    '''[صبح امید که به معتکف پرده‌ی غیب گو برون آی که کار شب تار آخر شد,گم مشو از حضرت و جا را ببین دل به حضور آر خدا را ببین,از دست غیبت تو شکایت نمی‌کنم تا نیست غیبتی نبود لذت حضور,بر افکن برقع (نقاب) از محراب جمشید که حاجتمند برقع نیست خورشید]'''\n\n    answer:\n  ",
+        "output": "گم مشو از حضرت و جا را ببین دل به حضور آر خدا را ببین"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''رابطه ي آشکار با پنهان مثل رابطه ي:'''\n\n    candidates:\n    '''[معلوم است با مجهول,روز است با شب,روشن است با تاریک,خیر است با شر]'''\n\n    answer:\n  ",
+        "output": "معلوم است با مجهول"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''نمایشنامه ای که در آن مسائل خنده آور با قسمتهای غم انگیز در هم آمیخته شده باشد چه نام دارد؟'''\n\n    candidates:\n    '''[کمدی,تراژدی,فانتزی,درام]'''\n\n    answer:\n  ",
+        "output": "درام"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''بیت «بگفتا گر نیابی سوی او راه     بگفت از دور شاید دید در ماه» با همه‌ی ابیات به جز بیت ........ تناسب دارد.'''\n\n    candidates:\n    '''[گر چه در چشم تو مقدار ندارم لیکن    اینقدر هست که درویش سر کوی توام,گر بر ندارم از سر زلف تو دست شوق  عیبم مکن که تازه به دولت رسیده‌ام, گر نشاید به دوست ره بردن     شرط یساری است در طلب مردن  ,گر دست رسد که آستینش گیرم    ور نه بروم بر آستانش میرم]'''\n\n    answer:\n  ",
+        "output": "گر بر ندارم از سر زلف تو دست شوق  عیبم مکن که تازه به دولت رسیده‌ام"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''انجام دادن چنین کاری ظریف و دقیق، آن هم بوسیله‌ی فردی ................. بعید به نظر می‌رسد'''\n\n    candidates:\n    '''[خشن,کودن,فرومایه,حقیر]'''\n\n    answer:\n  ",
+        "output": "کودن"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در متن زیر چند فعل وجود دارد ؟ ( دو کس رنج بیهوده بردند و سعی بی فایده کردند )'''\n\n    candidates:\n    '''[3,2,4,1]'''\n\n    answer:\n  ",
+        "output": "2"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''بیت زیر با کدام بیت تناسب مفهومی دارد؟\n«تا نگردی آشنا زین پرده رمزی نشنوی         گوش نامحرم نباشد جای پیغام سروش»\n'''\n\n    candidates:\n    '''[آشنایی‌های آن بیگانه‌پرور بین که من می‌خورم در آشنایی حسرت بیگانه را,دعوت عشق ز هر بلهوسی می‌آید دست بر سر زدن از هر مگسی می‌آید,نیست پروا تلخ‌کامان را ز تلخی‌های عشق آب دریا در مذاق ماهی دریا خوش است,حرف از صفای سینه مگو پیش زاهدان  آیینه پیش طلعت این زنگیان مگیر]'''\n\n    answer:\n  ",
+        "output": "حرف از صفای سینه مگو پیش زاهدان  آیینه پیش طلعت این زنگیان مگیر"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''كدام فعل مركب نيست؟'''\n\n    candidates:\n    '''[ايمان آورد,تصميم گرفت,دل بست,خشمگين شد]'''\n\n    answer:\n  ",
+        "output": "خشمگين شد"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در بیت « نگردد شاخک بی بن برومند    ز تو سعی و عمل باید ز من پند » کلمات قافیه کدامند ؟'''\n\n    candidates:\n    '''[بن – من,برومند - پند,بی بن برومند – ز من پند,مند- پند]'''\n\n    answer:\n  ",
+        "output": "برومند - پند"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''كدام مصراع تشبيه وجود دارد'''\n\n    candidates:\n    '''[چو رستم بديدش برانگيخت اسب,بينداخت چون باد خم كمند,خروشيد وجوشيد بركند زخاك,هر گلي وبرگي كه هست ياد خدا مي كند]'''\n\n    answer:\n  ",
+        "output": "بينداخت چون باد خم كمند"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''متضاد شیفته'''\n\n    candidates:\n    '''[نومید,دلسرد,بی‌قرار,بیزار]'''\n\n    answer:\n  ",
+        "output": "بیزار"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    ''' در عبارت زیر، چند وابسته پیشین و پسین، به‌ترتیب، وجود دارد؟\r\n«دلم می‌خواست این نغمه آسمانی را همه بشنوند همان کلمات شورانگیز که از داناترین استاد جهان شنیدم. کاش\r\nمی‌شد یک لحظه همه را آشنا سازم.»\r'''\n\n    candidates:\n    '''[سه، پنج,چهار، سه,چهار، چهار,پنج، چهار]'''\n\n    answer:\n  ",
+        "output": "چهار، چهار"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام یک از شاعران معاصر در تحول شعر فارسی نقش اساسی داشته است؟'''\n\n    candidates:\n    '''[نیما یوشیج,شهریار,سهراب سپهری,مهدی اخوان ثالث]'''\n\n    answer:\n  ",
+        "output": "نیما یوشیج"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در کدام گزینه، همه‌ی واژه‌های مرکب، در حقیقت فشرده‌ی یک جمله‌ی سه‌جزئی با مفعول است؟'''\n\n    candidates:\n    '''[گلاب‌پاش- مداد پاک کن- گل‌گیر- قلم‌تراش,لاک‌پشت- چهارراه - دست‌برد- نوروز,درازدست- مادرزن- آب‌کش- کتاب‌خانه,مهمان‌سرا- رهاورد- کارکرد- بنیان‌گذار]'''\n\n    answer:\n  ",
+        "output": "گلاب‌پاش- مداد پاک کن- گل‌گیر- قلم‌تراش"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''از نطر فکر و زبان وجلوه­های شعری، ابوشکور بلخی حد وسط کدام شاعران نامدار به شمار می­رود؟'''\n\n    candidates:\n    '''[فردوسی و ناصرخسرو,کسایی و فردوسی,عنصری و ناصر خسرو,رودکی و فردوسی]'''\n\n    answer:\n  ",
+        "output": "رودکی و فردوسی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''امروزه از کدام خط بعنوان خط قرآنی استفاده می شود؟'''\n\n    candidates:\n    '''[کوفی,نسخ,ثلث,نستعلیق]'''\n\n    answer:\n  ",
+        "output": "نستعلیق"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''هر کس مرتکب اعمال خلاف قانون شود، باید .......... شود'''\n\n    candidates:\n    '''[توقیف,مجازات,زندانی,تبعید]'''\n\n    answer:\n  ",
+        "output": "مجازات"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''معنی واژه‌های «مضغ، لابه، عقار، لطیفه» به‌ترتیب کدام است؟'''\n\n    candidates:\n    '''[بلعیدن- تضرع- زمین زراعی- نکته‌ی باریک,جویدن- تضرع- آب و زمین- گفتار نغز,فرو بردن- عجز و ناتوانی- آب و زمین- ظریف و باریک,آسیا کردن غذا در زیر دندان- التماس- کشت‌زار- نغز و شیرین]'''\n\n    answer:\n  ",
+        "output": "جویدن- تضرع- آب و زمین- گفتار نغز"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''رابطه‌ی انتقام با عفو مثل رابطه‌ی:'''\n\n    candidates:\n    '''[کینه است با محبت,الم است با لذت,قصاص است با جبران,تلافی است با گذشت]'''\n\n    answer:\n  ",
+        "output": "تلافی است با گذشت"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''تابلو مبدان کربلا اثر کیست؟'''\n\n    candidates:\n    '''[کمال الملک,میر عماد,غلامرضا اصفهانی,هیچکدام]'''\n\n    answer:\n  ",
+        "output": "کمال الملک"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در عصر انوریقالبه ایعمده­ ی شعرکدامند؟'''\n\n    candidates:\n    '''[قصیده و ترکیببند,قصیده و غزل,غزل و رباعی,قطعه و قصیده]'''\n\n    answer:\n  ",
+        "output": "غزل و رباعی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام بیت با بیت زیر، قرابت مفهومی دارد؟\r\n«چه باید نازش و نالش بر اقبالی و ادباری    که تا بر هم زنی دیده نه این بینی نه آن بینی»\r\n'''\n\n    candidates:\n    '''[چگونه بر تو نلرزم ز هر طرف که درآیی    هزار دیده خونبار در قفای تو باشد, بر پنج روز نیکویی چندین مناز و بد مکن     تا چشم را بر هم زنی بینی که پایان در رسد,گر نگاه گرم سوی خاکساری کرده‌ای    چشم چون بر هم نهی شمع مزارت می‌شود,عافیت می‌بایدت چشم از نکورویان بدوز  عشق می‌ورزی بساط نیکنامی درنورد]'''\n\n    answer:\n  ",
+        "output": " بر پنج روز نیکویی چندین مناز و بد مکن     تا چشم را بر هم زنی بینی که پایان در رسد"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام گزینه از زمینه‌های اصلی شعر حماسی نیست؟'''\n\n    candidates:\n    '''[بیان واقعیت,خرق عادت,قهرمانی,ملی]'''\n\n    answer:\n  ",
+        "output": "بیان واقعیت"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''«اورند» به کدام معنی نیامده است؟'''\n\n    candidates:\n    '''[سپاه و لشکر,حیله و فریب, شأن و شوکت,فر و شکوه]'''\n\n    answer:\n  ",
+        "output": "حیله و فریب"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''رابطه ستون با سقف مانند رابطه :'''\n\n    candidates:\n    '''[تیر آهن است با سیمان,درخت است با ریشه,دیرک است با چادر,بدن است با پا]'''\n\n    answer:\n  ",
+        "output": "دیرک است با چادر"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''تولد نثر پارسی راباید درآغاز کدام عصر دانست؟'''\n\n    candidates:\n    '''[عصر رودکی,عصر فردوسی,عصر عنصری,عصر ناصرخسرو]'''\n\n    answer:\n  ",
+        "output": "عصر فردوسی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''متضاد کلمات مورد سؤال چیست؟ توزیع '''\n\n    candidates:\n    '''[گردآوري,پیوستگی,دسته بندي,ترکیب]'''\n\n    answer:\n  ",
+        "output": "گردآوري"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''نسبت واژه «وا» به «نانوا» مانند نسبت ............. است.'''\n\n    candidates:\n    '''[نوا به بینوا,خدا به ناخدا,دهخدا به کدخدا,صدا به بیصدا]'''\n\n    answer:\n  ",
+        "output": "دهخدا به کدخدا"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدامیک از واژه های زیر با بقیه متفاوت است؟'''\n\n    candidates:\n    '''[اصرار,ابزار,ابراز,امرار]'''\n\n    answer:\n  ",
+        "output": "ابزار"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''عبارات زیر، با کدام بیت قرابت مفهومی دارد؟\r\n«گفت: به خاطر داشتم که چون به درخت گل رسم، دامنی پر کنم هدیه اصحاب را چون برسیدم، بوی گلم چنان مست\r\nکرد که دامنی از دست برفت.»\r'''\n\n    candidates:\n    '''[ هر کجا برو قدی چهره چو یوسف بنمود    عاشقی سوخته خرمن چو زلیخا برخاست, هر کسی بی‌خویشتن جولان عشقی می‌کند     تا به چوگان که درخواهد فتادن گوی دوست,صورت یوسف، نادیده صفت می‌کردم   چون بدیدیم زبان سخن از کار برفت,تو با این مردم کوته‌نظر در چاه کنعانی    به مصر ، تا پدید آیند یوسف را خریداران]'''\n\n    answer:\n  ",
+        "output": "صورت یوسف، نادیده صفت می‌کردم   چون بدیدیم زبان سخن از کار برفت"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''نهاد  در مصراع  اول بيت زير كدام است \nرشته اي درگردنم افكنده دوست \nمي برد آن جا كه خاطر خواه اوست'''\n\n    candidates:\n    '''[رشته اي,گردنم,افكنده,دوست]'''\n\n    answer:\n  ",
+        "output": "دوست"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''رابطه‌ی جزیره با اقیانوس مثل رابطه‌ی:'''\n\n    candidates:\n    '''[مرکز است با محیط,صفر است با بی نهایت,نقطه است با سطح, زمین است با فضا]'''\n\n    answer:\n  ",
+        "output": "نقطه است با سطح"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مفهوم کدام بیت، با سایر ابیات تفاوت دارد؟'''\n\n    candidates:\n    '''[اگر پای در دامن آری و کوه    سرت ز آسمان بگذرد در شکوه, تا برده‌ایم سر به گریبان ربوده‌ایم    گوی سعادت از خسم چوگان روزگار,چو کوه خاطر آسوده ران گروه طلب    که پای خویش به دامن کشیده‌اند امروز, پای در دامن قناعت گش    تا نسوزی به آتش تک و تاز]'''\n\n    answer:\n  ",
+        "output": " پای در دامن قناعت گش    تا نسوزی به آتش تک و تاز"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در باره ي جمله ي از هفت خوان رستم گذشته است . كدام مورد زير درست است'''\n\n    candidates:\n    '''[كنايه,مبالغه,تشبيه,ضرب المثل]'''\n\n    answer:\n  ",
+        "output": "كنايه"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''« گفتمان » به چه معنی است؟'''\n\n    candidates:\n    '''[مترادف گفتگوست,ناظر به کنش غیر خشونت آمیز است.,ناظر به نسبت میان قدرت و دانش است.,فرهنگ مسلّط در یک جامعه دموکراتیک است.]'''\n\n    answer:\n  ",
+        "output": "ناظر به کنش غیر خشونت آمیز است."
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''رابطه‌ی شیر با جنگل مثل رابطه‌ی'''\n\n    candidates:\n    '''[سرباز است با پادگان,اتوبوس است با ایستگاه,هواپیما است با آسمان,کشتی است با بندر]'''\n\n    answer:\n  ",
+        "output": "هواپیما است با آسمان"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدامیک از کلمات زیر در ردیف سه کلمه ی « فلفل ، زرد چوبه ، هل» قرار دارند؟'''\n\n    candidates:\n    '''[اسپند,کندر,دارچین,عود]'''\n\n    answer:\n  ",
+        "output": "دارچین"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مصراع «همی خاک نعلش برآمده به ماه» بیانگر کدام مفهوم است؟'''\n\n    candidates:\n    '''[سرعت,تیرگی,عروج,شهرت]'''\n\n    answer:\n  ",
+        "output": "سرعت"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''همه گزینه‌ها جز گزینه .............. از جهتی همگون هستند.'''\n\n    candidates:\n    '''[راز مگو,اسب برو,دست بزن,آدم نرو]'''\n\n    answer:\n  ",
+        "output": "راز مگو"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''نخستین قصیده­ های منتخب و مرثیه را در دیوان کدام شاعر می­توان یافت؟'''\n\n    candidates:\n    '''[قوامی رازی,محتشم کاشانی,کسایی مروزی,خاقانی شروانی]'''\n\n    answer:\n  ",
+        "output": "کسایی مروزی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام کلمه ی زیر در  لغت نامه ، قبل از  سه کلمه ی دیگر می آید؟'''\n\n    candidates:\n    '''[مشغول,مخصوص,مسیر,یگانه]'''\n\n    answer:\n  ",
+        "output": "مخصوص"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''متضاد کلمات مورد سؤال چیست؟ بی باک'''\n\n    candidates:\n    '''[ناتوان,ترسو,رادمرد,دلیر]'''\n\n    answer:\n  ",
+        "output": "ترسو"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''متضاد کلمات مورد سؤال چیست؟ شاداب '''\n\n    candidates:\n    '''[کامل, بیمار,پژمرده,ترشرو]'''\n\n    answer:\n  ",
+        "output": "پژمرده"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''كدام گزينه با بقيه متفاوت است'''\n\n    candidates:\n    '''[قالب ،غالب,غذا ، غزا,اثاث واساس,خوان ، خار]'''\n\n    answer:\n  ",
+        "output": "خوان ، خار"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''همه گزینه‌ها جز گزینه ................... از جهتی همگونی دارند'''\n\n    candidates:\n    '''[ نثر و نسر,عصیر و اسیر,زهر و ظهر,صواب و ثواب]'''\n\n    answer:\n  ",
+        "output": "زهر و ظهر"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در کدام بیت «تشبیه و استعاره» هر دو، وجود دارد؟'''\n\n    candidates:\n    '''[پشت هر شادی غمی بنهفته بنگر که آسمان   ابر گریان دارد و خورشید خندان نیز هم,ز زبان سوسن آزاده‌ام آمد به گوش    کاندر این دیر کهن کار سبکباران خوش است,به تولای تو در آتش محنت چو خلبل    گوییا در چمن لاله و ریحان بودم,شکر بر خویشتن خندد گر آن ماه    به شکر خنده بگشاید دهان را]'''\n\n    answer:\n  ",
+        "output": "شکر بر خویشتن خندد گر آن ماه    به شکر خنده بگشاید دهان را"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''موضوع «روض­ الجنان» چیست؟'''\n\n    candidates:\n    '''[مرثیه,کلام,حدیث,تفسیر]'''\n\n    answer:\n  ",
+        "output": "تفسیر"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کتاب « ارغنون » اثر کیست؟'''\n\n    candidates:\n    '''[ فروغ فرخزاد,سهراب سپهری,مهدی اخوان ثالث,نیما یوشیج]'''\n\n    answer:\n  ",
+        "output": "مهدی اخوان ثالث"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام ترکیب مناسبت کمتری با بقیه دارد؟'''\n\n    candidates:\n    '''[قاضی و مغضوب,سائل و مسئول,قاصد و مقصود,حاصل و محصول]'''\n\n    answer:\n  ",
+        "output": "قاضی و مغضوب"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''متضاد کلمات مورد سؤال چیست؟ بدرقه '''\n\n    candidates:\n    '''[خوشآمد,استقبال,تهنیت,تعارف]'''\n\n    answer:\n  ",
+        "output": "استقبال"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در گدام بیت، «جهش ضمیر» به چشم می‌خورد؟'''\n\n    candidates:\n    '''[ما را به آب دیده شب و روز ماجراست    زان رهگذر که بر سر کویش چرا رود,طرب سرای محبت کنون شود معمور    که طاق ابروی یار منش مهندس شد,نسیم زلف تو چون بگذرد به تربت حافظ    ز خاک کالبدش صد هزار لاله برآید,من این دلق مرقع را بخواهم سوختن روزی    که پیر می‌فروشانش به جامی بر نمی‌گیرد]'''\n\n    answer:\n  ",
+        "output": "طرب سرای محبت کنون شود معمور    که طاق ابروی یار منش مهندس شد"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام کلمه با سه کلمه دیگر تفاوت دارد؟'''\n\n    candidates:\n    '''[حشره,زنبور,مگس,مورچه]'''\n\n    answer:\n  ",
+        "output": "حشره"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در واقع کدام شاعر راباید پیشوای فردوسی در نظم داستانهای ملی دانست؟'''\n\n    candidates:\n    '''[کسایی,اسدی,عنصری,دقیقی]'''\n\n    answer:\n  ",
+        "output": "دقیقی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در جمله ي زير وجه شبه كدام گزينه است \n\"شهدا خورشيدند\"'''\n\n    candidates:\n    '''[شهدا,خورشيد,درخشندگي,مثل]'''\n\n    answer:\n  ",
+        "output": "درخشندگي"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''بیشتر هنرمندان خوشنویس معاصر ، پیرو شیوه ی ............. هستند.'''\n\n    candidates:\n    '''[میر عماد,کلهر,میر علی تبریزی,الف و ب]'''\n\n    answer:\n  ",
+        "output": "میر عماد"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''متضاد کلمات مورد سؤال چیست؟ طرد'''\n\n    candidates:\n    '''[جلب,جذب,پیوند,پشتیبانی]'''\n\n    answer:\n  ",
+        "output": "جلب"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''املای کدام مورد درست است؟'''\n\n    candidates:\n    '''[سابغه,عضمت,برگذار,قدرت]'''\n\n    answer:\n  ",
+        "output": "قدرت"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''نویسندگان «دوزخیان روی زمین، مردی که می‌خندد، لاله‌ی سیاه، مراتع بهشتی» به‌ترتیب خالق آثار ............... نیز هستند.'''\n\n    candidates:\n    '''[رامایانا- آدم‌ها و خرچنگ‌ها- موش‌ها و آدم‌ها- بینوایان,واپسین دم استعمار- بینوایان- سه تفنگدار- خوشه‌های خشم,تاریخ فردریک کبیر- کنت مونت کریستو- آدم‌ها و خرچنگ‌ها- سه تفنگدار,کارگران- سال پنجم الجزایر- گوژپشت نتردام- موش‌ها و آدم‌ها]'''\n\n    answer:\n  ",
+        "output": "واپسین دم استعمار- بینوایان- سه تفنگدار- خوشه‌های خشم"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام اثر را می­توان«نقطعه آغاز نثر دینی به زبان پارسی» به شمارآورد؟'''\n\n    candidates:\n    '''[تفسیر قرآنمجید، معروف بهتفسیر کمبریج,کشف المحجوب,ترجمه­ی تفسیر طبری,کشف الاسرار]'''\n\n    answer:\n  ",
+        "output": "ترجمه­ی تفسیر طبری"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''متضاد کلمات مورد سؤال چیست؟ کدر'''\n\n    candidates:\n    '''[درخشان,شفاف,زلال,صاف]'''\n\n    answer:\n  ",
+        "output": "شفاف"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''رابطه‌ی نجات با غریق مثل رابطه‌ی:'''\n\n    candidates:\n    '''[مرهم است با زخم,بهبودی است با پرستار,درمان است با بیمار,شفا است با معجزه]'''\n\n    answer:\n  ",
+        "output": "درمان است با بیمار"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''جمله­ معروف «‌من می­ اندیشم، پیش هستم.» ازکیست؟'''\n\n    candidates:\n    '''[بنه کارت,فرانسیس بیکن,نیچه,ولتر]'''\n\n    answer:\n  ",
+        "output": "بنه کارت"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''درمصراع « زکوشش به هرچیز خواهی رسید» فعل چندم شخص است ؟'''\n\n    candidates:\n    '''[سوم شخص مفرد,دوم شخص مفرد,سوم شخص جمع,دوم شخص جمع]'''\n\n    answer:\n  ",
+        "output": "دوم شخص مفرد"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام کلمه،غلط معنی شده است؟'''\n\n    candidates:\n    '''[اهتزار:جنبش,اهتمام:کوشش,احتزار:دوری کردن,نکوهیده:پسندیده]'''\n\n    answer:\n  ",
+        "output": "نکوهیده:پسندیده"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''رابطه شهر با ده مثل رابطه'''\n\n    candidates:\n    '''[تمدن است با توحش,آپارتمان است با کلبه,پلاستیک است با چرم,سینما است با تئاتر]'''\n\n    answer:\n  ",
+        "output": "آپارتمان است با کلبه"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در عبارت: «زمان ما نیز، عصر دانشوران خبیر و دل‌آگاه در قلمرو مطالعات تخصصی است و ادبیات هم چون دیگر دانش‌ها، امروز به شاخه‌های گوناگون و رشته‌های متعدد و مستقل دقیقا به صورتی تقسیم شده است که هر یک به آسانی می‌تواند همه‌ی عمر کوتاهی را که نصیب هر یک از ماست ویژه‌ی خود سازد بدون آن‌که تشنگی‌مان را برای دست‌یابی به معرفت ژرف‌تر فرو نشاند.» به‌ترتیب چند واژه‌ی مرکب و چند واژه‌ی مشتق- مرکب وجود دارد؟'''\n\n    candidates:\n    '''[دو - دو,دو- سه,سه- دو,سه - سه]'''\n\n    answer:\n  ",
+        "output": "دو - دو"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام کلمه به علتی با بقیه متفاوت است؟'''\n\n    candidates:\n    '''[غارت,چپاول,دزدي,تاراج]'''\n\n    answer:\n  ",
+        "output": "دزدي"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''كدام واژه ها  باهم مترادف نيستند'''\n\n    candidates:\n    '''[عظمت وبزرگي,فراز وفرود,تلاش وكوشش,شكوه وشوكت]'''\n\n    answer:\n  ",
+        "output": "فراز وفرود"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''دگمه به زیپ، مثل'''\n\n    candidates:\n    '''[ نخ است به سوزن ,سوزن لباس است به پارچه,روغن نباتی است به کره,ویتامین است به بهداشت]'''\n\n    answer:\n  ",
+        "output": "روغن نباتی است به کره"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''نثر کدام آثار ادبی، به‌ترتیب، «مسجع و فنی»، «ساده» و «مصنوع و متکلف» است؟'''\n\n    candidates:\n    '''[گلستان، قابوس‌نامه، کلیله و دمنه,مناجات‌نامه، تاریخ بلعمی، سیاست‌نامه,کلیله و دمنه، سیاست‌نامه، تاریخ وصاف,مرزبان‌نامه، کشف‌المحجوب، تاریخ جهانگشای جوینی]'''\n\n    answer:\n  ",
+        "output": "کلیله و دمنه، سیاست‌نامه، تاریخ وصاف"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''كدام گزينه تركيب اضافي است'''\n\n    candidates:\n    '''[برگ سبز,انسان دانا,بازيهاي المپيك,پسر شجاع]'''\n\n    answer:\n  ",
+        "output": "بازيهاي المپيك"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''سرآینده بیت زیر کیست و درباره­ چه کسی است؟اشعار زهد و پند بس گفته است / آن تیره چشم شاعرروشن بین'''\n\n    candidates:\n    '''[شهید بلخی /ابوشکور بلخی,ناصر خسرو / رودکی,عنصری / کسایی,رودکی / شهیدبلخی]'''\n\n    answer:\n  ",
+        "output": "ناصر خسرو / رودکی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام یک از چهار پاسخ زیر باید حذف شود، تا سه پاسخ دیگر از جهتی دریک طبقه قرار گیرند؟'''\n\n    candidates:\n    '''[دور - رود,موش - شوم,قمر - رقم,روز - زور]'''\n\n    answer:\n  ",
+        "output": "قمر - رقم"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''متضاد کلمات مورد سؤال چیست؟ ممانعت '''\n\n    candidates:\n    '''[ تسهیل,تجویز,تسریع,ترغیب]'''\n\n    answer:\n  ",
+        "output": "تجویز"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''كتاب  مثنوي مولوي در چه قالبي سروده شده است'''\n\n    candidates:\n    '''[مثنوي,دوبيتي,رباعي,قطعه]'''\n\n    answer:\n  ",
+        "output": "دوبيتي"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مهمترین و طولانی ترین بخش شاهنامه کدام است؟'''\n\n    candidates:\n    '''[بخش اساطیری,بخش پهلوانی,بخش تارخی,هیچکدام]'''\n\n    answer:\n  ",
+        "output": "بخش پهلوانی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''كدام گزينه مفهوم ضرب المثل\" زبان سرخ سر سبز مي دهد به باد \"است'''\n\n    candidates:\n    '''[پرحرفي كردن,با ادب بودن,اختيار داري زبان,شاد بودن]'''\n\n    answer:\n  ",
+        "output": "پرحرفي كردن"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مفهوم بیت زیر با کدام بیت ارتباط ندارد؟\n«نسوزد جان من یک‌باره در تاب         که امیدت زند گه‌گه بر او آب»\n'''\n\n    candidates:\n    '''[چو امید دادی نباشم به درد که امید نیکو به از پیش خورد,هنوز با همه دردم امید درمان است که آخری بود آخر شبان یلدا را,بدین امید به سر شد دریغ عمر عزیز امید نیست که عمر گذشته باز آید,چو یعقوبم ار دیده گردد سپید نبرم ز دیدار یوسف امید]'''\n\n    answer:\n  ",
+        "output": "بدین امید به سر شد دریغ عمر عزیز امید نیست که عمر گذشته باز آید"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''لباس به کمد مثل ........... است به'''\n\n    candidates:\n    '''[پا -قالی,بازیگر - سناریو,جوهر - قلم,واکس - کفش]'''\n\n    answer:\n  ",
+        "output": "جوهر - قلم"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''از هنر گرافیک در چه مواردی استفاده می شود؟'''\n\n    candidates:\n    '''[سردر مساجد و مکانهای زیارتی,پیام رسانی تصویری و ارتباط فرهنگی,فقط صفحه آرایی,طراحی صنعتی و روزنامه نویسی]'''\n\n    answer:\n  ",
+        "output": "پیام رسانی تصویری و ارتباط فرهنگی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''عبارات زیر، با همه ابیات قرابت مفهومی دارد؛ به‌جز:\r\n«آن روزش بکشتند و دیگر روز بسوختند و سوم روزش به باد بردادند؛ یعنی، عشق این است.»\r'''\n\n    candidates:\n    '''[ به آب تیغ خون عاشقان از جوش ننشیند    همان گل‌بانگ وحدت از لب منصور می‌بارد,چون اوحدی در کوی دل تا من شنیدم بوی دل    هرجا که کردم روی دل پیروز و منصور آمدم, با اهل فنا دارد هرکس سر یکرنگی    باید که به رنگ شمع از رفتن سر خندد,شد سر منصور آخر گوی چوگان فنا    میوه چون شد پخته خود را از شجر می‌افکند]'''\n\n    answer:\n  ",
+        "output": "چون اوحدی در کوی دل تا من شنیدم بوی دل    هرجا که کردم روی دل پیروز و منصور آمدم"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''عبارت « حرم دل او را آرام می کرد و مدرسه اندیشه اش را » در توصیف چه کسی است ؟'''\n\n    candidates:\n    '''[دکتر حسابی,امام خمینی,علامه جعفری,شهید بهشتی]'''\n\n    answer:\n  ",
+        "output": "علامه جعفری"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مفهوم کدام بیت، با سایر ابیات متفاوت است؟'''\n\n    candidates:\n    '''[چهره را از عشق خوبان ارغوانی کرده‌ایم    شوخ چشمی بین که در پیری جوانی کرده‌ایم,پیری به رخ ما خط از آن رو کشیده است   تا خوانی از این خط که ز دنیا چه کشیدبم, پبری آن نیست که بر سر بزند موی سپید    هر جوانی که به سر عشق ندارد پیر است,هر چند پیر و خسته دل و ناتوان شدم    هرگه که یاد روی تو کردم جوان شدم]'''\n\n    answer:\n  ",
+        "output": "پیری به رخ ما خط از آن رو کشیده است   تا خوانی از این خط که ز دنیا چه کشیدبم"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مفهوم کدام بیت با سایر ابیات، تفاوت دارد؟'''\n\n    candidates:\n    '''[ چون آفتاب اگر سر ما بگذرد ز چرخ    افتادگی برون نرود از سرشت ما,به دستگیری افلاک احتیاجی نیست  کلیم وقتم و افتادگی عصای من است,باشد نشان پختگی افتادگی کلیم    آن میوه نارس است که بر دار مانده است,گوهر افتاده‌ام در نظر غافلان    هرکه ز راهی رسد بر سر من پانهد]'''\n\n    answer:\n  ",
+        "output": "گوهر افتاده‌ام در نظر غافلان    هرکه ز راهی رسد بر سر من پانهد"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''همه آثار زیر، بجز ......، جزو منظومه‌های حماسی طبیعی و ملی است.'''\n\n    candidates:\n    '''[انه‌اید,رامایانا,گرشاسب‌نامه,مهابهارت]'''\n\n    answer:\n  ",
+        "output": "انه‌اید"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام گزینه درباره­بیت زیرصحیح است؟ خیزید و خزآرید که هنگام خزان استباد خنک از جانب خوارزموزان است'''\n\n    candidates:\n    '''[مطلع قصیده­ داغگاه و سروده­ فرخی است,مطلع مسمط خزانیه و سردوده­ منوچهری است,بیت اول یک رباعی استو در وصف دیدن هلالماه و سروده­ معزّیاست,مطلع قصیده­ لغزشمع و سروده­ منوچهری است.]'''\n\n    answer:\n  ",
+        "output": "مطلع مسمط خزانیه و سردوده­ منوچهری است"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''متضاد فرجام'''\n\n    candidates:\n    '''[ کیفر,انجام,آغاز,پاداش]'''\n\n    answer:\n  ",
+        "output": "آغاز"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام عبارت از جنبه‌ی تاریخ ادبیات نادرست است؟'''\n\n    candidates:\n    '''[شعر سپید یا شعر منثور محصول دوم عصر نیما و شکوفایی شیوه‌ی اوست.,شعر پروین از برجسته‌ترین نمونه‌های ادبیات تعلیمی است و از حیث سرودن مناظره شاخص و ممتاز است.,یکی از زیباترین نمونه‌های حسب حال‌نویسی کتاب شرح زندگانی من اثر عبداله مستوفی در سه جلد است.,ایرج میرزا شاعر معاصر، غزل قلب مادر را که ترجمه‌ای از یک شعر آلمانی است به شیوه‌ای هنرمندانه سروده است.\n]'''\n\n    answer:\n  ",
+        "output": "ایرج میرزا شاعر معاصر، غزل قلب مادر را که ترجمه‌ای از یک شعر آلمانی است به شیوه‌ای هنرمندانه سروده است.\n"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''«حجله عروسی، بد اختر، خطا، رای زدن» به‌ترتیب، معانی کدام واژه‌هاست؟'''\n\n    candidates:\n    '''[شراع، شوم، رغم استخاره,کپر، نحس، خبط، استشهاد,کله، منحوس، زلت، استتاره,خیمه، بد اقبال، ذلت، مشورت کردن]'''\n\n    answer:\n  ",
+        "output": "کله، منحوس، زلت، استتاره"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''آرایه‌های بیت زیر کدام است؟\n«نبیند روی من زردی به اقبال لب لعلش        بمیرد پیش من رستم چو او دستان من باشد»'''\n\n    candidates:\n    '''[اسلوب معادله - تلمیح- مجاز- ایهام,کنایه - تشبیه- مراعات نظیر- ایهام,کنایه- تشخیص- تشبیه- تضمین,اسلوب معادله - تلمیح- مجاز- تشخیص]'''\n\n    answer:\n  ",
+        "output": "کنایه - تشبیه- مراعات نظیر- ایهام"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''متضاد کلمات مورد سؤال چیست؟ ستبر'''\n\n    candidates:\n    '''[نازک,سبک,پهن,سنگین]'''\n\n    answer:\n  ",
+        "output": "نازک"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''رابطه‌ی تنور با پختن مثل رابطه‌ی'''\n\n    candidates:\n    '''[میدان است با ورزش,مزرعه است باکشت,اطاق است با خوابیدن,باغ است با گردش]'''\n\n    answer:\n  ",
+        "output": "مزرعه است باکشت"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''بسیار به شلوغ مانند کم است به :؟'''\n\n    candidates:\n    '''[اندک,خلوت,گران,فراوان]'''\n\n    answer:\n  ",
+        "output": "خلوت"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''بیت زیر بیانگر کدام مفهوم زیبایی اخلاقی است؟ «اگر هر دیده مجنون نشینی *** به غیر از خوبی لیلی نبینی»'''\n\n    candidates:\n    '''[خوش‌خویی,عیب پوشی,آرام جویی,طنازی]'''\n\n    answer:\n  ",
+        "output": "عیب پوشی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام یک از موارد زیر« موصوف وصفت » است ؟'''\n\n    candidates:\n    '''[آفتاب طلایی,دریای خزر,خانه ی  ساحلی,آینه ی روزگار]'''\n\n    answer:\n  ",
+        "output": "آفتاب طلایی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''از تركيب هاي\" ميوه ي انسان –كردار نيكو\" به ترتيب كدام اضافي وكدام وصفي است'''\n\n    candidates:\n    '''[اضافي – وصفي,وصفي – وصفي,وصفي – اضافي,اضافي –اضافي]'''\n\n    answer:\n  ",
+        "output": "اضافي –اضافي"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''طامع یعنی ؟'''\n\n    candidates:\n    '''[آزمند,خوش شانس,محتاج,مطمئن]'''\n\n    answer:\n  ",
+        "output": "آزمند"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''انجام دادم چنین کاری ظریف و دقیق، آن هم بوسیله‌ی فردی............... بعید به نظر می‌رسد.'''\n\n    candidates:\n    '''[خشن,کودن, فرومایه,حقیر]'''\n\n    answer:\n  ",
+        "output": "کودن"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در كدام گزينه كلمات نوشته شده مترادف نيستند'''\n\n    candidates:\n    '''[پيوستگي واتحاد,واژگان و كلمات,آواو صدا,تلفظ و معني]'''\n\n    answer:\n  ",
+        "output": "تلفظ و معني"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''آرایه‌های بیت زیر، کدام است؟\r\n«مهر آن مهر، فروغی، نپذیرد نقصان\r    نور خورشید فروزنده نگردد کم و بیش»\n'''\n\n    candidates:\n    '''[جناس، ایهام، کنایه، حسن تعلیل, استعاره، تشبیه، اسلوب معادله، مجاز,جناس تام، استعاره، تضاد، حسن تعلیل,جناس تام، ایهام تناسب، اسلوب معادله، استعاره]'''\n\n    answer:\n  ",
+        "output": "جناس تام، ایهام تناسب، اسلوب معادله، استعاره"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''نسبت .... به متواضع مثل عصبانی است به ........؟'''\n\n    candidates:\n    '''[خجالتی، آرام,خودخواه، خودپسند,متکبر، خونسرد,ملایم، خونسرد]'''\n\n    answer:\n  ",
+        "output": "متکبر، خونسرد"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در جمله زير چند قيد به كار رفته است؟ « حميد ، دوشنبه در كلاس انشا نوشت. »'''\n\n    candidates:\n    '''[يك قيد,دو قيد,سه قيد,چهار قيد]'''\n\n    answer:\n  ",
+        "output": "دو قيد"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در جمله ي روبه رو كدام صفت بكار رفته است \n\"در گوشه اي  درون  خود نشستن  عامل \nبيماريست \"'''\n\n    candidates:\n    '''[كنايه,مبالغه,ضرب المثل,تشبيه]'''\n\n    answer:\n  ",
+        "output": "كنايه"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''ساختار کدام کلمه با کلمه «( کردگار )) یکی است؟'''\n\n    candidates:\n    '''[آموزگار,پرهیزگار,خواستگار,سازگار]'''\n\n    answer:\n  ",
+        "output": "خواستگار"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''متضاد کلمات مورد سؤال چیست؟ منصوب '''\n\n    candidates:\n    '''[مطرود,معزول,مغضوب,معذور]'''\n\n    answer:\n  ",
+        "output": "معزول"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''به غلط تصور کرده بود که با .............. خطاها می‌تواند از عواقب آنها مصون بماند'''\n\n    candidates:\n    '''[اصلاح,تشخیص,نادیده گرفتن,جلوگیری از]'''\n\n    answer:\n  ",
+        "output": "نادیده گرفتن"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در متن «اگر کسی از گناه کاران را امکان تواند بود که در مراعات جوانب لطفی به جای آرد و در طلب رضای فراغ دوستان سعی\nپیوندد و در کسب منافع و دفع مضار مؤونتی و مظاهرتی واجب دارد ممکن است که آن وحشت برخیزد و هم عقیدت را صفوتی\nحاصل آید.» چند غلط املایی یافت می‌شود؟'''\n\n    candidates:\n    '''[یک,دو ,سه ,چهار]'''\n\n    answer:\n  ",
+        "output": "یک"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    ''' ویژگی باد صبا در همه ابیات یکسان است، به‌جز:'''\n\n    candidates:\n    '''[تو را صبا و مرا آب دیده شد غماز    وگرنه عاشق و معشوق راز دارانند, ز من چو باد صبا بوی خود دریغ مدار    چرا که یی سر زلف توام به سر نرود,ای جان، حدیث ما بو دلدار باز گو    لیکن چنان مگو که صبا را خبر شود,کس نیارد بر او دم زند از قصه ما    مگرش باد صبا گوش‌گذاری بکند]'''\n\n    answer:\n  ",
+        "output": " ز من چو باد صبا بوی خود دریغ مدار    چرا که یی سر زلف توام به سر نرود"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''عبارت «‌اگرکاغذها نسختهای من به قصیده، ناچیز نکرده بودندی. این تاریخ از لونی دیگر آمدی!» شکایت حسرت آلوده چه کسی است؟'''\n\n    candidates:\n    '''[محمدبن جریرهبری,سعدالدین وراوینی,ابوعل محمدبلخی,ابوللفضل بیهقی]'''\n\n    answer:\n  ",
+        "output": "ابوللفضل بیهقی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام توضیح دربار­ه­ «کسایی»‌ صحیح نیست؟'''\n\n    candidates:\n    '''[زادگاه او «مرو»‌ بوده است.,مذهب او شیعه دوازده امامی بودهاست.,اشعار او زهد آمیز ونشان دهنده­ علاقه­اشبه پیامبر (ص) و اهل بیتاست.,کسایی در سراسرعمرش هرگز شعریدر مدح شاهاننسروده است.]'''\n\n    answer:\n  ",
+        "output": "کسایی در سراسرعمرش هرگز شعریدر مدح شاهاننسروده است."
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''رابطه چرتکه با کامپیوتر مثل رابطۀ ...... است با .....'''\n\n    candidates:\n    '''[شمشیر ـ بمب اتمی,پیه سوز ـ چراغ برق,نقاشی ـ فیلم برداري,گاري ـ اتومبیل]'''\n\n    answer:\n  ",
+        "output": "شمشیر ـ بمب اتمی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اگر ن سبکتر از ه و م سنگین تر از ل و ه سنگین تراز م باشد:'''\n\n    candidates:\n    '''[ل سبک تراز ه است,م سبکتر از ل است,م سنگین تر از ن است,ن سبکتراز م است]'''\n\n    answer:\n  ",
+        "output": "ل سبک تراز ه است"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''متضاد قریب'''\n\n    candidates:\n    '''[مأنوس,آشنا,عجیب,دور]'''\n\n    answer:\n  ",
+        "output": "دور"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''كدام گزينه جمع مي باشد'''\n\n    candidates:\n    '''[فصل,متون,فاضل,ملت]'''\n\n    answer:\n  ",
+        "output": "متون"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مفهوم کلی کدام دو بیت، با یکدیگر تناسب دارد؟\r\nالف - آزادی اگر خواهی از عقل گریزان باش   سر خیل مجانین شو، سر حلقه طفلان باش\r\nب- من و انکار شواب این چه حکایت باشد   غالبا اینقدرم عقل و کفایت باشد\r\nج- یکی از عقل می‌لافد یکی طامات می‌بافد    بیا کاین داوری‌ها را به پیش داور اندازیم\r\nد- عقل اگر داند که دل در بند زلفش چون خوش است   عاقلان دیوانه گردند از پی زنجیر ما\r'''\n\n    candidates:\n    '''[الف ج,ألف د,ب – ج,ب - د]'''\n\n    answer:\n  ",
+        "output": "ألف د"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''عبارات زیر یا کدام بیت قرابت مفهومی دارد؟\n« پس هر کسی سنگی می‌انداختند. شبلی موافقت را گلی انداخت. حسین بن منصور آهی کرد؛ گفتند:  « از این همه سنگ چرا هیچ آه نگردی، از گلی آه کردن، چه سرّ است؟» گفت: آن که آن‌ها نمی‌دانند معذورند؛ از او سختم می‌آید که می‌داند که نمی‌باید انداخت».'''\n\n    candidates:\n    '''[فریاد مردمان همه از دست است فریاد سعدی از دل نامهربان دوست,گر من از دوست بنالم نفسم صادق نیست خبر از دوست ندارد که ز خود با خبر است,گر دوست را به دیگری از من فراغت است من دیگری ندارم قائم مقام دوست,دست شد یارم و یاران به من اغیار شدند دوست بنگر که همه خلق جهان دشمن کرد]'''\n\n    answer:\n  ",
+        "output": "فریاد مردمان همه از دست است فریاد سعدی از دل نامهربان دوست"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام کلمه با بقیه فرق دارد؟'''\n\n    candidates:\n    '''[پرستار,بیمارستان,مریض,استخر]'''\n\n    answer:\n  ",
+        "output": "استخر"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''رابطه‌ی آرد با نان مثل رابطه‌ی:'''\n\n    candidates:\n    '''[گوشت است با کباب,پوست است با چرم,نخ است با پشم,پنبه است با پارچه]'''\n\n    answer:\n  ",
+        "output": "پوست است با چرم"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''بیت زیر، با کدام بیت، قرابت مفهومی دارد؟\r\n«عاشقان کشتگان معشوقند\r   بر نیاید ز کشتگان آواز»\n'''\n\n    candidates:\n    '''[عشق برداشت ز کوچک دلی از خاک مرا   ورنه ویرانه من قابل تعمیر نبود,به آه و ناله گفتم دل تهی سازم ندانستم    که عشق اول زبان زین لشکر خونخوار می‌گیرد,خوش‌کن به شور عشق دهن تا چو ماهیان   در مشرب تو تلخی دریا شود لذیذ,کار غیور عشق شراکت‌پذیر نیست   دل را به نقد از همه کار جهان برآر]'''\n\n    answer:\n  ",
+        "output": "به آه و ناله گفتم دل تهی سازم ندانستم    که عشق اول زبان زین لشکر خونخوار می‌گیرد"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام جفت از کلمات زیر با بقیّه ی گزینه ها،تفاوت دارد ؟'''\n\n    candidates:\n    '''[آسانی ،آسونی,خاست،خواست,قضا،غذا,خوار،خار]'''\n\n    answer:\n  ",
+        "output": "آسانی ،آسونی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در عبارت «شاعر به کمک قواعد عروض و قافیه و در چار چوب سنت‌ها و روش‌های شاعری، در فرهنگ ایرانی دو ساخت تازه را بر مجموعه‌ی ساخت‌های آوایی فارسی افزوده و از این رهگذر، اثری ادبی آفریده است که می‌توان نام سخن منظوم برآن نهاد.» چند وابسته پسین وجود دارد؟\n'''\n\n    candidates:\n    '''[شانزده,هفده,هجده,نوزده]'''\n\n    answer:\n  ",
+        "output": "هجده"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''متضاد کلمات مورد سؤال چیست؟ اندوه'''\n\n    candidates:\n    '''[خوش خلقی,خوشبختی,خوشحالی,خوش‌رویی]'''\n\n    answer:\n  ",
+        "output": "خوشحالی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مفهوم کلی کدام بیت با سایر ابیات متفاوت است؟'''\n\n    candidates:\n    '''[از خلاف آمد عادت بطلب کام که من          کسب جمعیت از آن زلف پریشان کردم,گفتم که بوی زلفت گمراه عالمم کرد        گفتا اگر بدانی هم اوت رهبر آید,زلف آشفته‌ی او موجب جمعیت ماست      چون چنین است پس آشفته‌ترش باید کرد,اگر به زلف دراز تو دست ما نرسد       گناه بخت پریشان و دست کوته ماست]'''\n\n    answer:\n  ",
+        "output": "اگر به زلف دراز تو دست ما نرسد       گناه بخت پریشان و دست کوته ماست"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام گزینه ازیک جزءتشکیل شده است ؟(یعنی کلمه ای مرکّب نیست.)'''\n\n    candidates:\n    '''[یاد داشت,ریشه,خدمت,دونده]'''\n\n    answer:\n  ",
+        "output": "خدمت"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''رابطه ي بخار با یخ مثل رابطه ي:'''\n\n    candidates:\n    '''[خمیر است با نان,گندم است با آرد,غوره است با کشمش,باران است با برف]'''\n\n    answer:\n  ",
+        "output": "غوره است با کشمش"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''هم خانواده کدام کلمه نادرست است ؟'''\n\n    candidates:\n    '''[حفظ ( حافظ ),صبر ( صابر ),گفت ( گفتار ),کلام (کمال)]'''\n\n    answer:\n  ",
+        "output": "کلام (کمال)"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مفهوم کدام بیت با دیگر ابیات، متفاوت است؟'''\n\n    candidates:\n    '''[ بگفتا گر نیابی سوی او راه؟    بگفت از دور شاید دید در ماه,کرده‌ام روی چو خورشید تو را نسبت به ماه    مه کجا رویت کجا بسیار دور افتاده‌ام,چو ماه نو به نگاهی ز دور خرسندم    که کوته است مرا دست و آن رکاب بلند,نه گنج وصل تمنا کنم نه گنج حضور    خوشم به خواری هجر و نگاه دورادور]'''\n\n    answer:\n  ",
+        "output": "کرده‌ام روی چو خورشید تو را نسبت به ماه    مه کجا رویت کجا بسیار دور افتاده‌ام"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام واژه با سه واژة دیگر تفاوت بسیار دارد؟'''\n\n    candidates:\n    '''[نهادن,گزاردن,گذاشتن,سپاردن]'''\n\n    answer:\n  ",
+        "output": "گذاشتن"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در همه‌ی ابیات به‌جز بیت ............... اجزای جمله به «شیوه‌ی بلاغی» بیان شده است.'''\n\n    candidates:\n    '''[از آن گردی که از دریا برآری بیار آن گرد را بر گرد من نه,به هر باده نمی‌گردد سرم مست به پیشم باده‌ی خو کرد من نه,بیار آن معجز هر مرد و زن را به پیش دشمن نامرد من نه,بیا دل بر دل پر درد من نه بیا رخ بر رخان زرد من نه]'''\n\n    answer:\n  ",
+        "output": "بیا دل بر دل پر درد من نه بیا رخ بر رخان زرد من نه"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''«کشف‌العجهب» اثر کیست؟'''\n\n    candidates:\n    '''[رابعه کعب قزادری,علی بن عثمان هجویری,عبید زاکانی,فخرالدین اسعد گرگانی]'''\n\n    answer:\n  ",
+        "output": "علی بن عثمان هجویری"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''دركدام گزينه تشبيه به کار رفته است؟'''\n\n    candidates:\n    '''[آب آيينه است پهناور,رود تيره چو طوفان خروشيد,چشمه زيبا از کوه جوشيد.,چهره بگشاد همچو برق خنديد]'''\n\n    answer:\n  ",
+        "output": "چهره بگشاد همچو برق خنديد"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''رابطه تار با پود مثل رابطه :'''\n\n    candidates:\n    '''[رگ است با پی,گل است با برگ,عمودي است با افقی,خون است با رگ]'''\n\n    answer:\n  ",
+        "output": "عمودي است با افقی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در متن زیر چند غلط املایی وجود تارد؟  «چون ضرورت انصاف نقاب حسد از جمال خویش بگشاید و در آیات و معجزات صناعت که این کتاب بر ذکر و اظهار بعضی از آن مشتمل است تأمّلی به سزا رود، شناخته گردد که تا رنج تألّم و تفحّص هر چه تمام تر نباشد،در سخن این منزلت نتوان یافت در جمله بدان نسخت الفی افتاد و رغبت در مطالعت آن زیادت گشت. بنای ابواب کتاب بر حکمت و موعظت و آن گه در صورت هزل فرا نموده تا خواصّ برای شناخت تجارب و عوام به سبب هزل آن را بخوانند».'''\n\n    candidates:\n    '''[یک,دو,سه,چهار]'''\n\n    answer:\n  ",
+        "output": "یک"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مجموعه داستان جايزه از كيست'''\n\n    candidates:\n    '''[سرشار,حالت,هراتي,پور وهاب]'''\n\n    answer:\n  ",
+        "output": "سرشار"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''« دوست خوب کیمیا است » یعنی :'''\n\n    candidates:\n    '''[وست خوب ، قابل اطمینان است,دوست خوب ، دوست داشتنی است,دوست خوب ، قدرتمند است,دوست خوب کمیاب و با ارزش است]'''\n\n    answer:\n  ",
+        "output": "دوست خوب کمیاب و با ارزش است"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''هم خانواده كلمه جمع كدام است'''\n\n    candidates:\n    '''[مجموع,متعادل,مقطوع,محفوظ]'''\n\n    answer:\n  ",
+        "output": "مجموع"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''املای کدام کلمه با توجه به معنی آن درست است؟'''\n\n    candidates:\n    '''[ناراهتی: غم,علاقه: اشتیاق,ترف: سمت,مقازه: دکّان]'''\n\n    answer:\n  ",
+        "output": "علاقه: اشتیاق"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''\"گزاره\" در كدام جمله ها وجود دارد'''\n\n    candidates:\n    '''[امري,خبري,پرسشي,همه موارد]'''\n\n    answer:\n  ",
+        "output": "همه موارد"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''عبارات زیر به‌ترتیب، معرف کدام دوره‌های شعر نیمایی است؟\r\nالف- زبان شعر بارورتر و شفاف‌تر و فضای شعر با مسائل اجتماعی همراه‌تر و پیوسته‌تر است.\r\nب- شعر نو تغزلی گسترش یافت و زبان رمزگونه و ادبیات اجتماعی، رواج پیدا کرد.\r'''\n\n    candidates:\n    '''[ دوم – سوم,سوم - دوم,سوم - چهارم,چهارم - سوم]'''\n\n    answer:\n  ",
+        "output": "چهارم - سوم"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''آثار منسوب به کدام شاعر یا نویسنده «تماما» درست است؟'''\n\n    candidates:\n    '''[دکتر اسلامی ندوشن: روزها - جام جهان‌بین - هفت کشور,عباس خلیلی: روزگار سیاه - یادگار شب - انسان و اسرار شب,محمود دولت آبادی: لایه‌های بیابانی - جای خالی سلوچ - شهرناز,شفیعی کدکنی: شب‌خوانی - موسیقی شعر - صور خبال در شعر فارسی]'''\n\n    answer:\n  ",
+        "output": "شفیعی کدکنی: شب‌خوانی - موسیقی شعر - صور خبال در شعر فارسی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''« در پوستین خلق افتادن » کنایه از.......... است.'''\n\n    candidates:\n    '''[دروغ گفتن,صحبت کردن,غیبت کردن,گدایی کردن]'''\n\n    answer:\n  ",
+        "output": "غیبت کردن"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام کلمه ،با سه کلمه ی  دیگر،هم معنی نیست؟'''\n\n    candidates:\n    '''[قطور,کلفت,ضخیم,گران]'''\n\n    answer:\n  ",
+        "output": "گران"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''همه گزینه‌ها جز گزینه ................ همگون هستند.'''\n\n    candidates:\n    '''[هنوز,زوه,فردا,هرگز]'''\n\n    answer:\n  ",
+        "output": "فردا"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام گزینه به نحوي در ردیف بقیه قرار نمیگیرد؟'''\n\n    candidates:\n    '''[کباب,سیخ,منقل,زغال]'''\n\n    answer:\n  ",
+        "output": "کباب"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در کدام عبارت «نقش تبعی» وجود ندارد؟'''\n\n    candidates:\n    '''[نثر داستانی اکنون مهم‌ترین نوع ادبی اروپا و مهم‌ترین نوع ادبی جهان امروز است و خود اقسامی دارد.,در نگاه نخست، طنز، برای شوخی وخنده است، ولی بعد روشن می‌شود که طنزنویس از نارسایی‌ها و ناروایی‌های جامعه رنج می‌برد.,شعر انسانی به مسائل وطن‌پرستی، بشردوستی، مخالفت با استعمار وتسلط بیگانگان، محبت به فرزندان وخانواده و\r\nآزادی‌خواهی می‌پردازد.\r,نکته‌ی مهمی که لزوم اخلاق جدید را مطرح می‌سازد، این است که اخلاق، از بنیادهای اجتماعی است و دارای تمام\r\nخصوصیات این بنیادهاست.\r]'''\n\n    answer:\n  ",
+        "output": "نکته‌ی مهمی که لزوم اخلاق جدید را مطرح می‌سازد، این است که اخلاق، از بنیادهای اجتماعی است و دارای تمام\r\nخصوصیات این بنیادهاست.\r"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''كدام گزينه از نظر املائي باتوجه به معناي آن صحيح نيست'''\n\n    candidates:\n    '''[برزن : كوچه,بدرغه : همراهي,احيا : زنده نمودن,تدبير : چاره]'''\n\n    answer:\n  ",
+        "output": "بدرغه : همراهي"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''متضاد ممانعت'''\n\n    candidates:\n    '''[تسهیل,تجویز,تسریع, ترغیب]'''\n\n    answer:\n  ",
+        "output": "تجویز"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در « زنگ آفرینش » معلم چه آرزوهایی کرد ؟'''\n\n    candidates:\n    '''[شبانه روز زائر حرم بودن,به آرزوی خود رسیدن بچه ها,پیغمبر بهار شدن,مشغول راز و نیاز شدن]'''\n\n    answer:\n  ",
+        "output": "پیغمبر بهار شدن"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''با حروف تر، ا،ب،ز،و،ه چند کلمه از کلمات زیر را می توان ساخت روزنه ، روزبه ، رودابه،رازدار،بازی،ترازو؟'''\n\n    candidates:\n    '''[یک,دو,سه,چهار]'''\n\n    answer:\n  ",
+        "output": "دو"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''هدف از سایه روشن در نقاشی ؟'''\n\n    candidates:\n    '''[معنای مطلق سایه و روشنایی,تاریکی و روشنایی,بیان حجم,هیچکدام]'''\n\n    answer:\n  ",
+        "output": "بیان حجم"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''از حرف «و» در مصراع «چه خیال‌ها گذر کرد و گذر نکره خوابی» چه مفهومی دریافت می‌شود؟'''\n\n    candidates:\n    '''[زیرا,اما,اگر,چون]'''\n\n    answer:\n  ",
+        "output": "زیرا"
+    }
+]

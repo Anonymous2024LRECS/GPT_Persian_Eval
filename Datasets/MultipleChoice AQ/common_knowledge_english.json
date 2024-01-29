@@ -1,0 +1,1002 @@
+[
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    ''' از ابتدای تاریخ، کدام گزینه زیر انسانها را به همکاری با یکدیگر واداشته است؟'''\n\n    candidates:\n    '''[ضرورتهای زندگی اجتماعی,اهداف سیاسی دولت- شهرها,تشکیل اجتماعات انسانی,فرهنگ پذیری]'''\n\n    answer:\n  ",
+        "output": "ضرورتهای زندگی اجتماعی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''یک زن و شوهر 7 پسر دارند و هر پسر یک خواهر دارند. اینخانواده چند نفره است؟'''\n\n    candidates:\n    '''[14نفر,16نفر,10نفر,9نفر]'''\n\n    answer:\n  ",
+        "output": "10نفر"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام گزینه درمورد وضع کشورژاپن، در دو جنگ جهانی صحیح است؟'''\n\n    candidates:\n    '''[در هر دو جنگ متحد آلمان بود.,درهردو جنگ مخالف آلمان بود.,در جنگ جهانی اول علیه آلمان و در جنگجهانی دوم متحد آلمان بود.,درجنگ جهانی اول متحدآلمان ودرجنگ جهانی دومعلیه آلمان بود.]'''\n\n    answer:\n  ",
+        "output": "در جنگ جهانی اول علیه آلمان و در جنگجهانی دوم متحد آلمان بود."
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''قانون اساسی جمهوری اسلامی ایران توسط کدام مرجع تصویب شد؟'''\n\n    candidates:\n    '''[مجلس شورای اسلامی,مردم,خبرگان قانون اساسی,هیچکدام]'''\n\n    answer:\n  ",
+        "output": "خبرگان قانون اساسی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''متجاوز از چند درصد مردم ایران شهرنشین هستند؟'''\n\n    candidates:\n    '''[۲۰ درصد,۳۰ درصد,۴۰ درصد,۵۰ درصد]'''\n\n    answer:\n  ",
+        "output": "۵۰ درصد"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''جنگ صد ساله چند سال طول کشید؟'''\n\n    candidates:\n    '''[97سال,100سال,116سال,121سال]'''\n\n    answer:\n  ",
+        "output": "116سال"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''طول خطوط آهن در ایران در سال ۱۳۷۴ به کدامیک از ارقام زیر رسید :'''\n\n    candidates:\n    '''[۵۰۰۰ کیلومتر,۸۰۰۰ کیلومتر,۸۵۰۰ کیلومتر,۴۰۰۰ کیلومتر]'''\n\n    answer:\n  ",
+        "output": "۸۰۰۰ کیلومتر"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''وسیع‌ترین دریاچه جهان در کدام قاره قرار دارد؟'''\n\n    candidates:\n    '''[آمریکا,اروپا,آسیا,آفریقا]'''\n\n    answer:\n  ",
+        "output": "اروپا"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مصوبات مجمع تشخیص مصلحت نظام باید به تأیید ......... برسد.'''\n\n    candidates:\n    '''[مجلس خبرگان,رئیس جمهور,شورای نگهبان,مقام رهبری]'''\n\n    answer:\n  ",
+        "output": "مقام رهبری"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام گزینه زیر، شکل پیام اعم از شنیداری، نوشتاری و یا غیره را مشخص می کند؟'''\n\n    candidates:\n    '''[موضوع پیام ,فرستنده ,گیرنده ,عمل کد گذاری ]'''\n\n    answer:\n  ",
+        "output": "عمل کد گذاری "
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''علت عمده شکست جنبش مشروطه چه بود؟'''\n\n    candidates:\n    '''[مخالفت قدرت‌های غربی با نظام جدید,نارضایتی مردم از فقر و بیچارگی,کنار رفتن روحانیت از صحنه سیاست,هر سه مورد]'''\n\n    answer:\n  ",
+        "output": "کنار رفتن روحانیت از صحنه سیاست"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''كدام يك از گزينه هاي زير تاثير چشمگيري در سرنوشت مردم يونان داشت؟'''\n\n    candidates:\n    '''[وضعيت سياسي,وضعيت اقتصادي,وضعيت جغرافيايي,وضعيت هنري]'''\n\n    answer:\n  ",
+        "output": "وضعيت جغرافيايي"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''ارتفاعات سهند در کدام استان قرار دارد؟'''\n\n    candidates:\n    '''[آذربایجان شرقی,آذربایجان غربی,کردستان,زنجان]'''\n\n    answer:\n  ",
+        "output": "آذربایجان شرقی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''تعداد حلقه های المپیک؟'''\n\n    candidates:\n    '''[5عدد,6عدد,7عدد,8عدد]'''\n\n    answer:\n  ",
+        "output": "5عدد"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''طبق قانون اساسی شورای نگهبان طی چند روز از تاریخ وصول باید نظر خود را نسبت به مصوبات مجلس\r\nاعلام نماید؟\r'''\n\n    candidates:\n    '''[یک ماه,ده روز,دو هفته,تا حصول اطمینان]'''\n\n    answer:\n  ",
+        "output": "ده روز"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''نخستین جنگ دوران خلافت امام علی (ع) چه نام داشت؟'''\n\n    candidates:\n    '''[جمل,صفین,نهروان,خوارج]'''\n\n    answer:\n  ",
+        "output": "جمل"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''آیت الله مدرس در کدام شهر به شهادت رسید؟'''\n\n    candidates:\n    '''[کاشمر,فردوس,خواف,طبس]'''\n\n    answer:\n  ",
+        "output": "فردوس"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اولین تلفن عمومی در کدام کشور بکار انداخته شد؟'''\n\n    candidates:\n    '''[هلند,آمریکا,نروژ,انگلیس]'''\n\n    answer:\n  ",
+        "output": "آمریکا"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''« حوزه علمیه قم » به همت چه کسی تأسیس شد؟'''\n\n    candidates:\n    '''[آیت ا... حسین بروجردی,آیت ا... سید تقی خوانساری,آیت ا... عبدالکریم حائری,آیت ا... عبدالله بهبهانی]'''\n\n    answer:\n  ",
+        "output": "آیت ا... عبدالکریم حائری"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''منابع فقه از نظر شیعه کدامند؟'''\n\n    candidates:\n    '''[کتاب، سنت، اجماع، حدیث,کتاب، فقه، اجماع، حدیث,کتاب، سنت، حدیث، عقل,کتاب، سنت، اجماع، عقل]'''\n\n    answer:\n  ",
+        "output": "کتاب، سنت، اجماع، عقل"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مشهورترین ملاك برای طبقه بندی حز ب های سیاسی کدامند؟'''\n\n    candidates:\n    '''[ملاك فرهنگی,ملاك اجتماعی,ملاك جهان بینی,ملاك ایدئولوژی]'''\n\n    answer:\n  ",
+        "output": "ملاك ایدئولوژی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''نام كتاب ماني چه بود؟'''\n\n    candidates:\n    '''[اوستا,ودا,ارژنگ,اژي دهاك]'''\n\n    answer:\n  ",
+        "output": "ارژنگ"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''پیامبر (ص) در چه روزی به رسالت مبعوث گردید؟'''\n\n    candidates:\n    '''[۱۷ ربیع‌الاول,۲۱ رمضان,۲۷ رجب,۱۸ ذیحجه]'''\n\n    answer:\n  ",
+        "output": "۲۷ رجب"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدامیک از بازیگران ایرانی موفق به اخذ جایزه خرس نقره ایاز جشنواره برلین شده است؟'''\n\n    candidates:\n    '''[پیمان معادی,رضا ناجی,ترانهعلیدوستی,شهاب حسینی]'''\n\n    answer:\n  ",
+        "output": "رضا ناجی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدامیک از ملاک های تعیین هدف، نشان می دهد که اهداف باید در مدت زمان معینی قابل وصول باشند؛ هدف ها باید:'''\n\n    candidates:\n    '''[هماهنگ باشند.,تحقق پذیر باشند.,پذیرفتنی باشند ,سنجش پذیر باشند ]'''\n\n    answer:\n  ",
+        "output": "تحقق پذیر باشند."
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''به چه دلیل در دوره اشکانیان زمینه مناسبی برای افزایش پیروان مسیحیت و آیین بودا فراهم آمد؟'''\n\n    candidates:\n    '''[پذیرش این ادیان از طرف پادشاهان اشکانی,حمایت رومیان از این ادیان,شکست اشکانیان از کوشانیان و رومیان,عدم دخالت اشکانیان درامور مذهبی]'''\n\n    answer:\n  ",
+        "output": "عدم دخالت اشکانیان درامور مذهبی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''نقطه مقابل پیمان ورشو کدام پیمان است؟'''\n\n    candidates:\n    '''[سیتو,ناتو,سنتو,کمپ دیوید]'''\n\n    answer:\n  ",
+        "output": "ناتو"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حكومت ايلام با حمله كدام حكومت از بین رفت؟'''\n\n    candidates:\n    '''[اموري ها,هخامنشي,آشور,اورارتور]'''\n\n    answer:\n  ",
+        "output": "آشور"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''جدیدترین تکنولوژی ارتباطی نوین کدام است؟'''\n\n    candidates:\n    '''[تلکس,کامپیوتر,ماهواره,تلماتیک]'''\n\n    answer:\n  ",
+        "output": "کامپیوتر"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کلید .... بر روی صفحه کلید وظیفه انتقال مکان نما را در چهار جهت صفحه نمایش برعهده دارد.'''\n\n    candidates:\n    '''[Tab,چهار کلید جهت دار( (Arrow Keys,Home,PageUp]'''\n\n    answer:\n  ",
+        "output": "چهار کلید جهت دار( (Arrow Keys"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدامیک از حیوانات زیر با هم فرق دارند؟'''\n\n    candidates:\n    '''[گربه,طمساح,مار,]'''\n\n    answer:\n  ",
+        "output": "گربه"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''طبق آمار سال ۱۳۷۵ حدود جمعیت کشور چند میلیون بوده است؟'''\n\n    candidates:\n    '''[۴۹,۵۵,۶۰,۶۵]'''\n\n    answer:\n  ",
+        "output": "۶۰"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''نخستين اقدامي كه براي اداره قلمرو گسترده هخامنشيان لازم بود، چه بود؟'''\n\n    candidates:\n    '''[ضرب سكه طلا و نقره,تاسيس لشكر ده هزار نفري دائمي,ايجاد تسهيلات براي ارتباطات,ابداع خط جديد ميخي پارسي]'''\n\n    answer:\n  ",
+        "output": "ايجاد تسهيلات براي ارتباطات"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''دوره رنسانس در اروپا با کدام دوره از تاریخ ایران هم عصر بود؟'''\n\n    candidates:\n    '''[ایلخانان مغول,تیموریان,صفویان,ساسانیان]'''\n\n    answer:\n  ",
+        "output": "صفویان"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''« فیلسوف نالان » لقب کدام یک از شخصیتهای زیر است؟.'''\n\n    candidates:\n    '''[ارسطو,هرقلیطوس,سقراط,اقلیدس]'''\n\n    answer:\n  ",
+        "output": "هرقلیطوس"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''روغن گیربکس چه زمان نیاز به کنترل دارد؟'''\n\n    candidates:\n    '''[یکبار در ماه,یکبار در هفته,هر ۱۰۰ هزار کیلومتر,هر بار تعویضروغن]'''\n\n    answer:\n  ",
+        "output": "هر بار تعویضروغن"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''قیام موسوم به تنباکو در زمان کدام پادشاه قاجار صورت گرفت؟'''\n\n    candidates:\n    '''[آقامحمدخان,ناصرالدین شاه,مظفرالدین شاه,محمدعلی شاه]'''\n\n    answer:\n  ",
+        "output": "ناصرالدین شاه"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''سطح روغن موتور هر چندوقت یکبار باید بررسی گردد؟'''\n\n    candidates:\n    '''[هرروز,یکبار در ماه,هفته ای یکبار,یکبار در سال]'''\n\n    answer:\n  ",
+        "output": "هفته ای یکبار"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    ''' انتقال ارزش های فرهنگی در هر جامعه در درجه اول به عهده چه نهادی است؟'''\n\n    candidates:\n    '''[مساجد,مدارس,رسانه های گروهی,خانواده]'''\n\n    answer:\n  ",
+        "output": "خانواده"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''جایزه صلح نوبل در سال ۱۹۷۷ به سازمان ............. تعلق گرفت.'''\n\n    candidates:\n    '''[حقوق بشر,عفو بین المللی,صلیب سرخ جهانی,یونسکو]'''\n\n    answer:\n  ",
+        "output": "عفو بین المللی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام سردار خسرو انوشیروان یمن را تصرف کرد؟'''\n\n    candidates:\n    '''[کراسوس,بهرام چوبین,بوذرجهمر,وهرز دیلمی]'''\n\n    answer:\n  ",
+        "output": "وهرز دیلمی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''قانون اساسی دارای چند فصل و اصل است؟'''\n\n    candidates:\n    '''[۱۲ فصل - ۱۴۴ اصل,۱۰ فصل - ۱۲۵ اصل,۲۵ فصل - ۱۷۵ اصل,۱۴ فصل - ۱۷۵ اصل]'''\n\n    answer:\n  ",
+        "output": "۱۴ فصل - ۱۷۵ اصل"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''استاد “حسن کسایی” بیشتر به عنوان نوازنده کدام آلتموسیقی شناخته شده است؟'''\n\n    candidates:\n    '''[تنبک,ویلن,نی,سنتور]'''\n\n    answer:\n  ",
+        "output": "نی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''تعداد نمایندگان شهر اصفهان در مجلس شورای اسلامی چهتعداد است؟'''\n\n    candidates:\n    '''[5نفر,6نفر,8نفر,10نفر]'''\n\n    answer:\n  ",
+        "output": "5نفر"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''چرا هیچ کس به تنهایی نمی تواند در همه­ی موضوع ها و دور هایی تاریخ متخصص و صاحب نظر شود؟'''\n\n    candidates:\n    '''[تاریخ دانش بسیار گسترده ای است.,اطلاعات کافی از آنها در دسترس نیست.,دروغ در آن زیاد می باشد.,عمر انسان محدود است.]'''\n\n    answer:\n  ",
+        "output": "تاریخ دانش بسیار گسترده ای است."
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در شرایط جوش آوردن موتور چه کاری باید انجام داد؟'''\n\n    candidates:\n    '''[موتور را خاموش کردهو روی موتور آب میریزیم,موتور را نباید خاموش کرد ودرب رادیاتور را باز نمی کنمیم وبا احتیاط مقداری آب رویرادیاتور میریزیم,موتور را خاموش کرده ودرب رادیاتور را باز میکنمومقداری آب داخل رادیاتورمیریزیم,تا تعمیر گاه بهراه خود ادامه میدهیم]'''\n\n    answer:\n  ",
+        "output": "موتور را نباید خاموش کرد ودرب رادیاتور را باز نمی کنمیم وبا احتیاط مقداری آب رویرادیاتور میریزیم"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''رئیس قوه قضائیه برای مدت ............. سال منصوب می‌شود.'''\n\n    candidates:\n    '''[۵ سال,۴ سال,۶ سال,۳ سال]'''\n\n    answer:\n  ",
+        "output": "۵ سال"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام پستاندار توانایی پریدن را ندارد؟'''\n\n    candidates:\n    '''[فیل,زرافه,کانگورو,]'''\n\n    answer:\n  ",
+        "output": "فیل"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''.... برای تهیه یک کپی از تصویر در کامپیوتر مورد استفاده قرار می گیرد.'''\n\n    candidates:\n    '''[Plotter,Scanner,Printer,Joystick]'''\n\n    answer:\n  ",
+        "output": "Scanner"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''یارانه جزء کدام یک از موارد زیر است؟'''\n\n    candidates:\n    '''[هزینه های سرمایه ای,هزینه های پرسنلی, مخارج دولت,درآمدهای دولت]'''\n\n    answer:\n  ",
+        "output": " مخارج دولت"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''برای ارسال و یا دریافت نامه الکترونیکی ....'''\n\n    candidates:\n    '''[داشتن اشتراک با یک Mail Server مانند Yahoo الزامی است.,اتصال به اینترنت و دسترسی به صندوق پستی ضروری است.,باید از آدرس پست الکترونیکی مخاطب مطلع باشیم.,تمام موارد بالا ضروری است.]'''\n\n    answer:\n  ",
+        "output": "تمام موارد بالا ضروری است."
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''رزمندگان اسلام خرمشهر را در طی کدام عملیات آزاد کردند؟'''\n\n    candidates:\n    '''[فتح المبین,بیت‌المقدس,نصر ۴,ذوالقدر ۸]'''\n\n    answer:\n  ",
+        "output": "بیت‌المقدس"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حکومت قاجار از چه سالی آغاز گشت؟'''\n\n    candidates:\n    '''[۱۱۷۴ هش,۱۱۶۷هش,۱۲۱۰ هش,۱۱۲۵ هش]'''\n\n    answer:\n  ",
+        "output": "۱۱۷۴ هش"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''Microsoft PowerPoint یکی از نرم افزار های ...... می باشد.'''\n\n    candidates:\n    '''[ایجاد و ویرایش فایل های گرافیکی,ایجاد و ویرایش اسناد متنی,ارائه ی مطالب,تولید بانک طلاعاتی]'''\n\n    answer:\n  ",
+        "output": "ارائه ی مطالب"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''عملیات والفجر ۸ در چه تاریخ و در کدام منطقه عملیاتی انجام شد؟'''\n\n    candidates:\n    '''[۶۴/۱۱/۲۰ - فاو,۶۲/۴/۲۹ - حاج‌عمران,۶۴/۱۲/۵ - چوارته عراق,۶۲/۵/۷ - مهران]'''\n\n    answer:\n  ",
+        "output": "۶۴/۱۱/۲۰ - فاو"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''رنگ سبز ار ترکیب چه رنگ هایی بوجود می آید؟'''\n\n    candidates:\n    '''[قرمز و آبی,آبی و زرد,زرد و قرمز,]'''\n\n    answer:\n  ",
+        "output": "آبی و زرد"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''با کدامیک از برنامه های کاربردی زیر می توان یک بانک اطلاعاتی ایجاد نمود؟'''\n\n    candidates:\n    '''[PowerPoint,Access,Word,Excel]'''\n\n    answer:\n  ",
+        "output": "Access"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''پایتخت کشور «فنلاند» کدام است؟'''\n\n    candidates:\n    '''[وین,سان خوزه,یوگوتا,هلسینکی]'''\n\n    answer:\n  ",
+        "output": "هلسینکی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اعضای دائمی شورای امنیت سازمان ملل متحد چه کشورهایی هستند؟'''\n\n    candidates:\n    '''[آمریکا، انگلیس، روسیه، ایتالیا، چین,روسیه، چین، فرانسه، انگلیس، آمریکا,آمریکا، انگلیس، روسیه، فرانسه، آلمان، چین,آمریکا، روسیه، انگلیس، فرانسه، ژاپن، چین]'''\n\n    answer:\n  ",
+        "output": "روسیه، چین، فرانسه، انگلیس، آمریکا"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''بزرگترین صادر کننده گندم در جهان کدام کشور است؟'''\n\n    candidates:\n    '''[فرانسه,انگلیس,آمریکا,استرالیا]'''\n\n    answer:\n  ",
+        "output": "آمریکا"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''فلات ايران در شمال غربي به كدام منطقه محدود مي شود؟'''\n\n    candidates:\n    '''[ماورا ء النهر,سند وپنجاب,ميان دو رود,كورا]'''\n\n    answer:\n  ",
+        "output": "كورا"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کتاب «امام در عینیت جامعه» از کیست؟'''\n\n    candidates:\n    '''[جعفر سبحانی,سید جعفر شهیدی,محمد حسین طباطبائی,محمد رضا حکیمی]'''\n\n    answer:\n  ",
+        "output": "محمد رضا حکیمی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدامیک از موارد زیر از وظایف و اختیارات رئیس جمهور است؟'''\n\n    candidates:\n    '''[عزل و نصب وزرا,امضای مصوبات مجلس,تأیید مصوبات کمیسیون‌های دولت,هر سه مورد]'''\n\n    answer:\n  ",
+        "output": "هر سه مورد"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اولین انتخابات مجلس شورای اسلامی در چه تاریخی برگزار شد؟'''\n\n    candidates:\n    '''[اسفندماه ۵۹,اسفندماه ۵۸,فروردین ۵۸,مردادماه ۵۸]'''\n\n    answer:\n  ",
+        "output": "اسفندماه ۵۸"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کهن ترین پول فلزی جهان در کدام منطقه پیدا شد؟'''\n\n    candidates:\n    '''[تخت جمشید,شوش,لودیه,موهنجودارو]'''\n\n    answer:\n  ",
+        "output": "موهنجودارو"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کتاب هملت را چه کسی نوشته؟'''\n\n    candidates:\n    '''[داوینچی,شکسپیر,کافکا,]'''\n\n    answer:\n  ",
+        "output": "شکسپیر"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''محلی را که در سازمان ها و وزارت خانه ها و مؤسسات دولتی به طور مستمر برای یک شغل و ارجاع آن به یک مستخدم ( فرد استخدام شده ) در نظر گرفته می شود را ................ گویند.'''\n\n    candidates:\n    '''[پست سازمانی, شغل, واحد,دایره]'''\n\n    answer:\n  ",
+        "output": "پست سازمانی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در ترمز ضد قفل برای ترمز گیری باید پا رابه صورت ……………..روی پدال ترمزفشرد.'''\n\n    candidates:\n    '''[ممتد,منقطع,آهسته,محکم]'''\n\n    answer:\n  ",
+        "output": "ممتد"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''عامل و علت تقسيم بندي سرگذشت بشر به دو دوران پيش از تاريخ و تاريخي چه مي باشد؟'''\n\n    candidates:\n    '''[اهلي كردن حيوانات,اختراع چرخ,كشف آتش,اختراع خط]'''\n\n    answer:\n  ",
+        "output": "اختراع خط"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اولین برنامه توسعه اقتصادی - اجتماعی ایران در کدام سال شمسی شروع شد؟'''\n\n    candidates:\n    '''[۱۳۲۷,۱۳۴۵,۱۳۳۷,۱۳۴۷]'''\n\n    answer:\n  ",
+        "output": "۱۳۲۷"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''دلفین کدام است؟'''\n\n    candidates:\n    '''[پستاندار,ماهی,,]'''\n\n    answer:\n  ",
+        "output": "پستاندار"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''از برنامه کاربردی ..... برای تولید فایل های حاوی متن، گرافیک،‌انیمیشن و غیره برای صفحات وب استفاده می شود.'''\n\n    candidates:\n    '''[PowerPoint,PhotoShop,FrontPage,Access]'''\n\n    answer:\n  ",
+        "output": "FrontPage"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در جمهوری اسلامی ایران، امضای قراردادهای بین‌المللی (پس از تصویب مجلس شورای اسلامی) با کدام مرجع است؟'''\n\n    candidates:\n    '''[رئیس مجلس شورای اسلامی,رئیس مجمع تشخیص مصلحت نظام,رئیس جمهور یا نماینده قانونی او,مقام رهبری]'''\n\n    answer:\n  ",
+        "output": "رئیس جمهور یا نماینده قانونی او"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اولین مجلس قانونگذاری در زمان کدام شاه قاجار تشکیل شد؟'''\n\n    candidates:\n    '''[مظفرالدین شاه,محمد شاه,ناصرالدین شاه,احمدشاه]'''\n\n    answer:\n  ",
+        "output": "مظفرالدین شاه"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در قرآن کریم از کدام غزوه با نام احزاب یاد شده است؟'''\n\n    candidates:\n    '''[غزوه بدر,غزوه تبوك,غزوه اُحد,غزوه خندق]'''\n\n    answer:\n  ",
+        "output": "غزوه خندق"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''جنگ جمل در کجا اتفاق افتاد؟'''\n\n    candidates:\n    '''[نجف,مدینه,کوفه,بصره]'''\n\n    answer:\n  ",
+        "output": "بصره"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اتحادیه نظامی است که هدف آن دفاع از اروپای غربی و اقیانوس اطلس می باشد؟'''\n\n    candidates:\n    '''[ورشو,سنتو,ناتو,شورای امنیت]'''\n\n    answer:\n  ",
+        "output": "ناتو"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''محل تجمع اوليه اقوام آريايي كجا بود؟'''\n\n    candidates:\n    '''[فلات ايران,هند و ايران,علفزارهاي اوراسيا,منطقه البرز و زاگرس]'''\n\n    answer:\n  ",
+        "output": "علفزارهاي اوراسيا"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''جامعه مدنی،به کدام حوزه اطلاق می شود'''\n\n    candidates:\n    '''[بخش خصوصی دولت,محدوده بین فرد و دولت,دولت و توده,فراتر از دولت]'''\n\n    answer:\n  ",
+        "output": "محدوده بین فرد و دولت"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مقام رهبری در قانون اساسی جمهوری اسلامی دارای چه کار ویژه ای است؟'''\n\n    candidates:\n    '''[ریاست کشور,نظارت عالیه,تنظیم کننده قوای سه گانه,حاکمیت مطلق]'''\n\n    answer:\n  ",
+        "output": "تنظیم کننده قوای سه گانه"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام فیلم به عنوان محبوبترین فیلم سینمایی جهان شناخته شدهاست؟'''\n\n    candidates:\n    '''[پدر خوانده,پاپیون,ندامتگاهشاوشنگ,خوب، بد،زشت]'''\n\n    answer:\n  ",
+        "output": "ندامتگاهشاوشنگ"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''انجام دستورات صادر شده از جانب کاربر توسط کامپیوتر را ....... می گویند.'''\n\n    candidates:\n    '''[ذخیره,تحلیل,محاسبه,پردازش]'''\n\n    answer:\n  ",
+        "output": "پردازش"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''پر افتخارترین رشته ورزشی ایران در مسابقات المپیک کدام است؟'''\n\n    candidates:\n    '''[وزنه برداری,تکواندو,کشتی,دومیدانی]'''\n\n    answer:\n  ",
+        "output": "کشتی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''تجزیه ظروف پلاستیکی چند سال طول میکشد؟'''\n\n    candidates:\n    '''[50سال,500سال,5 هزار سال,50هزار سال]'''\n\n    answer:\n  ",
+        "output": "500سال"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''وسیع ترین صحرای جهان کدام است؟'''\n\n    candidates:\n    '''[صاحارا,گوبی,موهاوی,]'''\n\n    answer:\n  ",
+        "output": "صاحارا"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''175 شهیدی که پیکر آنها اخیرا درتهران تشییع شد ،در کدام یک ازعملیات زیر،به شهادت رسیدند'''\n\n    candidates:\n    '''[کربلای5,کربلای4,الی بیت المقدس,فتح المبین]'''\n\n    answer:\n  ",
+        "output": "کربلای4"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''امام سجاد (ع) در چه سنی به شهادت رسیدند؟'''\n\n    candidates:\n    '''[۵۷ سالگی,۳۸ سالگی,۶۲ سالگی,۶۷ سالگی]'''\n\n    answer:\n  ",
+        "output": "۵۷ سالگی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام استان به مهد کشتی آزاد مشهور است؟'''\n\n    candidates:\n    '''[مازندارن,گیلان,خوزستان,خراسان]'''\n\n    answer:\n  ",
+        "output": "مازندارن"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''رئیس جمهور ظرف چه مدتی از طرح استیضاح باید در مجلس حاضر شود؟'''\n\n    candidates:\n    '''[یک ماه,دو ماه,یک هفته,ده روز]'''\n\n    answer:\n  ",
+        "output": "یک ماه"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''سال نوری واحد چیست؟'''\n\n    candidates:\n    '''[زمان,سرعت,مسافت,شتاب]'''\n\n    answer:\n  ",
+        "output": "مسافت"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در اولین حمله وسیع ایران به عراق کدام شهر از محاصره ارتش عراق بیرون آمد؟'''\n\n    candidates:\n    '''[آبادان,خرمشهر,سوسنگرد,مهران]'''\n\n    answer:\n  ",
+        "output": "آبادان"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''ایران چندمین کشور دارنده گاز در جهان است؟'''\n\n    candidates:\n    '''[دومین,سومین,چهارمین,پنجمین]'''\n\n    answer:\n  ",
+        "output": "دومین"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''چه کسی در تثبیت دولت اشکانی نقش زیادی داشت؟'''\n\n    candidates:\n    '''[اشک اول,تیرداد,مهرداد,ارد]'''\n\n    answer:\n  ",
+        "output": "تیرداد"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''روزنامه «عروه‌الوثقی» توسط چه کسی دایر شد؟'''\n\n    candidates:\n    '''[دهخدا,میرزای شیرازی, اسدآبادی,ملک‌الشعرای بهار]'''\n\n    answer:\n  ",
+        "output": " اسدآبادی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''پدر علم هواشناسی ایران « بنیان گذار جغرافیای نوین کشور » کیست؟'''\n\n    candidates:\n    '''[دکتر حسابی,دکتر ایرج ملک پور,دکتر محمد معین,پرفسور محمد حسن گنجی]'''\n\n    answer:\n  ",
+        "output": "پرفسور محمد حسن گنجی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کنیه‌ی پیامبر اسلام (ص) چه بود و نام و کنیه‌ی کدام یک از امامان شیعه با آن حضرت یکی است؟'''\n\n    candidates:\n    '''[ابوالقاسم - امام مهدی (عج),ابوالحسن - امام مهدی (عج),ابوالقاسم - امام صادق (ع),ابوالحسن - امام باقر (ع)]'''\n\n    answer:\n  ",
+        "output": "ابوالقاسم - امام مهدی (عج)"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''كدام گزينه صحيح نيست؟'''\n\n    candidates:\n    '''[وجود جزاير پراكنده وكوهستانهاي زياد وهمچنين تعصبات قبيله اي موجب پديدآمدن دولت شهردر يونان شد.,دولت شهر اسپارت به خاطر علاقمندي به حكومت ودموكراسي و رواج انديشه هاي علمي و فلسفي شهرت يافت.,هر يك از دولت شهرها يونان داراي معبد ،بازار،مدارس و محله هايي بود.,مردمان كرت از مردم مصر و فنيقيه تاثير زيادي پذيرفته بودند.]'''\n\n    answer:\n  ",
+        "output": "دولت شهر اسپارت به خاطر علاقمندي به حكومت ودموكراسي و رواج انديشه هاي علمي و فلسفي شهرت يافت."
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''« سرمایه فرهنگی » به معنای : ..................................'''\n\n    candidates:\n    '''[ارزش های فرهنگی سامان دهنده به انسجام و هویت جمعی است.,سرمایه حاصل از فعالیت های فرهنگی اعم از تولید و توزیع و مصرف فرهنگی است.,سنت ها و ذخائر فرهنگی و هنری در یک نظام اجتماعی است.,سرمایه گذاری در عرصه فرهنگی است.]'''\n\n    answer:\n  ",
+        "output": "ارزش های فرهنگی سامان دهنده به انسجام و هویت جمعی است."
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''واحد پول امارات متحده عربی چیست؟'''\n\n    candidates:\n    '''[درهم,دینار,لیره,ریال]'''\n\n    answer:\n  ",
+        "output": "درهم"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''« کشور چکمه ای » لقب کدام کشور است؟.'''\n\n    candidates:\n    '''[ژاپن,چین,ایتالیا,سوئد]'''\n\n    answer:\n  ",
+        "output": "ایتالیا"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مبدل کاتالیستی در کجا قرار دارد و چهکاری انجام می دهد ؟'''\n\n    candidates:\n    '''[شمع- توان موتور راافزاریش میدهد,شمع-گازهای مضر را به گاز بیضرر تبدیل میکند.,اگزوز- گازهای مضر را بهگاز بی ضرر تبدیل میکند.,اگزوز-صداینابهنجار را کاهشمیدهد]'''\n\n    answer:\n  ",
+        "output": "اگزوز- گازهای مضر را بهگاز بی ضرر تبدیل میکند."
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''از آغاز فعالیت سازمان برنامه و بودجه در ایران تاکنون چند برنامه توسعه تهیه شده است؟'''\n\n    candidates:\n    '''[شش,هفت,هشت, نه]'''\n\n    answer:\n  ",
+        "output": " نه"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''پنج کشوری که در سازمان ملل متحد دارای حق« وتو » می باشند، کدامند؟'''\n\n    candidates:\n    '''[چین ، فرانسه، انگلیس ، آمریکا ، شوروی,آمریکا، انگلیس، آلمان، سوئیس، شوروی,آمریکا، شوروی، فرانسه، آلمان، چین,چین ، فرانسه ، ایتالیا ، آمریکا ، انگلیس]'''\n\n    answer:\n  ",
+        "output": "چین ، فرانسه، انگلیس ، آمریکا ، شوروی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مورخان مسلمان حکومت اشکانی را چه نامیدند؟'''\n\n    candidates:\n    '''[حکومت مستقل,حکومت مقتدر مرکزی,حکومت ملوک الطوایفی,حکومت نیمه مستقل]'''\n\n    answer:\n  ",
+        "output": "حکومت ملوک الطوایفی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''دریک شهر خیابان‌ها در امتداد شمال به جنوب و شرق به غرب کشیده شده‌اند یک اتومبیل که از طرف شرق به غرب حرکت می‌کند در چهارراه اول به طرف چپ و در دو چهارراه بعد به طرف راست حرکت می‌کند. مسیر حرکت اتومبیل به کدام جهت است؟'''\n\n    candidates:\n    '''[شمال,جنوب,شرق,غرب]'''\n\n    answer:\n  ",
+        "output": "جنوب"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''دعوت نهانی پیامبر (ص) به اسلام چند سال به طول انجامید؟'''\n\n    candidates:\n    '''[۷ سال,۳ سال,۲۳ سال,۶ سال]'''\n\n    answer:\n  ",
+        "output": "۳ سال"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''خسر و پرويز به كمك چه كسي توانست به سلطنت برسد؟'''\n\n    candidates:\n    '''[مزدك,ماني,امپراتور روم,امپراتور هپتالها]'''\n\n    answer:\n  ",
+        "output": "امپراتور روم"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام نماز وضو نمی خواهد؟'''\n\n    candidates:\n    '''[نماز آیات,نماز غفیله,نماز میت,نماز جمعه]'''\n\n    answer:\n  ",
+        "output": "نماز آیات"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مراجعه به افکار عمومی توسط کدام مرجع زیر صورت می‌گیرد؟'''\n\n    candidates:\n    '''[مجلس شورای اسلامی,شورای نگهبان,مجمع تشخیص مصلحت نظام,مجلس خبرگان رهبری]'''\n\n    answer:\n  ",
+        "output": "شورای نگهبان"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کتاب «آیین شهرداری» در قرن هفتم هجری نوشته کیست؟'''\n\n    candidates:\n    '''[ابن اخوه,ابن خلدون,ابن سینا,ابن عربی]'''\n\n    answer:\n  ",
+        "output": "ابن اخوه"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''به رئيس موبدان در زمان ساسانيان چه مي گفتند؟'''\n\n    candidates:\n    '''[موبدان موبد,واسپوهران,كوي,مغان]'''\n\n    answer:\n  ",
+        "output": "موبدان موبد"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''رئیس جمهور برای مدت چند سال انتخاب می‌شود؟'''\n\n    candidates:\n    '''[۳ سال,۴ سال,۶ سال,۵ سال]'''\n\n    answer:\n  ",
+        "output": "۴ سال"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''آغاز و پایان جنگ تحمیلی چه سال‌هایی بود؟'''\n\n    candidates:\n    '''[۱۳۶۹ - ۱۳۵۹ ,۱۳۶۸ - ۱۳۶۰ ,۱۳۶۷ - ۱۳۵۹ ,۱۳۶۸ - ۱۳۵۹ ]'''\n\n    answer:\n  ",
+        "output": "۱۳۶۷ - ۱۳۵۹ "
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کتاب «شهریار» اثر کیست؟'''\n\n    candidates:\n    '''[ارسطو,ماکیاولی,مظفرالدین شاه,احمدشاه]'''\n\n    answer:\n  ",
+        "output": "ماکیاولی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''یک خروس در بام خانه‌ای که شیب دوطرفه دارد، تخم می‌گذارد. این تخم از کدام طرف می‌افتد؟'''\n\n    candidates:\n    '''[شمال,جنوب,هیچ‌کدام,]'''\n\n    answer:\n  ",
+        "output": "هیچ‌کدام"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''انتقال نیرو در سیستم ترمز پایی توسط…………….انجام میشود.'''\n\n    candidates:\n    '''[اهرم,سیم های فلزی,روغن ترمز,پدال]'''\n\n    answer:\n  ",
+        "output": "روغن ترمز"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''بزرکترین و کوچک ترین کشور همسایه ایران کدامند؟'''\n\n    candidates:\n    '''[ترکمنستان – افغانستان,پاکستان – ارمنستان,افغانستان- عراق,ترکیه - افغانستان]'''\n\n    answer:\n  ",
+        "output": "پاکستان – ارمنستان"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام کشور عضو «شورای همکاری خلیج فارس» نیست؟'''\n\n    candidates:\n    '''[سوریه,مصر,ایران,عربستان]'''\n\n    answer:\n  ",
+        "output": "ایران"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''علت حملات متعدد آشوریان به مسکن قبایل ساکن در زاگرس چه بوده است؟'''\n\n    candidates:\n    '''[گسترش قلمرو,تصرف منابع آب,نیاز به چراگاه,نیاز به مناع فلز]'''\n\n    answer:\n  ",
+        "output": "نیاز به مناع فلز"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''آخرین فرمانده سپاه اسلامی در حیات پیامبر (ص) چه کسی بود؟'''\n\n    candidates:\n    '''[زید بن حارثه,خالد بن ولید,اسامه بن زید,عبدالله بن دواحه]'''\n\n    answer:\n  ",
+        "output": "اسامه بن زید"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''وظیفه روغن ترمز چیست ؟'''\n\n    candidates:\n    '''[خنک کردن ترمز,روغن کاری ترمز,انتقال نیرو,تمام موارد]'''\n\n    answer:\n  ",
+        "output": "انتقال نیرو"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''آرامگاه فردوسی در کدام شهر است؟'''\n\n    candidates:\n    '''[شیراز,طوس,نیشابور,مشهد]'''\n\n    answer:\n  ",
+        "output": "طوس"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''كدام گروه از آريايي ها را ماد مي خواندند؟'''\n\n    candidates:\n    '''[ساكن شرق ايران,ساكن شمال شرق ايران,ساكن جنوب ايران,ساكن غرب ايران]'''\n\n    answer:\n  ",
+        "output": "ساكن غرب ايران"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام یک از مهارت های مدیریت، عمدتا از طریق تحصیل، کارورزی و تجربه حاصل می شود؟'''\n\n    candidates:\n    '''[فنی,ادراکی,ارتباطی,انسانی]'''\n\n    answer:\n  ",
+        "output": "فنی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اعضای اصلی سازمان همکاری شانگهای، کدام کشورهاهستند'''\n\n    candidates:\n    '''[روسیه، چین، قزاقستان، قرقیزستان،ازبکستان، تاجیکستان,روسیه، چین، قزاقستان،قرقیزستان، ازبکستان،آذربایجان,روسیه، چین، هند، پاکستان،ایران،قزاقستان، قرقیزستان,روسیه، چین، هند،ایران، پاکستان،ترکمنستان]'''\n\n    answer:\n  ",
+        "output": "روسیه، چین، قزاقستان، قرقیزستان،ازبکستان، تاجیکستان"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''بلندترین رودخانه جهان کدام است؟'''\n\n    candidates:\n    '''[نیل,گنجی,یامونا,]'''\n\n    answer:\n  ",
+        "output": "نیل"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''این جمله از کیست: «نظام بدون حمایت، رأی و خواست مردم، در حقیقت هیچ است» به چه چیزی اشاره\r\nدارد؟\r'''\n\n    candidates:\n    '''[ امام خمینی (ره) - مقبولیت,امام خمینی (ره) - مشروعیت,آیت‌الله خامنه‌ای - مقبولیت,آیت‌الله خامنه‌ای - مشروعیت]'''\n\n    answer:\n  ",
+        "output": "آیت‌الله خامنه‌ای - مقبولیت"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''تا قبل از انقلاب اسلامی چند برنامه عمران ملی در کشور به اجرا درآمد؟'''\n\n    candidates:\n    '''[۴,۵,۶,۷]'''\n\n    answer:\n  ",
+        "output": "۵"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''روزهای دوازدهم اردیبهشت ، سوم شعبان و چهارده اسفند با چه عناوینی نام گذاری شده اند؟'''\n\n    candidates:\n    '''[روز معلّم – روز جوان – روز همدلی و همیاری,روز معلّم – روز پاسدار – روز نیکوکاری و احسان,روز معلّم – روز پرستار – روز خانواده,روز کارگر - روز جانباز – روز نیکوکاری و احسان]'''\n\n    answer:\n  ",
+        "output": "روز معلّم – روز پاسدار – روز نیکوکاری و احسان"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''دولت نظامی رژیم پهلوی در آستانه پیروزی انقلاب اسلامی چند روز تشکیل شد؟'''\n\n    candidates:\n    '''[۶۲ روز,۵۸ روز,۷۵ روز,۸۴ روز]'''\n\n    answer:\n  ",
+        "output": "۷۵ روز"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    ''' مرد« پولادین » لقب کدام یک از شخصیتهای زیر است؟'''\n\n    candidates:\n    '''[استالین,روزولت,چرچیل,موسولینی]'''\n\n    answer:\n  ",
+        "output": "استالین"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''پوچ گرایی تعریف کدام مکتب است؟'''\n\n    candidates:\n    '''[لیبرالیزم,نهیلیسم,اومانیسم,کمونیسیم]'''\n\n    answer:\n  ",
+        "output": "نهیلیسم"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در دوره ساسانیان کدام منطقه جولانگاه کاروانهای بازرگانی بود؟'''\n\n    candidates:\n    '''[خلیج فارس,بندرهای میناب و سیراف,جاده ی ابریشم,دریای خزر]'''\n\n    answer:\n  ",
+        "output": "جاده ی ابریشم"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''تنظیم بودجه کل کشور به عهده چه دستگاهی است؟'''\n\n    candidates:\n    '''[بانک مرکزی,ریاست جمهوری,سازمان مدیریت و برنامه ریزی کشور,وزارت امور اقتصادی و دارایی]'''\n\n    answer:\n  ",
+        "output": "سازمان مدیریت و برنامه ریزی کشور"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''كدام گزينه زير صحيح نيست؟'''\n\n    candidates:\n    '''[به شرح فتوحات فرعون سالنامه مي گفتند .,شهرت تمدن مصر بيش از هر چيز به خاطر ميراث های فرهنگي آن است.,ميراث هاي فرهنگي مصر شامل اسطوره ها و خدايان مي باشد.,عوامل طبيعي و سارقان از جمله دشمنان ميراث ها ي فرهنگي مصر مي باشند.]'''\n\n    answer:\n  ",
+        "output": "ميراث هاي فرهنگي مصر شامل اسطوره ها و خدايان مي باشد."
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''ذکر نام مرکز طبی کودکان تهران یادآور نام کدام پزشک معروف ایرانی است؟'''\n\n    candidates:\n    '''[بوعلی سینا,دکتر قریب, فارابی,ناطق نوری]'''\n\n    answer:\n  ",
+        "output": "دکتر قریب"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''«پروتکل» ( ( Protocol یعنی :'''\n\n    candidates:\n    '''[معاهده,قرارداد بین‌المللی,مقاوله نامه,موافقت نامه]'''\n\n    answer:\n  ",
+        "output": "مقاوله نامه"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''برلین پایتخت کدام کشور است؟'''\n\n    candidates:\n    '''[آلمان,اسپانیا,استرالیا,]'''\n\n    answer:\n  ",
+        "output": "آلمان"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''استفاده مستمر و طولانی از کامپیوتر ممکن است به بروز برخی صدمات به کاربران منجر گردد. کدامیک از موارد زیر میتواند از صدمات احتمالی به کاربر جلوگیری نماید؟'''\n\n    candidates:\n    '''[قرار دادن کامپیوتر در محلی با نور مناسب,استفاده از صندلی بدون دسته.,قراردادن مانیتور در ارتقاع بالاتر از چشم,قرار دادن مچها در سطحی پائین تر از محل قرار گیری کیبورد.]'''\n\n    answer:\n  ",
+        "output": "قرار دادن کامپیوتر در محلی با نور مناسب"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''تعداد اعضای شورای نگهبان .............. نفر است.'''\n\n    candidates:\n    '''[شش,هشت,ده,دوازده]'''\n\n    answer:\n  ",
+        "output": "دوازده"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''جنگهای صلیبی با چه هدفی انجام شد؟'''\n\n    candidates:\n    '''[تصرف اماکن مقدس فلسطین به ویژه بیت المقدس,تصرف بازار های کشورهای جهان سوم,کشف سرزمین های جدید,مبارزه با امپراطوری عثمانی]'''\n\n    answer:\n  ",
+        "output": "تصرف اماکن مقدس فلسطین به ویژه بیت المقدس"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''محل دیوان دادگستری بین المللی کجاست؟'''\n\n    candidates:\n    '''[لاهه,واشنگتن,نیویورك,مسکو]'''\n\n    answer:\n  ",
+        "output": "لاهه"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''رئیس دیوان عالی کشور چگونه انتخاب می‌شود؟'''\n\n    candidates:\n    '''[توسط وزیر دادگستری و تأیید هیئت وزیران,توسط رئیس قوه قضائیه و با مشورت قضات دیوان عالی,توسط رهبر,توسط قضات دیوان عالی]'''\n\n    answer:\n  ",
+        "output": "توسط رئیس قوه قضائیه و با مشورت قضات دیوان عالی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    ''' در مقایسه با سایر کشورهای جهان :'''\n\n    candidates:\n    '''[ایران بزرگترین تولید کننده نفت و گاز است.,ایران دومین رتبه را از جهت ذخائر گاز دارد.,ایران بزرگ ترین صادر کننده نفت و گاز است.,ایران دومین رتبه را از جهت مصرف نفت خام در دنیا دارد.]'''\n\n    answer:\n  ",
+        "output": "ایران دومین رتبه را از جهت ذخائر گاز دارد."
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''نزدیکترین و کوچک ترین سیاره به خورشید کدام است؟'''\n\n    candidates:\n    '''[عطارد (تیر),مشتری (برجیس),زهره (ناهید),مریخ (بهرام)]'''\n\n    answer:\n  ",
+        "output": "عطارد (تیر)"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''IT مخفف چیست ؟'''\n\n    candidates:\n    '''[Information Technical,Information Types,Information Training,Information Technology]'''\n\n    answer:\n  ",
+        "output": "Information Technology"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''الماس سخت تر است یا گرانیت؟'''\n\n    candidates:\n    '''[الماس,گرانیت,,]'''\n\n    answer:\n  ",
+        "output": "الماس"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''رقيب سرسخت آيين زردشت در دوره ساساني چه ديني بود؟'''\n\n    candidates:\n    '''[مسيحيت,مزدك,ماني,يهوديت]'''\n\n    answer:\n  ",
+        "output": "مسيحيت"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''شهر خرمشهر در چه سالی با حمله نیروهای ایرانی در عملیات تاریخی «بیت المقدس» از وجود نیروهای متجاوز عراقی آزاد شد؟'''\n\n    candidates:\n    '''[۱۳۶۰,۱۳۵۹,۱۳۶۱,۱۳۶۳]'''\n\n    answer:\n  ",
+        "output": "۱۳۶۱"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''از مهمترين دانش هايي كه در ميان مردم سومر پيشرفت چشمگيري كرده بود چه بود؟'''\n\n    candidates:\n    '''[رياضي,قانون,نجوم,فلسفه]'''\n\n    answer:\n  ",
+        "output": "نجوم"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کشور غیر آسیایی عضو اوپک کدام است؟'''\n\n    candidates:\n    '''[برزیل,ونزوئلا,کانادا,الجزایر]'''\n\n    answer:\n  ",
+        "output": "ونزوئلا"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''«روز جمهوری اسلامی» مقارن است با :'''\n\n    candidates:\n    '''[دهم بهمن ماه,بیست و دوم بهمن ماه,دوازدهم فروردین ماه,دوازدهم اردیبهشت ماه]'''\n\n    answer:\n  ",
+        "output": "دوازدهم فروردین ماه"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''بيشترين نوشته هاي باقي مانده از مصريان باستان به خط ............................ مي باشد.'''\n\n    candidates:\n    '''[هيروگليف,ميخي,هيراتيك,دموتيك]'''\n\n    answer:\n  ",
+        "output": "هيروگليف"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''سازمان کشورهای صادرکننده نفت کدام است؟'''\n\n    candidates:\n    '''[ایکو,آنروا,ایمکو,اوپک]'''\n\n    answer:\n  ",
+        "output": "اوپک"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''این حدیث پیامبر اکرم (ص) که می‌فرماید: «الخلق امام الحق سواء» درباره کدام موضوع است؟'''\n\n    candidates:\n    '''[آزادی در تملک اموال,مساوات عموم در برابر قانون,مسئولیت همگانی,آزادی در انتخاب شغل]'''\n\n    answer:\n  ",
+        "output": "مساوات عموم در برابر قانون"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام گزینه زیر مربوط به تمدن سومر می باشد؟'''\n\n    candidates:\n    '''[انسي ، حمورابي، لارسا,اموري ، حمورابي ، انسي,انسي ، گيل گمش ، اتن,گوتي ، نينوا ، اتن]'''\n\n    answer:\n  ",
+        "output": "انسي ، گيل گمش ، اتن"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''شما چیزی دارید که بیشتر از شما بقیه استفاده می کنند. آن چیز چیست؟'''\n\n    candidates:\n    '''[ذهن شما,نگاه شما,اسم شما,]'''\n\n    answer:\n  ",
+        "output": "اسم شما"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    ''' مرجع تصویب قانون اساسی کدام نهاد است؟'''\n\n    candidates:\n    '''[مجلس خبرگان,همه پرسی,مجلس شورای اسلامی,مجمع تشخیص مصلحت نظام کشور]'''\n\n    answer:\n  ",
+        "output": "همه پرسی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اصلاحات اجتماعی چه کسی موجب پیشرفت قابل توجه آتن و شهر های تابعه شد؟'''\n\n    candidates:\n    '''[فلیپ مقدونی,پریکلس,آنتی گون,سقراط]'''\n\n    answer:\n  ",
+        "output": "پریکلس"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''طبق فرموده رهبر انقلاب، اعتقاد به ...... آرمانی است که باید ...... به دنبال آن بیاید.'''\n\n    candidates:\n    '''[معاد جسمانی - تفکر و تعقل,مهدویت - ایدئولوژی,مهدویت - عمل, نبوت - اطاعت]'''\n\n    answer:\n  ",
+        "output": "مهدویت - عمل"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''خبرگزاری کشور اسپانیا چه نام دارد؟'''\n\n    candidates:\n    '''[انه,تاپ,كانا,انا]'''\n\n    answer:\n  ",
+        "output": "انه"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''شکست محاصره آبادان در کدام عملیات اتفاق افتاد؟'''\n\n    candidates:\n    '''[ثامن‌الائمه (ع),بیت‌المقدس,فتح المبین,طریق‌القدس]'''\n\n    answer:\n  ",
+        "output": "ثامن‌الائمه (ع)"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''به نظر امام خمینی (ره) تشکیل حکومت توسط پیامبر اسلام (ص) با چه انگیزه‌ای بود؟'''\n\n    candidates:\n    '''[گسترش عدالت اجتماعی, گسترش دانایی,تحکیم قدرت اسلام,گسترش آزادی]'''\n\n    answer:\n  ",
+        "output": "گسترش عدالت اجتماعی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مرجع رسیدگی به عزل رهبری کدام است؟'''\n\n    candidates:\n    '''[خبرگان,رهبر قابل عزل نیست.,مجمع تشخیص مصلحت نظام,مجلس شورای اسلامی]'''\n\n    answer:\n  ",
+        "output": "خبرگان"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''«امابیها»لقبکیست؟'''\n\n    candidates:\n    '''[فاطمه بنت اسد,خدیجه (س), آمنه,فاطمه زهرا (س)]'''\n\n    answer:\n  ",
+        "output": "فاطمه زهرا (س)"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''بیست و هشتم صفر سال یازدهم هجری مصادف با رحلت کدام بزرگوار است؟'''\n\n    candidates:\n    '''[رحلت ابوطالب,شهادت علی (ع),رحلت پیامبر (ص),رحلت خدیجه (س)]'''\n\n    answer:\n  ",
+        "output": "رحلت پیامبر (ص)"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''ایران چند استان دارد؟'''\n\n    candidates:\n    '''[28,29,31,]'''\n\n    answer:\n  ",
+        "output": "31"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''هدف از تشکیل« صندوق ذخیره ارزی » این است که :'''\n\n    candidates:\n    '''[خطرات ناشی از نوسانات شدید در درآمدهای ارزی جلوگیری شود.,ذخایر ارزی کشور افزایش پیدا کند.,به متقاضیان وام ارزی داده شود.,در مصرف ارز صرفه جویی شود.]'''\n\n    answer:\n  ",
+        "output": "خطرات ناشی از نوسانات شدید در درآمدهای ارزی جلوگیری شود."
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''یکی از مشهورترین جنگ هایی که بین اشکانیان و رومیان در سال 53ق.م.روی داد جنگ .............بود.'''\n\n    candidates:\n    '''[پونیک,حران,پالمیرا,کراسوس]'''\n\n    answer:\n  ",
+        "output": "حران"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اولین نماز جمعه تهران به امامت کدام شخصیت برگزار شد؟'''\n\n    candidates:\n    '''[شهید آیت الله دکتر مفتح,آیت الله طالقانی,شهید بهشتی,شهید مطهری]'''\n\n    answer:\n  ",
+        "output": "آیت الله طالقانی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مطابق اصل نود قانون اساسی هرکس شکایتی ازنحوه کار مجلس یا قوه مجریه یاقوه قضائیه داشته باشد، می تواند شکایت خود را به کدام مرجع عرضه کند؟'''\n\n    candidates:\n    '''[مقامرهبری,مجلس شورای اسلامی,رییس جمهور,رییس قوه قضائیه]'''\n\n    answer:\n  ",
+        "output": "مجلس شورای اسلامی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام یک از سازمان های ذیل، در اصل به مالکان و مدیران خود بهره می رسانند؟'''\n\n    candidates:\n    '''[مشترک المنافع ,تجاری,خدماتی,رفاه عمومی]'''\n\n    answer:\n  ",
+        "output": "تجاری"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''پایتخت ترکیه کدام شهر است؟'''\n\n    candidates:\n    '''[استانبول,آنکارا,ازمیر,بورسا]'''\n\n    answer:\n  ",
+        "output": "آنکارا"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''نحوه انتخاب فقهای شورای نگهبان چگونه است؟'''\n\n    candidates:\n    '''[با معرفی رییس قوه قضائیه و تایید مقام رهبری,با معرفی رییس قوه قضائیهوتایید مجلس شورای اسلامی,با انتخاب و معرفی مقام رهبری,با انتخاب مجلس شورایاسلامی]'''\n\n    answer:\n  ",
+        "output": "با معرفی رییس قوه قضائیه و تایید مقام رهبری"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''بیکاری عوامل تولید در جامعه به این معنا است که :'''\n\n    candidates:\n    '''[سطح تولید بالفعل از سطح تولید بالقوه پایین تر است.,دولت به وظایف اقتصادی خود عمل نمی کند.,بازار عوامل تولید دچار عدم تعادل است.,تقاضا در بازار عوامل تولید فزاینده است.]'''\n\n    answer:\n  ",
+        "output": "سطح تولید بالفعل از سطح تولید بالقوه پایین تر است."
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''«تلویزیون ایران» در چه سالی تأسیس شد؟'''\n\n    candidates:\n    '''[۱۳۳۷,۱۳۳۹,۱۳۴۰,۱۳۴۲]'''\n\n    answer:\n  ",
+        "output": "۱۳۳۷"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مقر پاپ رهبر کاتولیک های جهان در چه شهری است؟'''\n\n    candidates:\n    '''[ژنو, برن,وین,واتیکان]'''\n\n    answer:\n  ",
+        "output": "واتیکان"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''UPS دستگاهی است که ...'''\n\n    candidates:\n    '''[یک وسیله برای انجام بازی های کامپیوتری است.,از آن برای انتقال اطلاعات استفاده می شود.,به هنگام قطع جریان برق به طور خودکار جریان برق خود را بلافاصله جایگزین برق شهر می کند تا اطلاعات جریان برق از بین,وسیله ای است برای پردازش داده ها]'''\n\n    answer:\n  ",
+        "output": "به هنگام قطع جریان برق به طور خودکار جریان برق خود را بلافاصله جایگزین برق شهر می کند تا اطلاعات جریان برق از بین"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام قوم می پنداشت بیماری را ناشی از ورود ارواح خبیث در بدن می دانست؟'''\n\n    candidates:\n    '''[سومر,آشور,ایلام,مصر]'''\n\n    answer:\n  ",
+        "output": "سومر"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کوچک ترین واحد ساختمانی بدن انسان کدام است؟'''\n\n    candidates:\n    '''[سلول,ژن,مولکول,عصب]'''\n\n    answer:\n  ",
+        "output": "سلول"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''قرآن کریم کدامیک از مکاتب زیر را تأیید نمی‌کند؟'''\n\n    candidates:\n    '''[مکتب اصالت فرد,مکتب اصالت اجتماع,مکتب اصالت فرد و اجتماع,موارد ۱ و ۲]'''\n\n    answer:\n  ",
+        "output": "موارد ۱ و ۲"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''كدام حكومت به حكومت بابل جديد مشهور مي باشد؟'''\n\n    candidates:\n    '''[هخامنشي,اكدي,كلداني,اموري]'''\n\n    answer:\n  ",
+        "output": "كلداني"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حضرت امام خمینی (ره) علاوه بر شرایط عامه زمامدار چه شرایط دیگری را برای او اساسی می‌داند؟'''\n\n    candidates:\n    '''[عصمت,علم به قانون,عدالت,۲ و ۳]'''\n\n    answer:\n  ",
+        "output": "۲ و ۳"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''پهناور ترین کشور دنیا کدام است؟'''\n\n    candidates:\n    '''[آمریکا,چین,روسیه,استرالیا]'''\n\n    answer:\n  ",
+        "output": "روسیه"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''شهر خرمشهر در چه تاریخی از دست نیروهای عراق آزاد شد؟'''\n\n    candidates:\n    '''[دوم اردیبهشت ۱۳۶۱,سوم مرداد ۱۳۶۲,چهارم تیر ۱۳۶۲,سوم خرداد ۱۳۶۱]'''\n\n    answer:\n  ",
+        "output": "سوم خرداد ۱۳۶۱"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مؤسس حزب دموکرات مردم ایران پس از شهریور ۱۳۲۰ چه نام داشت؟'''\n\n    candidates:\n    '''[سید جعفر پیشه وری,حسین ملکی,احمد قوام,مظفر بقایی]'''\n\n    answer:\n  ",
+        "output": "احمد قوام"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''نخستين شهرهاي ميان در رود باستان در كجا پديد آمد؟'''\n\n    candidates:\n    '''[اور,كيش,لاگاش,سومر]'''\n\n    answer:\n  ",
+        "output": "سومر"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''به طور تقریبی چند کشور در جهان است؟'''\n\n    candidates:\n    '''[100,200,250,]'''\n\n    answer:\n  ",
+        "output": "200"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''سال ۱۳۵۷ خورشیدی برابر با کدام سال هجری قمری است؟'''\n\n    candidates:\n    '''[۱۳۹۸,۱۳۹۶,۱۳۹۹,۱۴۰۱]'''\n\n    answer:\n  ",
+        "output": "۱۳۹۹"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''چه مقدار از کل آب های کره زمین در داخل خشکی ها قرار گرفته اند؟'''\n\n    candidates:\n    '''[15%,6%,5%,3%]'''\n\n    answer:\n  ",
+        "output": "6%"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''استفاده از آجرهای لعاب دار نخستین بار توسط چه کسانی ابداع شد؟'''\n\n    candidates:\n    '''[ماد,هخامنشیان,ایلام,مصریان]'''\n\n    answer:\n  ",
+        "output": "ماد"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''رهبران مذهبی در برابر رفراندوم اصول شش گانه انقلاب سفید چه روشی در پیش گرفتند؟'''\n\n    candidates:\n    '''[ابطال,بی اعتنایی,پذیرش,تحریم]'''\n\n    answer:\n  ",
+        "output": "تحریم"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''چرا نجوم از مهم ترين دانش هايي بود كه مردم ميان دو رود در آن پيشرفت چشمگيري كردند؟'''\n\n    candidates:\n    '''[وجود دادو ستد و امور بازرگاني,رواج خرافات,پرستش ستارگان و تاثير آنها در سرنوشت انسان,اعتقاد به ارواحي كه در بدن نفوذ مي كردند.]'''\n\n    answer:\n  ",
+        "output": "پرستش ستارگان و تاثير آنها در سرنوشت انسان"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''تعداد فقهای شورای نگهبان چند نفر است؟'''\n\n    candidates:\n    '''[۶,۱۲,۵,۹]'''\n\n    answer:\n  ",
+        "output": "۶"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''نام دیگر اقیانوس اطلس'''\n\n    candidates:\n    '''[کبیر,آتلانتیک,هند,آرام]'''\n\n    answer:\n  ",
+        "output": "آتلانتیک"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''ساختن نوعي مقبره در مصر « دره ي شاهان» نخستين بار در زمان چه كسي آغاز شود؟'''\n\n    candidates:\n    '''[آنوبيس,حتچپسوت,رامسس دوم,خوفو]'''\n\n    answer:\n  ",
+        "output": "حتچپسوت"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام مورد معادل مناسب تری برای واژه “کارنگ” است؟'''\n\n    candidates:\n    '''[سیاست مدار,چرب زبان,کارشناس,آرامش دهنده]'''\n\n    answer:\n  ",
+        "output": "چرب زبان"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام کشور اولین تولید کننده خرما در جهان است؟'''\n\n    candidates:\n    '''[ایران,عربستان,عراق,سوریه]'''\n\n    answer:\n  ",
+        "output": "ایران"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    ''' باتلاق « جازموریان » بین کدام استان ها است؟'''\n\n    candidates:\n    '''[مرکزی – تهران – اصفهان,سیستان و خراسان,کرمان و یزد,سیستان و کرمان]'''\n\n    answer:\n  ",
+        "output": "سیستان و کرمان"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''“قسطنطنیه” نام قدیم کدام شهر است؟'''\n\n    candidates:\n    '''[آتن,بغداد,استانبول,رم]'''\n\n    answer:\n  ",
+        "output": "استانبول"
+    }
+]

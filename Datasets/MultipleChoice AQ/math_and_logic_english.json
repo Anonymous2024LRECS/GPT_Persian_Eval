@@ -1,0 +1,1002 @@
+[
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''عدد ۶ یک عدد کامل نامیده می‌شود، زیرا برابر است با مجموع مقسوم علیه‌هایش به استثنای خود عدد ۶ کدامیک از عددهای زیر عدد کامل است؟'''\n\n    candidates:\n    '''[۱۲,۲۸,۳۶,۱۶]'''\n\n    answer:\n  ",
+        "output": "۲۸"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حاصل عبارت ۲ - ۵ برابر است با ؟'''\n\n    candidates:\n    '''[2,3,4,5]'''\n\n    answer:\n  ",
+        "output": "3"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''۵۴۰۰ لیتر بنزین برای مصرف ۹ اتومبیل یک شرکت راهسازی در مدت ۲۰ روز مأموریت داده شده است. با\nافزوده شدن ۳ اتومبیل دیگر ۲ روز از مدت مأموریت کم می‌شود در صورتی که مقدار بنزین دریافتی تغییر\nنکند. سهمیه بنزین روزانه هر اتومبیل:\n'''\n\n    candidates:\n    '''[زیاد شده است,کم شده است,تغییر نکرده است,قابل تعیین نیست]'''\n\n    answer:\n  ",
+        "output": "کم شده است"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حاصل جمع دو عدد ۵۷ است، اگر عدد بزرگ ‌تر سه واحد از سه برابر عدد کوچک‌تر کمتر باشد عدد بزرگ ‌تر چقدر است؟'''\n\n    candidates:\n    '''[۲۰,۴۲,۱۵,۳۷]'''\n\n    answer:\n  ",
+        "output": "۴۲"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حاصل عبارت ۵ + ۱۳۴ برابر است با ؟'''\n\n    candidates:\n    '''[129,135,139,140]'''\n\n    answer:\n  ",
+        "output": "139"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اگر عدد ۱۲ بر عدد ۳ تقسیم شود.خارج قسمت برابر است با:'''\n\n    candidates:\n    '''[۳,۴,۵,۶]'''\n\n    answer:\n  ",
+        "output": "۴"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    ''' نرگس برای قبولی در یک آزمون باید %۶۵ سوال ها را درست جواب دهد اگر نرگس از ۱۴ سوال اول ۷ سوال را غلط جواب داده وقبول شده باشد ، حداقل تعداد\r\nسوالها چندتا بوده است؟\r'''\n\n    candidates:\n    '''[۲۰,۲۲,۱۸,۲۴]'''\n\n    answer:\n  ",
+        "output": "۲۰"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''تلوزیونی را به مبلغ ۲۳۰۰۰ فروخته اند این قیمت %۱۵ بیشتر از قیمت خرید بوده . فروشنده چقدر سود کرده است؟'''\n\n    candidates:\n    '''[۳۰۰۰,۳۷۵۰,۲۷۰۰,۳۴۵۰]'''\n\n    answer:\n  ",
+        "output": "۳۰۰۰"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حاصل عبارت ۴ - ۱۰۳ برابر است با ؟'''\n\n    candidates:\n    '''[-99,99,-89,89]'''\n\n    answer:\n  ",
+        "output": "99"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''با توجه به یک ترتیب خاص یک عدد باید حذف شود ویک گزینه به جای آن قرار گیرد بجای آن کدام عدد را باید گذاشت'''\n\n    candidates:\n    '''[۱۳,۱۵,6,۸]'''\n\n    answer:\n  ",
+        "output": "۱۳"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حاصل عبارت ۱۰ + ۱۳ برابر است با ؟'''\n\n    candidates:\n    '''[13,23,33,21]'''\n\n    answer:\n  ",
+        "output": "23"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''با حروف ت،ر، ا،ب،ز،و،ه چند کلمه از کلمات زیر را می توان ساخت روزنه، روزبه، رودابه،رازدار،بازی،ترازو؟'''\n\n    candidates:\n    '''[یک,دو,سه,چهار]'''\n\n    answer:\n  ",
+        "output": "دو"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    ''' ﻜﺪاﻡ عبارت صحیح نیست ؟'''\n\n    candidates:\n    '''[اﺯﺪو نقطه فقط یک خط راست می ﮔﺬارﺪ.,اﮔﺮخطی بر خط ﺪﻴﮔﺮعموﺪباﺷﺪبر خطوط مواﺯی آن ﻨﻳﺯعموﺪاست.,هر خط عموﺪبر خط ﺪﻴﮔﺮعموﺪمنصف آن خط است.,هر قطر لوﺯی عموﺪمنصف قطر ﺪﻴﮔﺮاست.]'''\n\n    answer:\n  ",
+        "output": "هر خط عموﺪبر خط ﺪﻴﮔﺮعموﺪمنصف آن خط است."
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدامیک ازاعداد زیرازعدد 43 کوچکتراست؟'''\n\n    candidates:\n    '''[45,54,49,34]'''\n\n    answer:\n  ",
+        "output": "34"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''قیمت یک نوع کالا ۴۹۰۰۰ ریال است.اگر دوبرابر سود حاصل ازاین فروش ثلث قیمت خرید آن باشد قیمت کالا چقدر است؟'''\n\n    candidates:\n    '''[۴۰۸۳۳/۴,۳۹۲۰۰,۴۲۰۰۰,۴۱۸۰۰]'''\n\n    answer:\n  ",
+        "output": "۴۲۰۰۰"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کرایه حمل بسته های پستی A ریال برای هر کیلوگرم از ۳۰ کیلوگرم اول و B ریال برای هر کیلوگرم اضافه بر ۳۰ کیلوگرم است .هرگاه برای حمل ۳۳ کیلوگرم مبلغ ۱۱۶۷ تومان و برای ۳۶ کیلوگرم ۱۲۸۴ تومان پرداخت شود A برابر است با :'''\n\n    candidates:\n    '''[۴۲,۳۹,۳۵,۷۴]'''\n\n    answer:\n  ",
+        "output": "۳۵"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''150 تا 4 تا برابر است با ......'''\n\n    candidates:\n    '''[300,500,600,900]'''\n\n    answer:\n  ",
+        "output": "600"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''۱۲۰-از ۷۰ نفر دانشجوی پسر و ۵۰ نفر دانشجوی دختر، ۴۰ درصد از دختران و ۵۰ درصد از پسران در یک مسابقه علمی شرکت کردهاند. تقریبا چند درصد از دانشجویان در این مسابقه شرکت کرده اند؟'''\n\n    candidates:\n    '''[۴۰,۴۲,۴۵,۴۶]'''\n\n    answer:\n  ",
+        "output": "۴۶"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''دو ماشین از یک نقطه یکی به سمت شر ق و دیگری به سمت غرب حرکت می کنند.بعد از ۳ ساعت فاصله دو ماشین ۴۲۰ کیلومتر می شود .اگر سرعت ماشینی که به مشرق می رود دو سوم سرعت ماشین دیگر باشد سرعت اتومبیلی که بطرف مشرق می رود چند کیلومتر در ساعت است؟'''\n\n    candidates:\n    '''[23.6,56,50.4,84]'''\n\n    answer:\n  ",
+        "output": "56"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''نسبت اسید دریک ماده شیمیایی %۳ است، ۶۰ لیتر از این ماده را با چند لیتر ماده بدون اسید باید مخلوط کرد تا نسبت اسید مخلوط %۱ شود؟'''\n\n    candidates:\n    '''[۸۰,۱۰۰,۱۲۰,۱۵۰]'''\n\n    answer:\n  ",
+        "output": "۱۲۰"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''زن و شوهری با دو دختر خود و همسرانشان و چهارفرزند هرکدام از دختران ، مهمان زن و شوهر دیگری هستند . دراین مهمانی چند نفر حضور دارند؟'''\n\n    candidates:\n    '''[۱۶,۱۴,۱۲,۱۰]'''\n\n    answer:\n  ",
+        "output": "۱۶"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در الگوی اعداد مربعی عدد بیست و پنجم چند است؟'''\n\n    candidates:\n    '''[125,100,325,625]'''\n\n    answer:\n  ",
+        "output": "625"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''یک مخزن بنزین، دو مجرا دارد، اولی مخزن را در ۶ ساعت و هر دو مجرا با هم آن را در ۴ ساعت خالی می‌کنند. در صورتی که مخزن خالی و فقط مجرای دوم باز باشد مخزن در چند ساعت خالی می‌شود؟'''\n\n    candidates:\n    '''[۱۲,۸,۴,۳]'''\n\n    answer:\n  ",
+        "output": "۸"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''موتورسواری با سرعت متوسط ۶۰ کیلومتر در ساعت فاصله بین دو شهر را طی می‌کند و همین فاصله را با سرعت متوسط ۴۰ کیلومتر در ساعت برمی گردد سرعت متوسط او برای تمام مسیر رفت و برگشت عبارت است از :'''\n\n    candidates:\n    '''[۵۳ کیلومتر در ساعت,۵۰ کیلومتر در ساعت,۴۸ کیلومتر در ساعت,۵۲ کیلومتر در ساعت]'''\n\n    answer:\n  ",
+        "output": "۴۸ کیلومتر در ساعت"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''۵۰ درصد از یک ربع کدام کسر زیر برابر با ۱ است؟'''\n\n    candidates:\n    '''[۸,۹,۱۰,۱۱]'''\n\n    answer:\n  ",
+        "output": "۸"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''نسبت سن یک برادر و خواهر که هر دو دانش آموز دبیرستان می‌باشند، ۶ به ۵ است. حداقل سن خواهر کدام است؟'''\n\n    candidates:\n    '''[۵,۱۰,۱۵,۲۰]'''\n\n    answer:\n  ",
+        "output": "۱۵"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''بعضی از کارمندان اداره ای لیسانسیه هستند ، بعضی کارمندان به زبان فرانسه آشنائی دارند .بعضی از لیسانسیه ها زبان فرانسوی می دانند. اگر جمله اول و دوم درست باشد جمله سوم :؟'''\n\n    candidates:\n    '''[ممکن است درست باشد ممکن است غلط باشد,هیچگاه درست نیست,همواره درست است,همواره درست نیست]'''\n\n    answer:\n  ",
+        "output": "ممکن است درست باشد ممکن است غلط باشد"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''100 تا 3 تا برابر است با ......'''\n\n    candidates:\n    '''[130,300,3000,1000]'''\n\n    answer:\n  ",
+        "output": "300"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در ادامه این رشته چه عددی باید نوشت؟             3, 5, 5, 9, 7, 13, 9, …'''\n\n    candidates:\n    '''[17,11,14,15]'''\n\n    answer:\n  ",
+        "output": "17"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    ''' کدام یک از شکل های زیر خط تقارن ندارد .'''\n\n    candidates:\n    '''[مستطیل,لوزی,مربع,متوازی الاضلاع]'''\n\n    answer:\n  ",
+        "output": "متوازی الاضلاع"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''نسبت سن یک برادر و خواهر که هر دو دانش آموز دبیرستان می‌باشند، ۶ به ۵است. حداقل سن خواهر کدام است؟'''\n\n    candidates:\n    '''[5,10,15,20]'''\n\n    answer:\n  ",
+        "output": "15"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''توجه به رابطه اعداد عدد بعدی کدام است ...،۴،۹،۶،۱۱،۸؟'''\n\n    candidates:\n    '''[۱۳,۱۷,۴,۵]'''\n\n    answer:\n  ",
+        "output": "۱۳"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حداقل تعداد مربع‌هایی که می‌توان در یک مستطیل به طول ۶۰ و به عرض ۱۸ قرار داد تا سطح مستطیل را'''\n\n    candidates:\n    '''[بپوشاند، چند عدد است؟,۳۰,۶۰,۱۲۰]'''\n\n    answer:\n  ",
+        "output": "بپوشاند، چند عدد است؟"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''معدل مقادیر x، 82 و 68 برابر 70 است. مقدار x چقدر است؟'''\n\n    candidates:\n    '''[50,60,75,84]'''\n\n    answer:\n  ",
+        "output": "60"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    ''' به هرﭽهار ضلعی که فقط دوضلع موازی داشته باشد ﭽﻪ می ﮔویند.'''\n\n    candidates:\n    '''[مربع,ذوزنقه,لوزی,مستطیل]'''\n\n    answer:\n  ",
+        "output": "ذوزنقه"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''یک ظرف در مدت یک ساعت پر می‌شود بقیه ظرف در مدت چند دقیقه پر خواهد شد؟'''\n\n    candidates:\n    '''[۵۶ دقیقه,۸۰ دقیقه,۷۵ دقیقه,۱۰۵ دقیقه]'''\n\n    answer:\n  ",
+        "output": "۸۰ دقیقه"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در ادامه رشته عددی ۵، ۱۱، ۸، ۳۱، ۱ ، ..... چه عددی باید نوشت؟'''\n\n    candidates:\n    '''[۵۱,۵۳,۱۷,۳۴]'''\n\n    answer:\n  ",
+        "output": "۵۱"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''شما در یک مسابقه سرعت شرکت کرده‌اید. از نفر دوم سبقت می‌گیرید. اکنون در چه جایگاهی قرار دارید؟'''\n\n    candidates:\n    '''[نفر اول,نفر دوم,نفر سوم,]'''\n\n    answer:\n  ",
+        "output": "نفر دوم"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''- نسبت سن زهره به سوسن ۱ است.سن مریم دو برابر سن سوسن و زهره ۱۵ سال از مریم کوچکتر است. سن سوسن کدامست؟'''\n\n    candidates:\n    '''[۲۴,۲۰,۲۵,هیچ کدام]'''\n\n    answer:\n  ",
+        "output": "۲۰"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''دوچرخه سواری سه پنجم مسافت دو دهکده را در دو ساعت و دو سوم از مسافت باقیمانده را در ۴۰ دقیقه طی می کند.چه نسبتی از مسافت باقیمانده است؟'''\n\n    candidates:\n    '''[دو پانزدهم,دو پنجم,یک سوم,سیزده پنجم]'''\n\n    answer:\n  ",
+        "output": "دو پنجم"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در یک قفسه کتاب که چندین طبقه دارد در طبقه اول ۵ کتاب و در طبقه دوم ۶ کتاب و به همین ترتیب در هر طبقه بالاتر یک کتاب بیشتر قرار دارد اگر در\r\nآخرین قفسه ۱۶ کتاب باشد قفسه چند طبقه دارد؟\r\n'''\n\n    candidates:\n    '''[۱۲,۱۱,۱۳,۱۶]'''\n\n    answer:\n  ",
+        "output": "۱۲"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''با استفاده از اعداد پنج و شش و صفر چند عدد سه رقمی میتوان ساخت؟'''\n\n    candidates:\n    '''[2,3,4,6]'''\n\n    answer:\n  ",
+        "output": "4"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اگر اضلاع دو زاویه دو به دو موازی باشند آن دو زاویه با هم ؟'''\n\n    candidates:\n    '''[مساوی اند,مکمل اند,مجانبند,مساوی یا مکمل اند]'''\n\n    answer:\n  ",
+        "output": "مساوی یا مکمل اند"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    ''' برای انجام عمل تقسیم به ﺪوﻋﺪﺪ نیاﺯﻤﻧﺪﻴﻡ که  عبارﺗﻧﺪﺍﺯ:۟۟۟۟۟۰۰۰۰۰۰۰۰ ۟۟۟۟۟۰۰۰۰۰۰۰۰'''\n\n    candidates:\n    '''[مقسوم علیه وخارج قسمت,مقسوم ومقسوم علیه,مقسوم وباقی ماﻧﺪﻩ,خارج قسمت و باقی ماﻧﺪﻩ]'''\n\n    answer:\n  ",
+        "output": "مقسوم ومقسوم علیه"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''دو حباب بلوری یک چراغ، به شکل نیم کره و شعاع حباب بیرونی ۲۰ درصد زیادتر از شعاع حباب داخلی است. مساحت سطح حباب خارجی چند درصد بیشتر از مساحت حباب داخلی است؟'''\n\n    candidates:\n    '''[۴۴,۱۴۴,۵۶,۱۵۶]'''\n\n    answer:\n  ",
+        "output": "۴۴"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''A در جنوب B قرار دارد. C در غرب B قرار دارد. D در شرق B قرار دارد. بنابراین:'''\n\n    candidates:\n    '''[A در جنوبشرقی C قرار دارد,A در جنوبغربی C قرار دارد,C در شمال شرقی A قرار دارد,D در غرب C قرار دارد.]'''\n\n    answer:\n  ",
+        "output": "A در جنوبشرقی C قرار دارد"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در هر ردیف یک سالن سینما که به شکل مستطیل می‌باشد ۱۷ صندلی وجود دارد. گنجایش این سالن چند نفر می‌تواند باشد؟'''\n\n    candidates:\n    '''[۵۲۰,۳۵۰,۳۷۰,۵۱۰]'''\n\n    answer:\n  ",
+        "output": "۵۱۰"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حاصل جمع دو عدد ۵۷ است. اگر عدد بزرگ‌تر سه واحد از سه برابر عدد کوچک‌تر کمتر باشد عدد بزرگ‌تر\r\nچقدر است؟\r'''\n\n    candidates:\n    '''[۲۰,۴۲,۱۵,۳۷]'''\n\n    answer:\n  ",
+        "output": "۴۲"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''قیمت اولیه یک کیلو مواد خام چقدر بوده است در صورتی که بعد از %۱۵ تخفیف کلا 2550 ریال پرداخت شده باشد؟'''\n\n    candidates:\n    '''[2932,2167,2955,3000]'''\n\n    answer:\n  ",
+        "output": "3000"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حاصل عبارت ۲۵ + ۶۷۵ برابر است با ؟'''\n\n    candidates:\n    '''[800,700,690,695]'''\n\n    answer:\n  ",
+        "output": "700"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    ''' وتر یعنی ﭼﮫ؟'''\n\n    candidates:\n    '''[یک ضلع ﺯﺍویه ی قاﺋﻤﻪ ﺪرمثلث قاﺋﻡ اﻟﺯﺍویه,ضلع ﺑﺯرﮒ هرمثلثی,یک ضلع مثلث متساوی الاضلاع,ضلع روبه روﺯﺍویه ی قاﺋﻤﻪ ﺪﺭهرمثلث]'''\n\n    answer:\n  ",
+        "output": "ضلع روبه روﺯﺍویه ی قاﺋﻤﻪ ﺪﺭهرمثلث"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در ادامه چه عددی می توان نوشت.  ... ،۰،۲،۶،۸،۲۴،۲۶'''\n\n    candidates:\n    '''[۷۸,۵۲,۳۰,۲۸]'''\n\n    answer:\n  ",
+        "output": "۷۸"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اگر بهرام یک سوم مجید و مجید ۴ برابر جمشید ، جمشید یک دوم هوشنگ و هوشنگ ۳۰۰۰ تومان، پول داشته باشد، بهرام چند تومان دارد؟'''\n\n    candidates:\n    '''[۲۰۰۰,۲۴۰۰,۲۷۰۰,3000]'''\n\n    answer:\n  ",
+        "output": "۲۰۰۰"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''ظرفی پر از آب ۲۴۰۰ گرم وزن دارد اگر نصف آن را خالی کنیم ۱/۶۵ کیلوگرم وزن خواهد داشت .گنجایش ظرف چند سانتی متر مکعب است؟'''\n\n    candidates:\n    '''[۲۴۰۰,۱۵۰۰,۹۰۰,نمی توان تعیین کرد]'''\n\n    answer:\n  ",
+        "output": "۱۵۰۰"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''متحرکی که به سمت جنوب در حرکت بوده، سه مرتبه هر بار یک قائمه مسیر خود را به سمت راست تغییر داده است، سمت حرکت به کدام سمت است؟'''\n\n    candidates:\n    '''[شمال,جنوب,مشرق,مغرب]'''\n\n    answer:\n  ",
+        "output": "مشرق"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''موتورسواری با سرعت متوسط ۶۰ کیلومتر در ساعت فاصله بین دو شهر را طی می‌کند و همین فاصله را با سرعت متوسط ۴۰ کیلومتر در ساعت برمی گردد.\r\nسرعت متوسط او برای تمام مسیر رفت و برگشت عبارت است از\r'''\n\n    candidates:\n    '''[۵۳ کیلومتر در ساعت,۵ کیلومتر در ساعت,۴۸ کیلومتر در ساعت,۵۲ کیلومتر در ساعت]'''\n\n    answer:\n  ",
+        "output": "۴۸ کیلومتر در ساعت"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''طرف ﺪوم تساوی مقابل ﻜﺪام است ؟.........=38-98'''\n\n    candidates:\n    '''[50,60,70,1470]'''\n\n    answer:\n  ",
+        "output": "60"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مجموع سه عدد فرد متوالی ۶۳ است نصف عدد بزرگتر کدامست؟'''\n\n    candidates:\n    '''[۲۳,۱۱.۵,۱۲,۱۱]'''\n\n    answer:\n  ",
+        "output": "۱۱.۵"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مجموع ۳ عدد متوالی ۲۷ است. کدامیک از آنها بر ۳ قابل قسمت است؟'''\n\n    candidates:\n    '''[عدد بزرگتر,عدد کوچکتر,عدد میانه,هر سه ]'''\n\n    answer:\n  ",
+        "output": "عدد میانه"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اگر محمود، بزرگتر از حسین و ایرج و حسین بزرگتر از هوشنگ و هوشنگ بزرگتر از ایرج باشد :'''\n\n    candidates:\n    '''[حسین بزرگتر از محمود است,محمود کوچکتر از هوشنگ است,ایرج بزرگتر از محمود است,ایرج کوچکتر از حسین است]'''\n\n    answer:\n  ",
+        "output": "ایرج کوچکتر از حسین است"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''به جای علامت سوال چه عددی باید نوشت ۹۶،...،۳،۷،۱۸،۲۶،۳۷،۵۳'''\n\n    candidates:\n    '''[۶۹,۶۴,۶۱,57]'''\n\n    answer:\n  ",
+        "output": "۶۴"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''4 تا 6 تا برابر است با ......'''\n\n    candidates:\n    '''[24,27,30,20]'''\n\n    answer:\n  ",
+        "output": "24"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام یک از کسرهای زیر برابر ۲ است؟'''\n\n    candidates:\n    '''[۲/۲,۳/۲,۴/۲,۵/۲]'''\n\n    answer:\n  ",
+        "output": "۴/۲"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حداقل تعداد مربعهایی که میتوان در یک مستطیل به طول 60 و به عرض 18 قرار داد تا سطح مسـتطیل را پوشاند، چند عدد است؟'''\n\n    candidates:\n    '''[30,60,120,20]'''\n\n    answer:\n  ",
+        "output": "30"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''10 تا 31 تا برابر است با ......'''\n\n    candidates:\n    '''[310,300,320,330]'''\n\n    answer:\n  ",
+        "output": "310"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''دریک کلاس که عده دانش آموزان آن ۲۷ نفر است، ۱۸ نفر زبان انگلیسی، ۱۵ نفر زبان آلمانی، ۱۲ نفر هر دو زبان انگلیسی و بقیه زبان فرانسه تحصیل می‌کنند. چند نفر زبان فرانسه تحصیل می‌کنند؟'''\n\n    candidates:\n    '''[۶,۹,۳,هیچکدام ]'''\n\n    answer:\n  ",
+        "output": "۶"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''سه نفر از یک مبلغ باید ثلث و ربع و خمس سهم داشته باشند این مبلغ بین آنها به نسبت ۳ و ۴ و ۵ تقسیم شده است در این صورت :'''\n\n    candidates:\n    '''[سهم هر سه نفر زیادتر شده است.,سهم هر سه نفر کمتر شده است.,سهم هیچکدام تغییر نکرده است.,سهم نفرهای اول و دوم تعویض و سهم نفر سوم زیادتر شده است.]'''\n\n    answer:\n  ",
+        "output": "سهم نفرهای اول و دوم تعویض و سهم نفر سوم زیادتر شده است."
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حاصل عبارت ۹۰ + ۲۵ برابر است با ؟'''\n\n    candidates:\n    '''[105,115,110,120]'''\n\n    answer:\n  ",
+        "output": "115"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''عصري که در آن زندگی میکنیم آن سان پر آشوب و مخاطره است که نمیتوان آینده را ...'''\n\n    candidates:\n    '''[پیش بینی کرد,از نو ساخت,به دیگران سپرد, در خطر دید]'''\n\n    answer:\n  ",
+        "output": "پیش بینی کرد"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''قیمت یک کلاه پس از ۲۰ درصد تخفیف و ۱۴۰ ریال تخفیف مجدد،۴۲۰ ریال می‌باشد. قیمت اصلی کلاه کدامست؟'''\n\n    candidates:\n    '''[۵۶۰,۶۷۲,۸۴۰,700]'''\n\n    answer:\n  ",
+        "output": "700"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''قیمت یک دوربین عکاسی ۵۷۰ تومان است این مبلغ ۵ درصد از قیمت خرید آن کمتر است مبلغ خرید چند تومان است؟'''\n\n    candidates:\n    '''[۶۰۰,۵۷۵,۵۸۵,۵۹۵]'''\n\n    answer:\n  ",
+        "output": "۶۰۰"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام گزینه درست است؟'''\n\n    candidates:\n    '''[مجموعه فعالیتهای هنری که در پیام رسانی تصویری و ارتباط فرهنگی به کار می رود ، گرافیک نام دارد.,طراحی جلد و صفحه آرایی مطالب و طراحی علائم و نشانه در حیطه ی گرافیک می باشد.,از انواع خوشنویسی و طراحی و نقاشی در گرافیک استفاده می شود.,هر سه مورد]'''\n\n    answer:\n  ",
+        "output": "هر سه مورد"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''از ۱۰ کتاب ادبی متفاوت و ۸ کتاب علوم مختلف چند دسته ۵ تائی متشکل از ۲ کتاب ادبی و ۳ کتاب علوم می توان انتخاب کرد؟'''\n\n    candidates:\n    '''[۴۵,۵۵,۶۶,۷۲]'''\n\n    answer:\n  ",
+        "output": "۴۵"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اگر عدد abab بر ab تقسیم شود خارج قسمت برابر است با:'''\n\n    candidates:\n    '''[11,110,101,ab]'''\n\n    answer:\n  ",
+        "output": "110"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''به جای ؟ چه عددی باید نوشت؟  ؟،۲،۴،۶'''\n\n    candidates:\n    '''[۵,۷,۸,۹]'''\n\n    answer:\n  ",
+        "output": "۸"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''پس از دو تخفیف متوالی %۱۵ و %۱۰ قیمت یک کالا ۳۰۶۰۰ ریال می‌باشد. قیمت کالا قبل از تخفیف کدام\r\nاست؟\r'''\n\n    candidates:\n    '''[۴۰۰۰۰ ریال,۴۰۸۰۰ ریال,۲۳۴۰۹ ریال,هیچکدام]'''\n\n    answer:\n  ",
+        "output": "۴۰۰۰۰ ریال"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حاصل عبارت ۵ + ۱۲ برابر است با ؟'''\n\n    candidates:\n    '''[13,17,15,18]'''\n\n    answer:\n  ",
+        "output": "17"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''یک مخزن بنزین، دو مجرا دارد، اولی مخزن را در ۶ ساعت و هر دو مجرا با هم آن را در ۴ ساعت خالی می‌کنند در صورتی که مخزن خالی و فقط مجرای\nدوم باز باشد مخزن در چند ساعت خالی می‌شود؟\n'''\n\n    candidates:\n    '''[۱۲,۸,۴,۳]'''\n\n    answer:\n  ",
+        "output": "۸"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حاصل عبارت ۸۶ + ۵ برابر است با ؟'''\n\n    candidates:\n    '''[81,90,92,91]'''\n\n    answer:\n  ",
+        "output": "91"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''خانمی ۸سکه نقره داشت که یکی ازآنها بدون اینکه قابل تشخیص باشد تقلبی بود،اگر سکه تقلبی وزن کمتری نسبت به دیگرسکه ها داشته باشد.حداقل تعداد دفعات توزینی که او بایستی انجام دهد تا سکه راپیداکند چقدراست.(فرض کنید از ترازوی کفه ای استفاده می کنیم)؟'''\n\n    candidates:\n    '''[۳,۴,۶,7]'''\n\n    answer:\n  ",
+        "output": "۳"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حاصل عبارت ۱۰۰ + ۷ برابر است با ؟'''\n\n    candidates:\n    '''[106,110,117,107]'''\n\n    answer:\n  ",
+        "output": "107"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اگر شعاع دایره ای را 3 برابر کنیم ،محیط آن .............برابر می شود.'''\n\n    candidates:\n    '''[9,16,25,36]'''\n\n    answer:\n  ",
+        "output": "9"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''همه دانش آموزان این دبیرستان بیش از ۱۴ سال دارند. فرهاد ۱۲ ساله است. فرهاد دانش آموز این دبیرستان است. اگر جمله اول و دوم درست باشند جمله سوم :'''\n\n    candidates:\n    '''[حتما درست نیست.,حتما درست است.,ممکن است درست باشد.,ممکن است درست نباشد.]'''\n\n    answer:\n  ",
+        "output": "حتما درست نیست."
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حاصل عبارت ۱۲۰ + ۳ برابر است با ؟'''\n\n    candidates:\n    '''[113,123,122,124]'''\n\n    answer:\n  ",
+        "output": "123"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مربع یک کسر:'''\n\n    candidates:\n    '''[حتما از کسر اصلی کوچکتر است.,حتما از کسر اصلی بزرگتر است.,حتما از واحد کمتر است.,هیچکدام از سه جواب ۱، ۲ و ۳ الزامی نمی‌باشد.]'''\n\n    answer:\n  ",
+        "output": "هیچکدام از سه جواب ۱، ۲ و ۳ الزامی نمی‌باشد."
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اگر ترتیب رقم‌های یک عدد دو رقمی عوض شود، عدد حاصل فقط بر ۷ و ۳ قابل قسمت می‌باشد.آن عدد کدام است؟'''\n\n    candidates:\n    '''[۲۱,۱۲,۴۲,۲۴]'''\n\n    answer:\n  ",
+        "output": "۱۲"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در ادامه چه عددی باید نوشت   ....،۱،۲،۸،۴۸'''\n\n    candidates:\n    '''[۳۸۴,۲۸۸,۶۱,۹۶]'''\n\n    answer:\n  ",
+        "output": "۳۸۴"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حاصل عبارت ۵۰ + ۲۰ برابر است با ؟'''\n\n    candidates:\n    '''[70,60,50,80]'''\n\n    answer:\n  ",
+        "output": "70"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''هوشنگ نیمی از پولش را به برادرش محسن داد و به این ترتیب موجودی محسن سه برابر شد. اگر هوشنگ حالا ۱۲۰ ریال کمتر از محسن داشته باشد. موجودی او در ابتدا چقدر بوده است؟'''\n\n    candidates:\n    '''[۴۸۰ ریال,۹۶۰ ریال,۳۶۰ ریال,۶۰۰ ریال]'''\n\n    answer:\n  ",
+        "output": "۴۸۰ ریال"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''نسبت به تعداد شاگردان کلاس اول به دوم، ۹ به ۷ و کلاس دوم به سوم، ۴ به ۳ است. اگر هیچیک از این کلاسها کمتر از ۲۰ شاگرد نداشته باشند، حداقل تعداد دانش آموزان کلاس دوم چند نفر است؟'''\n\n    candidates:\n    '''[۲۱ نفر ,۲۸ نفر ,۴۹ نفر ,۴۹ نفر ]'''\n\n    answer:\n  ",
+        "output": "۲۸ نفر "
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''گروهی از افراد وارد باغی شدند.اولی یک سیب ، دومی ۲ سیب و...از درخت چیدند.سپس همه سیب ها را روی هم ریختند.به هر نفر ۷ سیب رسید. تعداد افراد گروه چند نفرند؟'''\n\n    candidates:\n    '''[۱۳,۱۴,15,16]'''\n\n    answer:\n  ",
+        "output": "۱۳"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''%20 عدد 500 برابر است با ....'''\n\n    candidates:\n    '''[100,200,50,150]'''\n\n    answer:\n  ",
+        "output": "100"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در باغ بازی کودکان دو چرخ و فلک نصب شده است که اولی در ۲۰ ثانیه و دیگری در ۱۵ ثانیه یک دور می‌چرخد در مدت ۳۰ بار چرخش چرخ فلک دوم،\r\nچرخ فلک اولی چند دور می‌چرخد؟\r'''\n\n    candidates:\n    '''[۲۰,۲۲ و نیم,۴۰,۴۵]'''\n\n    answer:\n  ",
+        "output": "۲۲ و نیم"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''  من ﭵﻪ ﻋﺪﺪﻯﻫستم?رقم های طبقه ی ﻫﺯارم 685وطبقه ی میلیونم  307وبقیه ی رقم های من 2 واحد بیش تر اﺯﺑﺯﺮﮒ ترین ﻋﺪﺪ ﺪورقمی  است.'''\n\n    candidates:\n    '''[307685101,307685100,685307112,685307101]'''\n\n    answer:\n  ",
+        "output": "307685101"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''دونفر پولی را به نسبت ۸،۷ تقسیم کرده اند اگر سهم برگتر این پول ۴۰۰ تومان باشد سهم کوچکتر چند تومان است؟'''\n\n    candidates:\n    '''[۲۸۰,۳۰۰,320,350]'''\n\n    answer:\n  ",
+        "output": "350"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حاصل عبارت ۷ - ۵۴ برابر است با ؟'''\n\n    candidates:\n    '''[46,-47,-46,47]'''\n\n    answer:\n  ",
+        "output": "47"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''ثلث مجموع دو عدد ۱۰ و تفاضل آنها ۴ است . عدد بزرگتر کدام است؟'''\n\n    candidates:\n    '''[۱۷,۱۳,7,3]'''\n\n    answer:\n  ",
+        "output": "۱۷"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حاصل عبارت ۱۵ - ۴۵- برابر است با ؟'''\n\n    candidates:\n    '''[-60,-59,-58,-57]'''\n\n    answer:\n  ",
+        "output": "-60"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''سن امیرعلی ، در حال حاضر یک پنجم سن پدرش است. اگر سن فعلی امیرعلی ۵ سال باشد پس از چندسال، سن او دو سوم پدرش خواهد شد؟'''\n\n    candidates:\n    '''[۶۵,۳۵,13,10]'''\n\n    answer:\n  ",
+        "output": "۳۵"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در مدت ۲ ساعت و دوازده دقیقه، عقربه ساعت شمار چند درجه تغییر مکان نشان می‌دهد؟'''\n\n    candidates:\n    '''[۶۶ درجه,۷۲ درجه ,۷۳۲ درجه ,هیچ کدام ]'''\n\n    answer:\n  ",
+        "output": "۶۶ درجه"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در ادامه این رشته اعداد چه عددی می آید ...،۲،۶،۱۵,۶۴'''\n\n    candidates:\n    '''[۲۷۰,۲۵۶,۳۲۰,۳۱۵]'''\n\n    answer:\n  ",
+        "output": "۳۱۵"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اگر در یک استوانه، شعاع، مساحت قاعده و ارتفاع را به ترتیب A،Rبا و h نشان دهیم. با ثابت ماندن حجم و\r\nنصف شدن شعاع ،( R) آنگاه:\r'''\n\n    candidates:\n    '''[A  و h دو برابر می‌شوند,A  نصف و h چهار برابر می‌شود,A  نصف و h دو برابر می‌شود,A  یک چهارم و h چهار برابر می‌شود]'''\n\n    answer:\n  ",
+        "output": "A  یک چهارم و h چهار برابر می‌شود"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''باقیمانده تقسیم کدامیک از اعداد زیر بر ۱۳، مساوی ۵ است؟'''\n\n    candidates:\n    '''[۸۶,۱۲۲,۶۶,62]'''\n\n    answer:\n  ",
+        "output": "۱۲۲"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''میانگین اولین پانزده عدد درست مثبت کدام است؟'''\n\n    candidates:\n    '''[۸,۷۵,۱۶,هیچ کدام ]'''\n\n    answer:\n  ",
+        "output": "۸"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اگر یک پنجم مجموع سه عدد ۱۵ و ۵، برابر مجموع دو عدد از آن سه عدد ۳۰۰ باشد، عدد سوم کدام است ؟'''\n\n    candidates:\n    '''[۱۰,۱۵,۲۰,۲۵]'''\n\n    answer:\n  ",
+        "output": "۲۰"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حاصل عبارت ۴ - ۱۵ برابر است با ؟'''\n\n    candidates:\n    '''[9,10,11,12]'''\n\n    answer:\n  ",
+        "output": "11"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدامیک از ۴ عدد زیر از سایرین بزرگتر است؟'''\n\n    candidates:\n    '''[سه چهارم,شش هفتم,پنج ششم,یازده دوازدهم]'''\n\n    answer:\n  ",
+        "output": "یازده دوازدهم"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اگر ادعای دانشجوئی نادرست باشد، ندادن اجازه بحث درباره آند در کلاس درس عاقلانه نیست. اگر ادعا درست باشد ندادن اجازه به دانشجو برای بحث نابخشودنی است ولی ادعای دانشجو یا درست است یا نادرست است بنابراین:'''\n\n    candidates:\n    '''[دادن اجازه بحث ، به دانشجو موجه است,ندادن اجازه بحث به دانشجو موجه است,ندادن اجازه یا غیرعاقلانه است یا نابخشودنی,ندادن اجازه بحث، هم بخشودنی و هم عاقلانه است]'''\n\n    answer:\n  ",
+        "output": "ندادن اجازه یا غیرعاقلانه است یا نابخشودنی"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در مدت 2 ساعت و دوازده دقیقه، عقربه ساعت شمار چند درجه تغییر مکان نشان میدهد؟'''\n\n    candidates:\n    '''[۶۶,۷۲,۷۳۲,هیچ کدام]'''\n\n    answer:\n  ",
+        "output": "۶۶"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''به یک نوع کالا نسبت به هشتاد درصد قیمت آن صد و بیست درصد سود بازرگانی تعلق می‌گیرد. افزایش قیمت با محاسبه سود بازرگانی چند درصد است؟'''\n\n    candidates:\n    '''[۹۶,۷۶,۱۹۶,۱۷۶]'''\n\n    answer:\n  ",
+        "output": "۹۶"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''سن کنونی محمد سه برابر سن ۶ سال قبل اوست. محمد چند ساله است؟'''\n\n    candidates:\n    '''[۹,۱۸,۲۷,36]'''\n\n    answer:\n  ",
+        "output": "۹"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حاصل عبارت ۲۳ - ۱۲۷ برابر است با ؟'''\n\n    candidates:\n    '''[-104,104,114,-114]'''\n\n    answer:\n  ",
+        "output": "104"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اگر یکی از روزهای هفته مصادف با روز اول یک ماه باشد.این روز و روز بعد آن در این ماه چند بار تکرار می‌شود؟'''\n\n    candidates:\n    '''[پنج بار,چهار بار,چهار یا پنج بار,نمی‌توان تعیین کرد]'''\n\n    answer:\n  ",
+        "output": "پنج بار"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''یک بشکه پر از بنزین است. نصف آن خالی می‌شود. حدودا چند درصد گنجایش شبکه بنزین ندارد؟'''\n\n    candidates:\n    '''[۶۶,۳۳,۵۰,هیچ کدام]'''\n\n    answer:\n  ",
+        "output": "۶۶"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''باقیمانده تقسیم کدامیک از اعداد زیر بر ۱۳،مساوی ۵ است؟'''\n\n    candidates:\n    '''[۸۶,۱۲۲,۶۶,۶۲]'''\n\n    answer:\n  ",
+        "output": "۱۲۲"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''دو شریک که به نسبت های مساوی در سود و زیان سهیمند سود و زیان سالانه را پس از کسر %۵ سود تضمین شده ی سرمایه به نسبت اول بین خود تقسیم می کنند چنانچه سود یک سال ۲۶۰۰۰۰ ریال و سرمایه اولی ۱۰۰۰۰۰۰ ریال و سرمایه ی دومی ۱۵۰۰۰۰۰ ریال باشد مبلغی که به اولی تعلق می گیرد چند ریال است؟'''\n\n    candidates:\n    '''[۵۰۰۰۰,۵۴۰۰۰,104000,125000]'''\n\n    answer:\n  ",
+        "output": "104000"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اگر۲a = ۱۰ باشد مقدار a چقدر است؟'''\n\n    candidates:\n    '''[۲,۳,۴,۵]'''\n\n    answer:\n  ",
+        "output": "۵"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام یک از اعداد به این دنباله نمی‌خورند؟ «۴٫۸٫۹٫۱۲٫۱۶»'''\n\n    candidates:\n    '''[4,8,9,16]'''\n\n    answer:\n  ",
+        "output": "9"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''از یک نقطه خارج از ﭵﻧﺪ خطی می تون عمود کرد.'''\n\n    candidates:\n    '''[یک خط,دو خط,سه خط,خیلی زیاد]'''\n\n    answer:\n  ",
+        "output": "یک خط"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''یک قفل رمزی دارای رمز ۳ رقمی فرد با ارقام ۱و۲و....و۹ میباشد.اگر رمز را ندانیم و امتحان کردن هر رمز ۲ دقیقه بطول بیانجامد حداکثر چند ساعت طول می\r\nکشد تا قفل باز شود؟\r'''\n\n    candidates:\n    '''[۱۲,۱۲/۵,۱۳,۱۳/۵]'''\n\n    answer:\n  ",
+        "output": "۱۳/۵"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام گزینه غلط است؟'''\n\n    candidates:\n    '''[نور سبب می شود تا رنگ و حجم هر چیز دیده شود,بابالا آمدن خورشیر و نزدیک شدن به ظهر، سایه ها کوتاهتر می شود,شدت و ضعف نور در چگونگی ایجاد سایه روشن بی تاتیر است,کم و زیاد شدن نور و فاصله آن با اجسام ، تغییراتی در سایه روشن به وجود می آورد]'''\n\n    answer:\n  ",
+        "output": "شدت و ضعف نور در چگونگی ایجاد سایه روشن بی تاتیر است"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مساحت لوزی را حساب کنید که قطر های آن 8 و5 سانتی متر هستند.'''\n\n    candidates:\n    '''[20,30,40,50]'''\n\n    answer:\n  ",
+        "output": "20"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حاصل عبارت ۱۲ - ۸۷ برابر است با ؟'''\n\n    candidates:\n    '''[-75,65,75,-65]'''\n\n    answer:\n  ",
+        "output": "75"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''؟ و ۹ و۷ و ۵ و ۳'''\n\n    candidates:\n    '''[۱۰,۱۱,۱۲,۱۳]'''\n\n    answer:\n  ",
+        "output": "۱۱"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''چند لیتر سرکه به ارزش هر لیتر ۶۵ ریال را با سرکه به ارزش هر لیتر ۵۵ ریال باید ممزوج کرد تا ۱۵ لیتر سرکه به ارزش ۹۱۵ ریال به دست آید؟'''\n\n    candidates:\n    '''[۱۰,۹,۸,۷]'''\n\n    answer:\n  ",
+        "output": "۹"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حاصل عبارت ۳ + ۶۷ برابر است با ؟'''\n\n    candidates:\n    '''[60,69,70,72]'''\n\n    answer:\n  ",
+        "output": "70"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''%90 عدد 70 برابر است با ....'''\n\n    candidates:\n    '''[54,60,7,14]'''\n\n    answer:\n  ",
+        "output": "54"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اگر نیمی از یک سالن ۵ در ۹ را با سنگ های سیاه به مساحت ۰.۴۵ متر مربع و نیم دیگر را با سنگ های سفید به مساحت ۱ سوم سنگهای سیاه بپوشانیم، چند عدد سنگ سفید لازم است؟'''\n\n    candidates:\n    '''[۵۰,۲۴,۱۵۰,96]'''\n\n    answer:\n  ",
+        "output": "۱۵۰"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حجم یک استوانه که یک قاعده آن یک پیستون متحرک است ۶۰ سانتی متر مکعب است.در اثر حرکت پیستون حجم گاز داخل استوانه به ۴۸ سانت متر مکعب می رسد.چند درصد از حجم گاز کاسته شده است؟'''\n\n    candidates:\n    '''[%۲۰,%۲۸.۸,%۸۰,7.20%]'''\n\n    answer:\n  ",
+        "output": "%۲۰"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدامیک ازاعداد زیرازعدد 11 کوچکتراست؟'''\n\n    candidates:\n    '''[10,12,13,14]'''\n\n    answer:\n  ",
+        "output": "10"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''%10 عدد 340 برابر است با ....'''\n\n    candidates:\n    '''[34,43,68,17]'''\n\n    answer:\n  ",
+        "output": "34"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام عدد بعد از این سری باید بیاید؟ 25 - 24 - 22 - 19 - 15 - ؟'''\n\n    candidates:\n    '''[10,9,11,]'''\n\n    answer:\n  ",
+        "output": "10"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''50 تا 20 تا برابر است با ......'''\n\n    candidates:\n    '''[10000,100,1000,500]'''\n\n    answer:\n  ",
+        "output": "1000"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حاصل عبارت ۱۷۵ + ۲۶۰ برابر است با ؟'''\n\n    candidates:\n    '''[543,345,425,435]'''\n\n    answer:\n  ",
+        "output": "435"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''یک یخچال به ۲۷۳۰ تومان با %۳۰ سود فروخته شده است اگر این یخچال با ۱۰ درصد سود فروخته شود،\r\nقیمت آن چقدر است؟\r'''\n\n    candidates:\n    '''[۲۱۰۰ تومان,۲۳۱۰ تومان,۲۲۱۰ تومان,۲۴۰۰ تومان]'''\n\n    answer:\n  ",
+        "output": "۲۳۱۰ تومان"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''یک سوم مجموع دو عدد مثبت مساوی تفاضل آنهاست. در این صورت:'''\n\n    candidates:\n    '''[عدد بزرگتر ۲ برابر عدد کوچکتر است.,عدد بزرگتر ۳ برابر عدد کوچکتر است.,عدد بزرگتر ۴ برابر عدد کوچکتر است.,عدد بزرگتر ۱/۵ برابر عدد کوچکتر است.]'''\n\n    answer:\n  ",
+        "output": "عدد بزرگتر ۲ برابر عدد کوچکتر است."
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''ساختار کدام کلمه، با دیگران ناهماهنگ است؟'''\n\n    candidates:\n    '''[برده,پرده,نرده,زرده]'''\n\n    answer:\n  ",
+        "output": "زرده"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    ''' باتوجه به عبارت روبه رومقسوم علیه کدام است.        54/6'''\n\n    candidates:\n    '''[25,30,9,759]'''\n\n    answer:\n  ",
+        "output": "9"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    ''' به اندازه ی دور هر شکل----------------------میﮔویند .'''\n\n    candidates:\n    '''[مساحت,محیط,حجم,همه ی موارد]'''\n\n    answer:\n  ",
+        "output": "محیط"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''از ترکیب رقمهای ۳، ۵، ۹ چند عدد سه رقمی می‌توان نوشت که در هیچ کدام از آنها رقم تکراری وجود نداشته باشد؟'''\n\n    candidates:\n    '''[۳,۴,۶,۸]'''\n\n    answer:\n  ",
+        "output": "۶"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''بعدهای داخلی یک صندوق به شکل مکعب مستطیل، ۴۰ و ۸۰ و ۵۰ سانتی متر است حداکثر چند قوطی مکعب شکل به بعد ۲۰ سانتیمتر داخل آن می‌توان\r\nگذاشت؟\r\n'''\n\n    candidates:\n    '''[۲۰,۸۰,۱۶,۱۶۰۴]'''\n\n    answer:\n  ",
+        "output": "۱۶"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''دریک کلاس %۶۵ از دانش آموزان بزرگتر از مجید و ۳۲ درصد بزرگتر از امیرعلی هستند . چند درصد کلاس از مجید بزرگتر ولی از امیرعلی بزرگتر نیستند؟'''\n\n    candidates:\n    '''[%۳۵,%۹۷,%۳,%۳۳]'''\n\n    answer:\n  ",
+        "output": "%۳۳"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''محیط یک چرخ ۲ واحد از محیط چرخ دیگر بیشتر است. تفاوت بین دو شعاع چرخ‌ها حداکثر چقدر است؟'''\n\n    candidates:\n    '''[۲,۱,۳,۴]'''\n\n    answer:\n  ",
+        "output": "۱"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حاصل عبارت ۲۴ - ۲۴۳ برابر است با ؟'''\n\n    candidates:\n    '''[219,-219,210,-210]'''\n\n    answer:\n  ",
+        "output": "219"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''تمام سطح یک مکعب ۱۵۰ سانتی متر مربع است حجم این مکعب چند سانتی متر مکعب است؟'''\n\n    candidates:\n    '''[۲۵,۱۵۰,۱۲۵,نمی توان تایین کرد ]'''\n\n    answer:\n  ",
+        "output": "۱۲۵"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مریم ۵ برابر سوسن و سوسن نصف زهره و فرهاد ۲ برابر مجموع این سه نفر پول دارد. نسبت پول فرهاد به\nپول سوسن کدام است؟\n'''\n\n    candidates:\n    '''[۱۴,۱۵,۱۶,۱۸]'''\n\n    answer:\n  ",
+        "output": "۱۶"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''همه دانش آموزان این دبیرستان بیش از ۱۴ سال دارند.فرهاد ۱۲ ساله است.فرهاد دانش آموز این دبیرستان است اگر جمله اول و دوم درست باشند جمله سوم'''\n\n    candidates:\n    '''[حتما درست نیست,حتما درست‌است,ممکن است درست باشد,ممکن است درست نباشد]'''\n\n    answer:\n  ",
+        "output": "حتما درست نیست"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''جمعیت دهکده محمودآباد بالا، از ۸۰۰۰ نفر کمتر و جمعیت دهکده محمودآباد پایین نزدیک به ۵۰۰۰ نفر است. کدام یک از نتیجه گیری‌های زیر قطعی است؟'''\n\n    candidates:\n    '''[جمعیت محمودآباد بالا از جمعیت محمودآباد پایین بیشتر است.,جمعیت محمودآباد بالا از جمعیت محمودآباد پایین کمتر است.,جمعیت دو دهکده نزدیک به ۱۳۰۰۰ نفر است.,جمعیت دو دهکده از ۱۳۰۰۰ نفر کمتر است.]'''\n\n    answer:\n  ",
+        "output": "جمعیت دو دهکده از ۱۳۰۰۰ نفر کمتر است."
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''تفاوت سن علیرضا و خواهرش A سال است B سال دیگر سن علیرضا دوبرابر سن امروز خواهرش خواهد بود .سن خواهر علیرضا کدام است؟'''\n\n    candidates:\n    '''[2A,2A+B,3A+B,A-B]'''\n\n    answer:\n  ",
+        "output": "2A+B"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کاری را ۸ کارگر در ۲۰ روز به پایان می رسانند . اگر ۲ نفر اضافه شوند این کار در چند روز تمام می شود؟'''\n\n    candidates:\n    '''[۲۵,۱۶,۱۵,۱۴]'''\n\n    answer:\n  ",
+        "output": "۱۶"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''؟ و ۹۱۰و ۸ و ۶۷ و ۵ و ۳۴ و ۲'''\n\n    candidates:\n    '''[۹۱۱,۱۱,۱۸۱۲,۹۴۲]'''\n\n    answer:\n  ",
+        "output": "۱۱"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''موتورسواری با سرعت متوسط ۶۰ کیلومتر در ساعت فاصله بین دو شهر را طی می‌کند و همین فاصله را با\r\nسرعت متوسط ۴۰ کیلومتر در ساعت برمی گردد. سرعت متوسط او برای تمام مسیر رفت و برگشت عبارت\r\nاست از :\r'''\n\n    candidates:\n    '''[۵۳ کیلومتر در ساعت,۵۰ کیلومتر در ساعت,۴۸ کیلومتر در ساعت,۵۲ کیلومتر در ساعت]'''\n\n    answer:\n  ",
+        "output": "۴۸ کیلومتر در ساعت"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''زمینی به ۳۱ قطعه متساوی مفروض شده است و هر روز مساحت آماده شده برای احداث، دو برابر مساحت روز قبل است.اگر پس از (۵ روز) تمام زمین آماده شده باشد، در چه روزی یک قطعه زمین آماده شده'''\n\n    candidates:\n    '''[روز اول,روز دوم,روز سوم,هیچکدام]'''\n\n    answer:\n  ",
+        "output": "روز اول"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اگر ۳ مرغ در ۳ روز ۳ دانه تخم بگذارند ۹ مرغ در مدت ۹ روز چند دانه تخم می‌گذارند؟'''\n\n    candidates:\n    '''[۹,۱۸,۳۶,۲۷]'''\n\n    answer:\n  ",
+        "output": "۲۷"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اگر دكتر به شما 3 قرص بدهد و بگوید هر نیم ساعت 1 قرص بخور چقدر طول میكشد تا تمام قرصها خورده شود؟'''\n\n    candidates:\n    '''[یک ساعت,یک و نیم ساعت,2 ساعت,]'''\n\n    answer:\n  ",
+        "output": "یک ساعت"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''شهرام از بهرام کوچکتر است. مهرام از بهرام بزرگتر است. شهرام از مهرام کوچکتر است. اگر جمله های اول و دوم درست باشد، جمله سوم:'''\n\n    candidates:\n    '''[به طور قطع درست است.,به طور قطع نادرست است.,ممکن است درست نباشد.,ممکن نیست درست باشد.]'''\n\n    answer:\n  ",
+        "output": "به طور قطع درست است."
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''معدل دریافتی یک روز ۷ نفر کارمند یک فروشگاه ۷۵۰ ریال است. هیچیک از آنها بیشتر از ۸۰۰ ریال دریافت نمی‌کنند کمترین مبلغ دریافتی یک نفر، چند ریال می‌تواند باشد؟'''\n\n    candidates:\n    '''[۷۵۰ ریال,۷۰۰ ریال,\n۴۵۰ ریال,۹۰۰ ریال]'''\n\n    answer:\n  ",
+        "output": "\n۴۵۰ ریال"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''پیشرفت سریع دانش پزشکی در ربع قرن اخیر هر انسان متفکری را ...'''\n\n    candidates:\n    '''[به فکر می‌اندازد,به تحسین وا می‌دارد,دچار تردید می‌کند,مأیوس می‌سازد]'''\n\n    answer:\n  ",
+        "output": "به تحسین وا می‌دارد"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اگر اتومبیلی با سرعت ۹۰ کیلومتر در ساعت در حرکت باشد در هشت دقیقه چند کیلومتر را می پیماید؟'''\n\n    candidates:\n    '''[۱۱,۱۲,۱۵,۱۸]'''\n\n    answer:\n  ",
+        "output": "۱۲"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''برای رسیدن به یک نقطه مرتفع در بالای یک تپه، چندین راه پله و در هر طبقه یک توقفگاه در زمین هموار ساخته شده است. راه پله اول ۱۵ و راه پله دوم ۱۳ پله و هر طبقه بالاتر دو پله کمتر از طبقه قبل از آن دارد. اگر در آخرین راه پله ۵ پله باشد، چند طبقه وجود داشته است؟'''\n\n    candidates:\n    '''[۱۰,۷,۶,نمی توان تعیین کرد]'''\n\n    answer:\n  ",
+        "output": "۶"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''توجه به رابطه اعداد عدد بعدی کدام است ...،۶،۱۳،۳۴،۹۷؟'''\n\n    candidates:\n    '''[۹۸,۱۰۶,۱۹۵,۲۸۶]'''\n\n    answer:\n  ",
+        "output": "۲۸۶"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اگر در طول یک الوار چوبی ۱۲ متری، ۶ برش به فاصله های مساوی داده شده باشد. الوار به چند قطعه تقسیم می‌شود؟'''\n\n    candidates:\n    '''[۶,۸,۷,۵]'''\n\n    answer:\n  ",
+        "output": "۷"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''معدل نمره امتحان یک درس چند نفر دانش آموز ۱۴ و مجموع نمره های آنها ۲۱۰ می‌باشد.تعداد دانش آموزان چند نفر است؟'''\n\n    candidates:\n    '''[۳۰,۱۵,۲۰,هیچ کدام]'''\n\n    answer:\n  ",
+        "output": "۱۵"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حاصل عبارت ۱ - ۳ برابر است با ؟'''\n\n    candidates:\n    '''[2,4,6,7]'''\n\n    answer:\n  ",
+        "output": "2"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حاصل عبارت ۴۵ + ۵۴ برابر است با ؟'''\n\n    candidates:\n    '''[100,96,99,89]'''\n\n    answer:\n  ",
+        "output": "99"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حاصلضرب دو عدد متوالی و مثبت از مجموع آنها ۸۹ واحد بیشتر است عدد کوچکتر کدام است؟'''\n\n    candidates:\n    '''[۱۱,۱۰,۱۸,۲۱]'''\n\n    answer:\n  ",
+        "output": "۱۱"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''به اجناس فروشگاه دوبار در یک ماه %۱۰ تخفیف داده شد ه است چند درصد نسبت به قیمت اولیه تخفیف داده شده است؟'''\n\n    candidates:\n    '''[20%,21%,19%,هیچکدام]'''\n\n    answer:\n  ",
+        "output": "19%"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اگر محسن از پول فعلی‌اش %۶ بیشتر داشت، جمع پول او ۴۷۷۰ ریال بود، محسن چقدر پول داشته است؟'''\n\n    candidates:\n    '''[۴۲۰۰,۴۴۰۰,۴۵۰۰,۴۶۰۰]'''\n\n    answer:\n  ",
+        "output": "۴۵۰۰"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''عده دانش آموزان دختر سه برابر عده دانش آموزان پسر دریک کلاس می‌باشد. کدام یک از عددهای زیر نمی‌تواند عده دانش آموزان این کلاس را نشان دهد؟'''\n\n    candidates:\n    '''[۲۴,۳۲,۲۶,۳۶]'''\n\n    answer:\n  ",
+        "output": "۲۶"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حاصل عبارت ۱۳۴ - ۱۲۰ برابر است با ؟'''\n\n    candidates:\n    '''[-14,14,4,-4]'''\n\n    answer:\n  ",
+        "output": "-14"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''یک اتومبیل سواری و یک اتوبوس همزمان از دو شهر به طرف هم حرکت می‌کنند. سرعت متوسط سواری ۷۰ کیلومتر در ساعت است و پس از طی هر ۷۰ کیلومتر، ۱۰ دقیقه توقف می‌کند. سرعت متوسط اتوبوس ۶۰ کیلومتر در ساعت است و بدون توقف راه می‌پیماید. این دو در کدام نقطه از مسیر از کنار هم می‌گذرند؟'''\n\n    candidates:\n    '''[در محلی که اتوبوس مسافت بیشتری را طی کرده باشد.,در محلی که اتومبیل مسافت بیشتری را طی کرده باشد.,در وسط راه,\nبستگی به فاصله بین دو شهر دارد.]'''\n\n    answer:\n  ",
+        "output": "\nبستگی به فاصله بین دو شهر دارد."
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''برای جمع یک عدد زوج و فرد با یکدیگر کدامیک از عبارتهای زیر حتما درست است؟'''\n\n    candidates:\n    '''[همیشه حاصل جمع یک عدد فرد است.,گاهی حاصل جمع یک عدد زوج است.,همیشه حاصل جمع یک عدد اول است.,همیشه حاصل جمع بر ۳ یا ۵ یا ۷ قابل قسمت است]'''\n\n    answer:\n  ",
+        "output": "همیشه حاصل جمع یک عدد فرد است."
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مساحت مربع ۸ ،p برابر مساحت مربع Q است. نسبت قطر مربع p به ضلع مربع Q کدامست؟'''\n\n    candidates:\n    '''[۴,۲,۳,۱]'''\n\n    answer:\n  ",
+        "output": "۴"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اگر ترتیب رقمهاي یک عدد دو رقمی عوض شود، عدد حاصل فقط بر 7 و 3 قابل قسمت مـیباشـد. آن عـدد کدام است؟'''\n\n    candidates:\n    '''[۲۱,۱۲,۴۲,۲۴]'''\n\n    answer:\n  ",
+        "output": "۱۲"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''دو شریک که به نسبت های مساوی در سود و زیان سهیمند سود و زیان سالانه را پس از کسر %۵ سود تضمین شده ی سرمایه به نسبت اول بین خود تقسیم می\nکنند چنانچه سود یک سال ۲۶۰۰۰۰ ریال و سرمایه اولی ۱۰۰۰۰۰۰ ریال و سرمایه ی دومی ۱۵۰۰۰۰۰ ریال باشد مبلغی که به اولی تعلق می گیرد چند ریال است؟\n'''\n\n    candidates:\n    '''[۵۰۰۰۰,۵۴۰۰۰,۱۰۴۰۰۰,۱۲۵۰۰۰]'''\n\n    answer:\n  ",
+        "output": "۱۰۴۰۰۰"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در ادامه این رشته اعداد چه عددی می آید               2, 6, 16, 64, …'''\n\n    candidates:\n    '''[۲۷۰,۲۵۶,۳۲۰,۳۱۵]'''\n\n    answer:\n  ",
+        "output": "۳۱۵"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    ''' نمره نسترن ﺪﺮنیمسال ﺪوم ﭵﻧﻴن است :ریاضی 16 –علوم 19- فارسی 20-دیکته 17-ورﺰش 19 هنر17وهدیه اسمان?اﮔﺮمعدل نسترن  در این نیم سال 18 باشد اودر درس هدیه اسمانی ﭵﻪنمره ای ﮔﺮفته است.'''\n\n    candidates:\n    '''[16,17,18,19]'''\n\n    answer:\n  ",
+        "output": "18"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اگر یک سوم چوبی در زمین و یک دوم « در آب و قسمت بالائی‌آن که بیرون از آب قرار دارد ۱/۵ متر باشد،طول چوب چقدر است؟'''\n\n    candidates:\n    '''[4.5,6,9,10.5]'''\n\n    answer:\n  ",
+        "output": "9"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''۲۰۰-در ۶ شعبه رستوران جمعا ۱۲۰ کارگر کار می کنند ، اگر تعداد کارگان هر شعبه کمتر ۱۲ از ۱۲ نفر و بیش از ۳۶ نفر نباشند حداکثر تعداد کارگران دو شعبه چند نفر است؟'''\n\n    candidates:\n    '''[۷۲,۹۶,۲۴,48]'''\n\n    answer:\n  ",
+        "output": "۷۲"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اگر روز دوم یک ماه سه شنبه باشد کدام روزهاي دیگر دهه سوم این ماه سه شنبه خواهند بود؟'''\n\n    candidates:\n    '''[بیست و دوم و بیست و نهم,بیست و یکم و بیست و هشتم,بیست و سوم و سیام,بیست و دوم و سیام]'''\n\n    answer:\n  ",
+        "output": "بیست و سوم و سیام"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''شخصی جنسی را به ۲۰۰۰ ریال خریده بود به ۲۴۰۰ ریال فروخت. حال اگر جنسی را به ۶۰۰۰ ریال بفروشد به چند ریال خریده بود؟'''\n\n    candidates:\n    '''[۵۴۰۰,۵۲۰۰,۵۰۰۰,۲۸۰۰]'''\n\n    answer:\n  ",
+        "output": "۵۰۰۰"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''یک مخزن بنزین، دو مجرا دارد، اولی مخزن را در ۶ ساعت و هر دو مجرا با هم آن را در ۴ ساعت خالی\nمی‌کنند، در صورتی که مخزن خالی و فقط مجرای دوم باز باشد مخزن در چند ساعت خالی می‌شود؟\n'''\n\n    candidates:\n    '''[۱۲ ساعت,۸ ساعت,۴ ساعت,۳ ساعت]'''\n\n    answer:\n  ",
+        "output": "۸ ساعت"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    ''' اگر ترتیب رقم‌های یک عدد دو رقمی عوض شود، عدد حاصل فقط بر ۷ و ۳ قابل قسمت می‌باشد. آن عدد کدام است؟'''\n\n    candidates:\n    '''[۲۱,۱۲,۴۲,۲۴]'''\n\n    answer:\n  ",
+        "output": "۱۲"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''حاصل 10*9*8  با فاکتوریل کدام عدد طبیعی است؟'''\n\n    candidates:\n    '''[۶,۷,۸,۹]'''\n\n    answer:\n  ",
+        "output": "۶"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''معدل مقادیر ۸۲ ،x و ۶۸ برابر ۷۰ است. مقدار x چقدر است؟'''\n\n    candidates:\n    '''[۵۰,۶۰,۷۵,۸۴]'''\n\n    answer:\n  ",
+        "output": "۶۰"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مساحت مستطیل A با مساحت مستطیل B برابر است اگر عرض مستطیل %۸۰ ،B عرض مستطیل A باشد طول مستطیل B چند درصد طول مستطیل A است؟'''\n\n    candidates:\n    '''[۱۲۰٪,۱۲۰٪,۱۲۵٪,۱۳۰٪]'''\n\n    answer:\n  ",
+        "output": "۱۲۵٪"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''در یک طرف کوچه ای شماره پلاک ها زوج و از ۲۰ تا ۵۲ است در این طرف کوچه چند خانه وجود دارد که مجموع رقم های پلاک آنها ۷ می باشد؟'''\n\n    candidates:\n    '''[فقط یک,۳,۲,۴]'''\n\n    answer:\n  ",
+        "output": "۲"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''چند عدد بین ۱۰۰ و ۳۰۰ وجود دارد که با رقم ۲ شروع و یا به آن ختم می‌شود؟'''\n\n    candidates:\n    '''[۲۰,۱۱۰,۱۰۰,۱۵۰]'''\n\n    answer:\n  ",
+        "output": "۱۱۰"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''یک دلال r درصد در هر معامله حق‌الزحمه می‌گیرد. دریک معامله به ارزش 5 تومان چه مقدار حق‌الزحمه\r\nمی‌گیرد؟\r'''\n\n    candidates:\n    '''[rs/۱۰۰,۱۰۰rs,r/۱۰۰,rs]'''\n\n    answer:\n  ",
+        "output": "rs/۱۰۰"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''مغازه داری با حراج کردن جنس‌هایش می‌خواهد قیمت آنها را %۲۰ کمتر از اتیکت‌هایش بفروشد، برای آنکه اجناس خود را به قیمت قبلی بفروشد قیمت اتیکت‌ها را چند درصد باید بالا ببرد؟'''\n\n    candidates:\n    '''[٪۲۵,٪۲۱,٪۲۴,٪۲۰]'''\n\n    answer:\n  ",
+        "output": "٪۲۵"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''پیشرفت سریع دانش پزشکی در ربع قرن اخیر هر انسان متفکری را'''\n\n    candidates:\n    '''[به فکر می‌اندازد ,به تحسین وامی‌دارد ,دچار تردید می‌کند,مأیوس می‌سازد]'''\n\n    answer:\n  ",
+        "output": "به تحسین وامی‌دارد "
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدام واژه با سه واژه دیگر متفاوت است؟ (یم به معنی دریاست)'''\n\n    candidates:\n    '''[نم,یم,بم,دم]'''\n\n    answer:\n  ",
+        "output": "دم"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''اگر 23 تیر ماه چهارشنبه باشد، پنجم مرداد ماه همان سال کدام روز هفته است؟'''\n\n    candidates:\n    '''[سه شنبه,چهارشنبه,دوشنبه,جمعه]'''\n\n    answer:\n  ",
+        "output": "سه شنبه"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''چند درصد ۵۰۰۰ برابر ۵ می‌شود؟'''\n\n    candidates:\n    '''[۱۰۰,۱,یک دهم,یک صدم]'''\n\n    answer:\n  ",
+        "output": "۱"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''پدری کاری را در ۶ روز و پسرش در ۱۲ روز به انجام می رساند .اگر این دو با هم کار کنند آن کار در چند روز تمام می شود؟'''\n\n    candidates:\n    '''[۴,۶,۹,۱۸]'''\n\n    answer:\n  ",
+        "output": "۴"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''A  در جنوب B قرار دارد . C در غرب B قرار D.دارد در شرق قرار دارد بنابراین :؟'''\n\n    candidates:\n    '''[A در جنوبشرقی C قرار دارد,در جنوبغربی C قراردارد,C در شمال شرقی A قراردارد,D در غرب C قرار دارد]'''\n\n    answer:\n  ",
+        "output": "A در جنوبشرقی C قرار دارد"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''همه دانشمندا با سواد هستند و عده ای هم اختراعی کرده اند. بر اساس این مفروضات بالا کدام حکم درست است؟'''\n\n    candidates:\n    '''[بعضی مخترعان بی سواد بوده اند,دانشمندان با سواد مخترع نیز هستند,همه مخترعان با سواد بوده اند,همه مخترعان دانشمند بوده اند]'''\n\n    answer:\n  ",
+        "output": "بعضی مخترعان بی سواد بوده اند"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''کدامیک ازاعداد زیرازعدد 2 کوچکتراست؟'''\n\n    candidates:\n    '''[1,3,4,5]'''\n\n    answer:\n  ",
+        "output": "1"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''برچسب قیمت یک میز تحریر 9000 ریال است. این میز 7500 ریال فروخته شده است. نـرخ تخفیـف کـدام است؟'''\n\n    candidates:\n    '''[۱۵٪,۱۸٪,۲۰٪,۱۶٪]'''\n\n    answer:\n  ",
+        "output": "۱۶٪"
+    },
+    {
+        "instruction": "In this task, you will be presented with a multiple-choice question in Persian, and you should answer the question based on your knowledge. choose the answer from the given candidates.",
+        "input": "question:\n    '''منبع ۷۸۰ ،A لیتر آب بیشتر از منبع B دارد به وسیله یک مجرا ۱۲۰ لیتر آب منبع A وارد منبع B می‌شود\r\nمنبع A چند لیتر آب بیشتر از منبع B دارد؟\r'''\n\n    candidates:\n    '''[۶۶۰ لیتر,۵۴۰ لیتر,۹۰۰ لیتر,۷۲۰ لیتر]'''\n\n    answer:\n  ",
+        "output": "۵۴۰ لیتر"
+    }
+]
